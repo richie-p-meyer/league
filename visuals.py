@@ -30,3 +30,12 @@ def get_tstat(train):
     tstat = pd.concat(temp_list)
     tstat.p_value = tstat.p_value.round(decimals=2)
     return tstat
+
+def plot_model():
+    plt.bar(1,.52, label = 'Baseline')
+    plt.bar(2, .594, label = 'Model')
+    plt.title('Model Vs. Baseline')
+    plt.xticks(ticks=[1,2],labels=['Baseline','Model'])
+    plt.ylabel('Accuracy')
+    plt.xlabel('Model')
+    plt.show()
