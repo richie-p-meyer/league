@@ -27,24 +27,26 @@ With legilization sweeping the nation, online sports betting is at an all-time h
 7. Create model
 
 ### Data Dictionary:
-'gamelength' | Length in minutes
-'teamkills' | Kills on opponent
-'teamdeaths' | Deaths on team
-'firstblood' | First to get a kill
-'dragons' | How many dragons killed
-'barons' | How many barons killed
-'opp_barons' | How many barons opponent killed
-'towers' | How many towers destroyed
-'opp_towers' | How many of teams towers destroyed by opponent
-'inhibitors' | How many inhibitors destroyed
-'opp_inhibitors' | How many of teams inhibitors destroyed by opponent
-'damagetochampions' | Total damage to enemy champions
-'damagetakenperminute' | How much damage team took per minute
-'wardsplaced' | How many ward placed on map
-'wardskilled' | How many enemy wards killed
-'controlwardsbought' | How many wards team bought
-'totalgold' | Gold earned throughout game
-'gspd' | Gold spent percentage differential (how much gold team used compared to opponent)
+| Feature | Definition |
+|:--|:--|
+|'gamelength' | Length in minutes|
+|'teamkills' | Kills on opponent|
+|'teamdeaths' | Deaths on team|
+|'firstblood' | First to get a kill|
+|'dragons' | How many dragons killed|
+|'barons' | How many barons killed|
+|'opp_barons' | How many barons opponent killed|
+|'towers' | How many towers destroyed|
+|'opp_towers' | How many of teams towers destroyed by opponent|
+|'inhibitors' | How many inhibitors destroyed|
+|'opp_inhibitors' | How many of teams inhibitors destroyed by opponent|
+|'damagetochampions' | Total damage to enemy champions|
+|'damagetakenperminute' | How much damage team took per minute|
+|'wardsplaced' | How many ward placed on map|
+|'wardskilled' | How many enemy wards killed|
+|'controlwardsbought' | How many wards team bought|
+|'totalgold' | Gold earned throughout game|
+|'gspd' | Gold spent percentage differential (how much gold team used compared to opponent)|
 
 ### Questions:
 1. Does blue_side affect result?
@@ -57,13 +59,13 @@ With legilization sweeping the nation, online sports betting is at an all-time h
 8. Does wardskilled affect result?
 
 ### Takeaways:
--This model beats the baseline by a substantial amount with more room for improvement
--It is unclear whether it is possible to use this model to make a million dollars
+-This model beats the baseline by a substantial amount with more room for improvement  
+-It is unclear whether it is possible to use this model to make a million dollars  
 
 ### Next Steps:
--Add tier 2 leagues
--Add individual stats 
--Add at 15 min mark stats
--Incorporate champion picks
--Incorporate betting odds
--Automate script
+-Add tier 2 leagues  
+-Add individual stats   
+-Add at 15 min mark stats  
+-Incorporate champion picks  
+-Incorporate betting odds  
+-Automate script  
