@@ -1,18 +1,20 @@
-Project Description:
+# League of Legends eSport Betting
+
+### Project Description:
 With legilization sweeping the nation, online sports betting is at an alltime high. For most, it is pure gambling - place a bet and hope you win! However, for some it is a business - devising tools and techniques to gain the edge. Unfortunately, sports betting is ridiculously competitive with predictive models and analysts flooding the marketplace. Gaining an edge is difficult! But what about the newly emerging field of eSports - is there easy money to be made? League of Legends is a MOBA eSport that was released in 2009. Over the past decade a strong professional scene has developed. There are currently 9 'Tier 1' leagues across the globe that serve as a path towards the World Championship each year. Big money is involved, with top players signing multi-million dollar contracts. World Championship viewership exceeded that of the World Series and Stanley Cup in 2016. Despite all this, eSports betting is far less common than traditional sports. Is there an opportunity?
 
-Goals:
+### Goals:
 1. Determine drivers of result (winning/losing)
 2. Create a model that predicts game winners at a high enough rate to make money in eSports betting
 
-To Reproduce:
+### To Reproduce:
 -Clone repo
 -Run 'final_project.ipynb'
 
-Executive Summary:
+### Executive Summary:
 -Our model accurately predicts professional matches at 59.4%. It is unclear if that is a high enough accuracy to make money betting.
 
-Planning:
+### Planning:
 -Research professional League scene
 -Determine which leagues can be bet upon
     -Which leagues should I use in my model?
@@ -24,7 +26,7 @@ Planning:
 -Create Baseline
 -Create model
 
-Data Dictionary:
+### Data Dictionary:
 'gamelength' - Length in minutes
 'teamkills' - Kills on opponent
 'teamdeaths' - Deaths on team
@@ -44,7 +46,7 @@ Data Dictionary:
 'totalgold' - Gold earned throughout game
 'gspd' - Gold spent percentage differential (how much gold team used compared to opponent)
 
-Questions:
+### Questions:
 1. Does blue_side affect result?
 2. Does firstblood affect result?
 3. Does gspd affect result?
@@ -54,11 +56,11 @@ Questions:
 7. Does wardsplaced affect result?
 8. Does wardskilled affect result?
 
-Takeaways:
+### Takeaways:
 -This model beats the baseline by a substantial amount with more room for improvement
 -It is unclear whether it is possible to use this model to make a million dollars
 
-Next Steps:
+### Next Steps:
 -Add tier 2 leagues
 -Add individual stats 
 -Add at 15 min mark stats
