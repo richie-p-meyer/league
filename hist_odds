@@ -1,0 +1,2665 @@
+,team_a,team_b,a_odds,b_odds,winning_odds,losing_odds,year,league
+0,LGD Gaming,Invictus Gaming,158,-208,158,-208,2020,lpl
+1,Invictus Gaming,FunPlus Phoenix,-164,125,-164,125,2020,lpl
+2,Weibo Gaming,LGD Gaming,-164,124,-164,124,2020,lpl
+3,Top Esports,JD Gaming,-189,142,-189,142,2020,lpl
+4,Weibo Gaming,LGD Gaming,-114,-116,-114,-116,2020,lpl
+5,JD Gaming,LGD Gaming,-270,197,-270,197,2020,lpl
+6,Top Esports,Weibo Gaming,-270,199,-270,199,2020,lpl
+7,Invictus Gaming,LGD Gaming,-370,250,250,-370,2020,lpl
+8,Weibo Gaming,Victory Five,-120,-108,-120,-108,2020,lpl
+9,LGD Gaming,Team WE,-192,146,-192,146,2020,lpl
+10,Victory Five,FunPlus Phoenix,104,-137,104,-137,2020,lpl
+11,FunPlus Phoenix,Weibo Gaming,149,-200,-200,149,2020,lpl
+12,Invictus Gaming,Rare Atom,-435,309,309,-435,2020,lpl
+13,Anyone's Legend,Royal Never Give Up,250,-345,-345,250,2020,lpl
+14,Top Esports,Team WE,-345,247,-345,247,2020,lpl
+15,Ultra Prime,EDward Gaming,204,-278,-278,204,2020,lpl
+16,LNG Esports,TT Gaming,-294,222,-294,222,2020,lpl
+17,JD Gaming,Oh My God,-714,430,-714,430,2020,lpl
+18,Weibo Gaming,Rare Atom,-217,166,-217,166,2020,lpl
+19,Royal Never Give Up,Bilibili Gaming,-333,240,240,-333,2020,lpl
+20,Victory Five,Anyone's Legend,-357,261,-357,261,2020,lpl
+21,Ultra Prime,Top Esports,589,-1111,-1111,589,2020,lpl
+22,LNG Esports,LGD Gaming,293,-417,293,-417,2020,lpl
+23,Oh My God,Team WE,279,-400,279,-400,2020,lpl
+24,EDward Gaming,Victory Five,204,-278,204,-278,2020,lpl
+25,Bilibili Gaming,LGD Gaming,224,-303,-303,224,2020,lpl
+26,FunPlus Phoenix,TT Gaming,-1667,752,-1667,752,2020,lpl
+27,Top Esports,Royal Never Give Up,-526,341,341,-526,2020,lpl
+28,Ultra Prime,Team WE,271,-400,-400,271,2020,lpl
+29,Victory Five,JD Gaming,214,-286,214,-286,2020,lpl
+30,Invictus Gaming,Oh My God,-714,442,-714,442,2020,lpl
+31,EDward Gaming,Bilibili Gaming,-156,121,-156,121,2020,lpl
+32,Anyone's Legend,LNG Esports,-244,184,184,-244,2020,lpl
+33,LGD Gaming,Rare Atom,-182,135,-182,135,2020,lpl
+34,Royal Never Give Up,TT Gaming,-714,434,-714,434,2020,lpl
+35,Team WE,Victory Five,129,-169,-169,129,2020,lpl
+36,Top Esports,Weibo Gaming,-370,270,-370,270,2020,lpl
+37,FunPlus Phoenix,LGD Gaming,-141,108,-141,108,2020,lpl
+38,JD Gaming,Ultra Prime,-769,471,-769,471,2020,lpl
+39,EDward Gaming,LNG Esports,-294,217,-294,217,2020,lpl
+40,Bilibili Gaming,Anyone's Legend,119,-154,119,-154,2020,lpl
+41,TT Gaming,Rare Atom,326,-500,-500,326,2020,lpl
+42,Oh My God,Weibo Gaming,288,-400,-400,288,2020,lpl
+43,Invictus Gaming,Top Esports,147,-192,147,-192,2020,lpl
+44,Bilibili Gaming,JD Gaming,386,-588,-588,386,2020,lpl
+45,EDward Gaming,FunPlus Phoenix,187,-256,-256,187,2020,lpl
+46,Rare Atom,Oh My God,-250,186,-250,186,2020,lpl
+47,Royal Never Give Up,LGD Gaming,104,-135,-135,104,2020,lpl
+48,Victory Five,Weibo Gaming,-182,141,141,-182,2020,lpl
+49,LNG Esports,JD Gaming,649,-1250,-1250,649,2020,lpl
+50,TT Gaming,Top Esports,969,-2500,-2500,969,2020,lpl
+51,Team WE,Bilibili Gaming,-244,181,-244,181,2020,lpl
+52,Anyone's Legend,Ultra Prime,-141,106,-141,106,2020,lpl
+53,Rare Atom,EDward Gaming,-159,124,124,-159,2020,lpl
+54,Oh My God,FunPlus Phoenix,291,-417,-417,291,2020,lpl
+55,Victory Five,Invictus Gaming,-130,-101,-101,-130,2020,lpl
+56,Team WE,LGD Gaming,-175,134,134,-175,2020,lpl
+57,JD Gaming,FunPlus Phoenix,-204,154,-204,154,2020,lpl
+58,Rare Atom,Top Esports,416,-667,-667,416,2020,lpl
+59,Invictus Gaming,Royal Never Give Up,-227,170,-227,170,2020,lpl
+60,Bilibili Gaming,TT Gaming,-256,190,-256,190,2020,lpl
+61,EDward Gaming,LGD Gaming,112,-145,-145,112,2020,lpl
+62,Anyone's Legend,FunPlus Phoenix,370,-556,370,-556,2020,lpl
+63,Royal Never Give Up,Weibo Gaming,-125,-102,-102,-125,2020,lpl
+64,LNG Esports,Invictus Gaming,399,-625,-625,399,2020,lpl
+65,JD Gaming,Rare Atom,-370,256,-370,256,2020,lpl
+66,Ultra Prime,Oh My God,-119,-108,-119,-108,2020,lpl
+67,LGD Gaming,Anyone's Legend,-500,330,330,-500,2020,lpl
+68,Team WE,LNG Esports,-556,369,-556,369,2020,lpl
+69,Weibo Gaming,Bilibili Gaming,-189,138,-189,138,2020,lpl
+70,LNG Esports,Rare Atom,104,-135,-135,104,2020,lpl
+71,Ultra Prime,FunPlus Phoenix,222,-312,-312,222,2020,lpl
+72,Weibo Gaming,TT Gaming,-625,403,-625,403,2020,lpl
+73,Top Esports,EDward Gaming,-667,424,-667,424,2020,lpl
+74,Anyone's Legend,Team WE,351,-526,-526,351,2020,lpl
+75,FunPlus Phoenix,Invictus Gaming,-208,156,156,-208,2020,lpl
+76,Royal Never Give Up,Victory Five,-244,185,185,-244,2020,lpl
+77,Bilibili Gaming,Top Esports,696,-1429,-1429,696,2020,lpl
+78,Oh My God,LNG Esports,110,-141,110,-141,2020,lpl
+79,LGD Gaming,Invictus Gaming,131,-169,131,-169,2020,lpl
+80,TT Gaming,JD Gaming,884,-2000,-2000,884,2020,lpl
+81,Ultra Prime,Royal Never Give Up,187,-250,-250,187,2020,lpl
+82,Victory Five,Rare Atom,114,-149,114,-149,2020,lpl
+83,Invictus Gaming,EDward Gaming,-179,136,-179,136,2020,lpl
+84,Weibo Gaming,Anyone's Legend,-233,174,-233,174,2020,lpl
+85,LGD Gaming,Top Esports,241,-333,-333,241,2020,lpl
+86,TT Gaming,Oh My God,189,-250,-250,189,2020,lpl
+87,FunPlus Phoenix,Team WE,-196,150,-196,150,2020,lpl
+88,Ultra Prime,LNG Esports,-122,-105,-122,-105,2020,lpl
+89,JD Gaming,Royal Never Give Up,-244,185,185,-244,2020,lpl
+90,Invictus Gaming,Top Esports,-213,156,156,-213,2020,lpl
+91,FunPlus Phoenix,EDward Gaming,-476,326,-476,326,2020,lpl
+92,Top Esports,Team WE,-476,333,-476,333,2020,lpl
+93,EDward Gaming,Royal Never Give Up,-116,-116,-116,-116,2020,lpl
+94,Ultra Prime,Team WE,-312,221,221,-312,2020,lpl
+95,FunPlus Phoenix,Top Esports,-233,173,173,-233,2020,lpl
+96,Team WE,Oh My God,-110,-120,-110,-120,2020,lpl
+97,Anyone's Legend,LGD Gaming,106,-139,106,-139,2020,lpl
+98,Invictus Gaming,LNG Esports,-1000,547,-1000,547,2020,lpl
+99,Team WE,EDward Gaming,190,-250,190,-250,2020,lpl
+100,JD Gaming,LGD Gaming,-526,359,-526,359,2020,lpl
+101,Weibo Gaming,Royal Never Give Up,194,-263,194,-263,2020,lpl
+102,FunPlus Phoenix,Anyone's Legend,-714,437,-714,437,2020,lpl
+103,Rare Atom,Victory Five,-1429,675,-1429,675,2020,lpl
+104,EDward Gaming,Invictus Gaming,156,-208,-208,156,2020,lpl
+105,JD Gaming,TT Gaming,-625,386,-625,386,2020,lpl
+106,LNG Esports,Team WE,285,-417,285,-417,2020,lpl
+107,Top Esports,Ultra Prime,100,-130,100,-130,2020,lpl
+108,LGD Gaming,FunPlus Phoenix,384,-588,-588,384,2020,lpl
+109,Bilibili Gaming,Victory Five,-1667,753,-1667,753,2020,lpl
+110,Royal Never Give Up,Invictus Gaming,159,-213,-213,159,2020,lpl
+111,Bilibili Gaming,EDward Gaming,220,-303,-303,220,2020,lpl
+112,JD Gaming,LNG Esports,-333,239,-333,239,2020,lpl
+113,Royal Never Give Up,Ultra Prime,-102,-137,-102,-137,2020,lpl
+114,Invictus Gaming,Victory Five,-500,1034,-5000,1034,2020,lpl
+115,EDward Gaming,TT Gaming,-417,289,-417,289,2020,lpl
+116,Weibo Gaming,Top Esports,247,-345,-345,247,2020,lpl
+117,Anyone's Legend,Bilibili Gaming,250,-357,250,-357,2020,lpl
+118,LGD Gaming,Team WE,175,-238,175,-238,2020,lpl
+119,Victory Five,Royal Never Give Up,1150,-500,-5000,1150,2020,lpl
+120,Ultra Prime,Rare Atom,-345,245,245,-345,2020,lpl
+121,TT Gaming,LNG Esports,247,-345,247,-345,2020,lpl
+122,Oh My God,Invictus Gaming,326,-500,-500,326,2020,lpl
+123,LGD Gaming,EDward Gaming,299,-435,-435,299,2020,lpl
+124,JD Gaming,Weibo Gaming,-189,142,-189,142,2020,lpl
+125,Victory Five,FunPlus Phoenix,1184,-500,-5000,1184,2020,lpl
+126,Rare Atom,LNG Esports,-135,102,-135,102,2020,lpl
+127,Royal Never Give Up,EDward Gaming,-250,177,-250,177,2020,lpl
+128,Oh My God,Top Esports,125,-167,-167,125,2020,lpl
+129,Ultra Prime,TT Gaming,-909,501,-909,501,2020,lpl
+130,Top Esports,Rare Atom,-244,179,-244,179,2020,lpl
+131,Victory Five,LNG Esports,322,-476,-476,322,2020,lpl
+132,Team WE,FunPlus Phoenix,511,-909,-909,511,2020,lpl
+133,EDward Gaming,Anyone's Legend,-286,212,212,-286,2020,lpl
+134,Rare Atom,JD Gaming,395,-625,-625,395,2020,lpl
+135,Bilibili Gaming,Oh My God,-143,106,106,-143,2020,lpl
+136,Victory Five,Ultra Prime,422,-714,-714,422,2020,lpl
+137,Top Esports,LGD Gaming,-625,393,393,-625,2020,lpl
+138,Team WE,Royal Never Give Up,254,-345,-345,254,2020,lpl
+139,Anyone's Legend,Invictus Gaming,821,-2000,-2000,821,2020,lpl
+140,Bilibili Gaming,Weibo Gaming,-233,168,168,-233,2020,lpl
+141,EDward Gaming,Ultra Prime,185,-263,185,-263,2020,lpl
+142,JD Gaming,Victory Five,-1429,663,-1429,663,2020,lpl
+143,TT Gaming,FunPlus Phoenix,700,-1667,-1667,700,2020,lpl
+144,Team WE,Rare Atom,177,-238,177,-238,2020,lpl
+145,Oh My God,Anyone's Legend,-222,165,-222,165,2020,lpl
+146,Weibo Gaming,EDward Gaming,161,-217,161,-217,2020,lpl
+147,Bilibili Gaming,LNG Esports,-345,249,249,-345,2020,lpl
+148,Ultra Prime,LGD Gaming,-312,227,-312,227,2020,lpl
+149,Rare Atom,Invictus Gaming,379,-588,-588,379,2020,lpl
+150,FlyQuest eSports,Team SoloMid,-133,104,104,-133,2020,lcs
+151,Team Liquid,Team SoloMid,-164,127,127,-164,2020,lcs
+152,Team Liquid,FlyQuest eSports,-238,181,181,-238,2020,lcs
+153,Team SoloMid,Cloud9,213,-278,213,-278,2020,lcs
+154,Team SoloMid,Golden Guardians,-185,144,-185,144,2020,lcs
+155,Evil Geniuses,Cloud9,334,-476,-476,334,2020,lcs
+156,Team Liquid,Golden Guardians,-588,388,-588,388,2020,lcs
+157,Cloud9,FlyQuest eSports,-476,326,326,-476,2020,lcs
+158,100 Thieves,Evil Geniuses,134,-175,-175,134,2020,lcs
+159,Team SoloMid,Dignitas,-526,350,-526,350,2020,lcs
+160,FlyQuest eSports,Evil Geniuses,-278,212,-278,212,2020,lcs
+161,Team SoloMid,Golden Guardians,-370,267,267,-370,2020,lcs
+162,FlyQuest eSports,Immortals,-385,278,-385,278,2020,lcs
+163,Team Liquid,Team SoloMid,-139,108,-139,108,2020,lcs
+164,Counter Logic Gaming,Cloud9,503,-833,-833,503,2020,lcs
+165,100 Thieves,Evil Geniuses,120,-154,120,-154,2020,lcs
+166,FlyQuest eSports,Counter Logic Gaming,-400,282,-400,282,2020,lcs
+167,Team Liquid,Immortals,-588,374,-588,374,2020,lcs
+168,Golden Guardians,Evil Geniuses,-141,110,110,-141,2020,lcs
+169,100 Thieves,Dignitas,-196,152,152,-196,2020,lcs
+170,Golden Guardians,Team SoloMid,145,-185,-185,145,2020,lcs
+171,Dignitas,Cloud9,413,-625,-625,413,2020,lcs
+172,100 Thieves,Immortals,-175,138,-175,138,2020,lcs
+173,FlyQuest eSports,Evil Geniuses,-137,106,-137,106,2020,lcs
+174,Cloud9,Team SoloMid,-263,204,204,-263,2020,lcs
+175,Golden Guardians,Counter Logic Gaming,-233,175,-233,175,2020,lcs
+176,Dignitas,Immortals,-123,-103,-103,-123,2020,lcs
+177,Team Liquid,Counter Logic Gaming,-417,293,-417,293,2020,lcs
+178,Golden Guardians,Cloud9,346,-500,346,-500,2020,lcs
+179,100 Thieves,FlyQuest eSports,160,-208,-208,160,2020,lcs
+180,Team SoloMid,Evil Geniuses,-139,116,-139,116,2020,lcs
+181,Team Liquid,Dignitas,-417,295,-417,295,2020,lcs
+182,Golden Guardians,100 Thieves,-116,-111,-116,-111,2020,lcs
+183,Counter Logic Gaming,Team SoloMid,179,-233,-233,179,2020,lcs
+184,Cloud9,Team Liquid,-256,198,198,-256,2020,lcs
+185,Dignitas,Evil Geniuses,248,-357,248,-357,2020,lcs
+186,Immortals,Cloud9,512,-833,-833,512,2020,lcs
+187,Golden Guardians,FlyQuest eSports,129,-167,-167,129,2020,lcs
+188,Dignitas,Team SoloMid,204,-270,-270,204,2020,lcs
+189,100 Thieves,Counter Logic Gaming,-152,118,-152,118,2020,lcs
+190,FlyQuest eSports,Team Liquid,159,-204,159,-204,2020,lcs
+191,Immortals,Evil Geniuses,181,-238,-238,181,2020,lcs
+192,Dignitas,Golden Guardians,139,-179,-179,139,2020,lcs
+193,Immortals,Counter Logic Gaming,106,-135,106,-135,2020,lcs
+194,Cloud9,FlyQuest eSports,-417,304,-417,304,2020,lcs
+195,100 Thieves,Team Liquid,200,-263,-263,200,2020,lcs
+196,Golden Guardians,Immortals,-154,121,-154,121,2020,lcs
+197,FlyQuest eSports,Team SoloMid,106,-135,106,-135,2020,lcs
+198,Evil Geniuses,Cloud9,322,-455,322,-455,2020,lcs
+199,Counter Logic Gaming,Dignitas,-159,124,124,-159,2020,lcs
+200,Team Liquid,Evil Geniuses,-185,140,-185,140,2020,lcs
+201,Team SoloMid,100 Thieves,-161,125,-161,125,2020,lcs
+202,Counter Logic Gaming,Evil Geniuses,181,-238,181,-238,2020,lcs
+203,Golden Guardians,Team Liquid,196,-263,-263,196,2020,lcs
+204,100 Thieves,Cloud9,605,-1111,605,-1111,2020,lcs
+205,Immortals,Team SoloMid,200,-278,200,-278,2020,lcs
+206,FlyQuest eSports,Dignitas,-588,376,376,-588,2020,lcs
+207,Team Liquid,Counter Logic Gaming,-263,198,-263,198,2020,lcs
+208,Cloud9,Team SoloMid,-345,244,-345,244,2020,lcs
+209,Golden Guardians,Evil Geniuses,198,-263,198,-263,2020,lcs
+210,100 Thieves,FlyQuest eSports,223,-312,223,-312,2020,lcs
+211,Dignitas,Immortals,154,-208,154,-208,2020,lcs
+212,Immortals,Evil Geniuses,283,-385,-385,283,2020,lcs
+213,Counter Logic Gaming,Team SoloMid,167,-217,-217,167,2020,lcs
+214,FlyQuest eSports,Team Liquid,-110,-116,-116,-110,2020,lcs
+215,Dignitas,Cloud9,672,-1250,-1250,672,2020,lcs
+216,Team Liquid,Immortals,-455,320,-455,320,2020,lcs
+217,FlyQuest eSports,Evil Geniuses,110,-143,110,-143,2020,lcs
+218,100 Thieves,Dignitas,-182,142,-182,142,2020,lcs
+219,Golden Guardians,Team SoloMid,164,-213,-213,164,2020,lcs
+220,Team Liquid,Dignitas,-217,159,-217,159,2020,lcs
+221,Team SoloMid,Evil Geniuses,-172,129,-172,129,2020,lcs
+222,FlyQuest eSports,Counter Logic Gaming,-256,190,-256,190,2020,lcs
+223,100 Thieves,Golden Guardians,-125,102,-125,102,2020,lcs
+224,Immortals,Cloud9,390,-667,-667,390,2020,lcs
+225,Team Liquid,Evil Geniuses,-227,167,167,-227,2020,lcs
+226,Golden Guardians,FlyQuest eSports,131,-175,-175,131,2020,lcs
+227,Dignitas,Immortals,-156,118,-156,118,2020,lcs
+228,Counter Logic Gaming,Cloud9,473,-833,-833,473,2020,lcs
+229,100 Thieves,Team SoloMid,154,-208,-208,154,2020,lcs
+230,Evil Geniuses,Cloud9,269,-385,-385,269,2020,lcs
+231,FlyQuest eSports,100 Thieves,-132,-101,-132,-101,2020,lcs
+232,Immortals,Evil Geniuses,-137,104,104,-137,2020,lcs
+233,Team SoloMid,FlyQuest eSports,-238,172,172,-238,2020,lcs
+234,Counter Logic Gaming,Team Liquid,227,-323,-323,227,2020,lcs
+235,Dignitas,Golden Guardians,-222,165,165,-222,2020,lcs
+236,100 Thieves,Dignitas,104,-137,-137,104,2020,lcs
+237,Golden Guardians,Counter Logic Gaming,102,-135,102,-135,2020,lcs
+238,Cloud9,Team SoloMid,-192,146,-192,146,2020,lcs
+239,Team Liquid,Immortals,-312,223,223,-312,2020,lcs
+240,Team Liquid,Dignitas,-217,159,-217,159,2020,lcs
+241,Team SoloMid,Evil Geniuses,-172,129,-172,129,2020,lcs
+242,FlyQuest eSports,Counter Logic Gaming,-256,190,-256,190,2020,lcs
+243,100 Thieves,Golden Guardians,-125,102,-125,102,2020,lcs
+244,Immortals,Cloud9,390,-667,-667,390,2020,lcs
+245,Team Liquid,Evil Geniuses,-227,167,167,-227,2020,lcs
+246,Golden Guardians,FlyQuest eSports,131,-175,-175,131,2020,lcs
+247,Dignitas,Immortals,-156,118,-156,118,2020,lcs
+248,Counter Logic Gaming,Cloud9,473,-833,-833,473,2020,lcs
+249,100 Thieves,Team SoloMid,154,-208,-208,154,2020,lcs
+250,Evil Geniuses,Cloud9,269,-385,-385,269,2020,lcs
+251,FlyQuest eSports,100 Thieves,-132,-101,-132,-101,2020,lcs
+252,Immortals,Evil Geniuses,-137,104,104,-137,2020,lcs
+253,Team SoloMid,FlyQuest eSports,-238,172,172,-238,2020,lcs
+254,Counter Logic Gaming,Team Liquid,227,-323,-323,227,2020,lcs
+255,Dignitas,Golden Guardians,-222,165,165,-222,2020,lcs
+256,100 Thieves,Dignitas,104,-137,-137,104,2020,lcs
+257,Golden Guardians,Counter Logic Gaming,102,-135,102,-135,2020,lcs
+258,Cloud9,Team SoloMid,-192,146,-192,146,2020,lcs
+259,Team Liquid,Immortals,-312,223,223,-312,2020,lcs
+260,Fnatic,G2 Esports,141,-185,-185,141,2020,lec
+261,G2 Esports,Rogue,-400,264,-400,264,2020,lec
+262,Rogue,MAD Lions,133,-169,133,-169,2020,lec
+263,Fnatic,G2 Esports,247,-333,247,-333,2020,lec
+264,MAD Lions,Schalke 04,-145,112,-145,112,2020,lec
+265,Rogue,Fnatic,-147,116,116,-147,2020,lec
+266,G2 Esports,MAD Lions,-278,206,-278,206,2020,lec
+267,SK Gaming,Schalke 04,184,-244,-244,184,2020,lec
+268,Fnatic,SK Gaming,-182,141,-182,141,2020,lec
+269,G2 Esports,Excel Esports,-345,254,-345,254,2020,lec
+270,Misfits,Fnatic,138,-179,-179,138,2020,lec
+271,Rogue,Schalke 04,-417,298,-417,298,2020,lec
+272,Vitality,SK Gaming,-112,-115,-115,-112,2020,lec
+273,Misfits,MAD Lions,195,-256,195,-256,2020,lec
+274,G2 Esports,Excel Esports,-385,275,275,-385,2020,lec
+275,Fnatic,Schalke 04,-667,428,428,-667,2020,lec
+276,Vitality,Origen,200,-263,200,-263,2020,lec
+277,Rogue,SK Gaming,-244,188,-244,188,2020,lec
+278,Misfits,G2 Esports,146,-192,-192,146,2020,lec
+279,Rogue,Origen,100,-130,100,-130,2020,lec
+280,Fnatic,SK Gaming,-270,204,-270,204,2020,lec
+281,MAD Lions,Schalke 04,-588,387,-588,387,2020,lec
+282,Vitality,Excel Esports,-137,106,106,-137,2020,lec
+283,G2 Esports,Fnatic,-161,125,-161,125,2020,lec
+284,MAD Lions,Rogue,-145,112,-145,112,2020,lec
+285,Origen,Schalke 04,-556,366,-556,366,2020,lec
+286,Misfits,Excel Esports,-196,150,-196,150,2020,lec
+287,Vitality,SK Gaming,131,-169,131,-169,2020,lec
+288,Fnatic,Rogue,-200,154,154,-200,2020,lec
+289,MAD Lions,Origen,-102,-125,-102,-125,2020,lec
+290,G2 Esports,SK Gaming,-588,390,390,-588,2020,lec
+291,Vitality,Misfits,129,-167,-167,129,2020,lec
+292,Schalke 04,Excel Esports,127,-164,-164,127,2020,lec
+293,Fnatic,Origen,-196,148,148,-196,2020,lec
+294,G2 Esports,Rogue,-238,181,-238,181,2020,lec
+295,Vitality,MAD Lions,171,-222,-222,171,2020,lec
+296,Misfits,Schalke 04,-256,197,-256,197,2020,lec
+297,SK Gaming,Excel Esports,-208,158,158,-208,2020,lec
+298,Fnatic,MAD Lions,-227,174,174,-227,2020,lec
+299,Origen,Excel Esports,-345,252,-345,252,2020,lec
+300,G2 Esports,Schalke 04,-625,412,-625,412,2020,lec
+301,Misfits,SK Gaming,-182,141,141,-182,2020,lec
+302,Vitality,Rogue,167,-217,-217,167,2020,lec
+303,Fnatic,Excel Esports,-625,413,-625,413,2020,lec
+304,G2 Esports,Vitality,-714,434,434,-714,2020,lec
+305,Origen,Misfits,-200,152,152,-200,2020,lec
+306,Schalke 04,Rogue,211,-286,-286,211,2020,lec
+307,SK Gaming,MAD Lions,165,-217,-217,165,2020,lec
+308,G2 Esports,Origen,-370,268,268,-370,2020,lec
+309,Fnatic,Vitality,-435,307,-435,307,2020,lec
+310,Excel Esports,MAD Lions,202,-270,-270,202,2020,lec
+311,Rogue,Misfits,-112,-114,-112,-114,2020,lec
+312,Schalke 04,SK Gaming,-119,-106,-106,-119,2020,lec
+313,Misfits,Fnatic,208,-286,-286,208,2020,lec
+314,Rogue,Excel Esports,-227,166,-227,166,2020,lec
+315,Origen,SK Gaming,-625,415,415,-625,2020,lec
+316,Vitality,Schalke 04,127,-164,127,-164,2020,lec
+317,MAD Lions,G2 Esports,219,-294,-294,219,2020,lec
+318,Fnatic,G2 Esports,-101,-127,-127,-101,2020,lec
+319,MAD Lions,G2 Esports,397,-625,-625,397,2020,lec
+320,G2 Esports,Origen,-500,337,-500,337,2020,lec
+321,MAD Lions,Fnatic,296,-417,-417,296,2020,lec
+322,Origen,Rogue,-333,243,-333,243,2020,lec
+323,Misfits,Rogue,-137,104,104,-137,2020,lec
+324,Fnatic,Origen,-250,184,-250,184,2020,lec
+325,G2 Esports,MAD Lions,-1667,756,756,-1667,2020,lec
+326,Misfits,G2 Esports,254,-357,-357,254,2020,lec
+327,Fnatic,Vitality,-1250,656,656,-1250,2020,lec
+328,Origen,MAD Lions,-263,195,195,-263,2020,lec
+329,Schalke 04,Rogue,179,-250,179,-250,2020,lec
+330,SK Gaming,Excel Esports,200,-270,200,-270,2020,lec
+331,MAD Lions,Fnatic,200,-270,-270,200,2020,lec
+332,Excel Esports,Origen,363,-556,-556,363,2020,lec
+333,G2 Esports,Schalke 04,-1000,558,-1000,558,2020,lec
+334,Vitality,Misfits,338,-500,-500,338,2020,lec
+335,Rogue,SK Gaming,-714,428,428,-714,2020,lec
+336,Fnatic,Rogue,-278,202,-278,202,2020,lec
+337,G2 Esports,Excel Esports,-909,509,-909,509,2020,lec
+338,MAD Lions,Misfits,-112,-118,-112,-118,2020,lec
+339,SK Gaming,Origen,445,-714,-714,445,2020,lec
+340,Excel Esports,Schalke 04,-192,144,-192,144,2020,lec
+341,Origen,SK Gaming,-588,353,-588,353,2020,lec
+342,Rogue,Fnatic,165,-222,-222,165,2020,lec
+343,Excel Esports,G2 Esports,324,-500,-500,324,2020,lec
+344,Vitality,Schalke 04,110,-147,-147,110,2020,lec
+345,Misfits,MAD Lions,-120,-110,-120,-110,2020,lec
+346,Fnatic,MAD Lions,-250,186,186,-250,2020,lec
+347,Excel Esports,Origen,215,-294,-294,215,2020,lec
+348,Schalke 04,G2 Esports,656,-1250,656,-1250,2020,lec
+349,Rogue,SK Gaming,-286,210,-286,210,2020,lec
+350,Vitality,Misfits,218,-294,-294,218,2020,lec
+351,Misfits,G2 Esports,363,-588,363,-588,2020,lec
+352,Schalke 04,Rogue,227,-312,-312,227,2020,lec
+353,Vitality,Fnatic,459,-769,-769,459,2020,lec
+354,Excel Esports,SK Gaming,-169,125,-169,125,2020,lec
+355,MAD Lions,Origen,146,-192,-192,146,2020,lec
+356,G2 Esports,Fnatic,-250,186,-250,186,2020,lec
+357,Misfits,Origen,237,-333,237,-333,2020,lec
+358,MAD Lions,Rogue,120,-154,120,-154,2020,lec
+359,Vitality,Excel Esports,154,-204,-204,154,2020,lec
+360,paiN Gaming,INTZ-eSports,-250,175,175,-250,2020,cblol
+361,INTZ-eSports,KaBuM! e-Sports,106,-141,106,-141,2020,cblol
+362,paiN Gaming,Prodigy,-270,200,-270,200,2020,cblol
+363,Flamengo,Santos e-Sports,-208,158,158,-208,2020,cblol
+364,INTZ-eSports,KaBuM! e-Sports,156,-208,-208,156,2020,cblol
+365,paiN Gaming,Prodigy,-189,143,143,-189,2020,cblol
+366,FURIA Esports,Vivo Keyd,-120,-110,-120,-110,2020,cblol
+367,paiN Gaming,FURIA Esports,-312,224,-312,224,2020,cblol
+368,Prodigy,Santos e-Sports,-116,-115,-116,-115,2020,cblol
+369,Vivo Keyd,INTZ-eSports,146,-196,-196,146,2020,cblol
+370,KaBuM! e-Sports,Flamengo,-112,-118,-118,-112,2020,cblol
+371,Santos e-Sports,FURIA Esports,-172,127,-172,127,2020,cblol
+372,Flamengo,Vivo Keyd,-222,154,-222,154,2020,cblol
+373,KaBuM! e-Sports,paiN Gaming,117,-156,-156,117,2020,cblol
+374,INTZ-eSports,Prodigy,-156,118,118,-156,2020,cblol
+375,paiN Gaming,Vivo Keyd,-385,263,263,-385,2020,cblol
+376,Santos e-Sports,INTZ-eSports,108,-143,-143,108,2020,cblol
+377,Prodigy,Flamengo,-122,-108,-108,-122,2020,cblol
+378,FURIA Esports,KaBuM! e-Sports,156,-208,-208,156,2020,cblol
+379,Vivo Keyd,Prodigy,227,-312,227,-312,2020,cblol
+380,Santos e-Sports,KaBuM! e-Sports,-154,116,-154,116,2020,cblol
+381,Prodigy,FURIA Esports,104,-137,104,-137,2020,cblol
+382,INTZ-eSports,Flamengo,174,-233,174,-233,2020,cblol
+383,paiN Gaming,Santos e-Sports,-175,133,-175,133,2020,cblol
+384,KaBuM! e-Sports,Vivo Keyd,-227,167,-227,167,2020,cblol
+385,KaBuM! e-Sports,Prodigy,-189,140,-189,140,2020,cblol
+386,INTZ-eSports,FURIA Esports,-161,122,-161,122,2020,cblol
+387,Vivo Keyd,Santos e-Sports,258,-370,-370,258,2020,cblol
+388,Flamengo,paiN Gaming,-127,-104,-104,-127,2020,cblol
+389,FURIA Esports,Vivo Keyd,102,-137,102,-137,2020,cblol
+390,Flamengo,Santos e-Sports,-130,-102,-130,-102,2020,cblol
+391,INTZ-eSports,KaBuM! e-Sports,134,-179,134,-179,2020,cblol
+392,paiN Gaming,Prodigy,-435,299,-435,299,2020,cblol
+393,Vivo Keyd,INTZ-eSports,131,-175,131,-175,2020,cblol
+394,paiN Gaming,FURIA Esports,-250,183,-250,183,2020,cblol
+395,Prodigy,Santos e-Sports,200,-278,-278,200,2020,cblol
+396,KaBuM! e-Sports,Flamengo,123,-164,-164,123,2020,cblol
+397,INTZ-eSports,Prodigy,-141,108,-141,108,2020,cblol
+398,KaBuM! e-Sports,paiN Gaming,-104,-127,-127,-104,2020,cblol
+399,Flamengo,Vivo Keyd,-270,194,-270,194,2020,cblol
+400,Santos e-Sports,FURIA Esports,-400,276,276,-400,2020,cblol
+401,FURIA Esports,KaBuM! e-Sports,173,-238,-238,173,2020,cblol
+402,Prodigy,Flamengo,125,-164,-164,125,2020,cblol
+403,paiN Gaming,Vivo Keyd,-179,134,-179,134,2020,cblol
+404,INTZ-eSports,Santos e-Sports,152,-217,-217,152,2020,cblol
+405,Flamengo,FURIA Esports,-189,142,142,-189,2020,cblol
+406,INTZ-eSports,paiN Gaming,-132,100,100,-132,2020,cblol
+407,KaBuM! e-Sports,Santos e-Sports,112,-149,-149,112,2020,cblol
+408,Vivo Keyd,Prodigy,161,-217,161,-217,2020,cblol
+409,Santos e-Sports,paiN Gaming,-128,-108,-128,-108,2020,cblol
+410,Vivo Keyd,KaBuM! e-Sports,104,-137,-137,104,2020,cblol
+411,FURIA Esports,Prodigy,114,-149,-149,114,2020,cblol
+412,Flamengo,INTZ-eSports,-143,108,108,-143,2020,cblol
+413,Prodigy,KaBuM! e-Sports,-102,-130,-130,-102,2020,cblol
+414,Santos e-Sports,Vivo Keyd,-119,-111,-119,-111,2020,cblol
+415,FURIA Esports,INTZ-eSports,-115,-118,-118,-115,2020,cblol
+416,paiN Gaming,Flamengo,-161,122,-161,122,2020,cblol
+417,KaBuM! e-Sports,Flamengo,-120,-114,-120,-114,2020,cblol
+418,Flamengo,FURIA Esports,-303,217,-303,217,2020,cblol
+419,Vivo Keyd,KaBuM! e-Sports,-208,148,148,-208,2020,cblol
+420,Flamengo,INTZ-eSports,-192,142,-192,142,2020,cblol
+421,Vivo Keyd,KaBuM! e-Sports,-139,102,102,-139,2020,cblol
+422,paiN Gaming,FURIA Esports,-125,-111,-111,-125,2020,cblol
+423,Prodigy,REPA,-250,181,-250,181,2020,cblol
+424,paiN Gaming,Prodigy,-147,108,-147,108,2020,cblol
+425,FURIA Esports,INTZ-eSports,112,-152,112,-152,2020,cblol
+426,REPA,Vivo Keyd,265,-385,265,-385,2020,cblol
+427,KaBuM! e-Sports,Flamengo,137,-185,137,-185,2020,cblol
+428,INTZ-eSports,Prodigy,-182,127,127,-182,2020,cblol
+429,Flamengo,REPA,-625,370,-625,370,2020,cblol
+430,KaBuM! e-Sports,paiN Gaming,-112,-119,-112,-119,2020,cblol
+431,Vivo Keyd,FURIA Esports,-238,170,-238,170,2020,cblol
+432,paiN Gaming,REPA,-345,244,244,-345,2020,cblol
+433,INTZ-eSports,Vivo Keyd,170,-238,170,-238,2020,cblol
+434,FURIA Esports,Flamengo,143,-192,-192,143,2020,cblol
+435,Prodigy,KaBuM! e-Sports,-135,100,100,-135,2020,cblol
+436,REPA,FURIA Esports,192,-270,-270,192,2020,cblol
+437,Flamengo,Prodigy,-263,195,195,-263,2020,cblol
+438,KaBuM! e-Sports,INTZ-eSports,129,-175,129,-175,2020,cblol
+439,Vivo Keyd,paiN Gaming,-189,139,-189,139,2020,cblol
+440,Flamengo,Vivo Keyd,-133,-106,-106,-133,2020,cblol
+441,REPA,KaBuM! e-Sports,179,-250,-250,179,2020,cblol
+442,INTZ-eSports,paiN Gaming,142,-192,142,-192,2020,cblol
+443,Prodigy,FURIA Esports,-132,-101,-101,-132,2020,cblol
+444,paiN Gaming,Flamengo,106,-145,106,-145,2020,cblol
+445,FURIA Esports,KaBuM! e-Sports,-112,-119,-112,-119,2020,cblol
+446,Prodigy,Vivo Keyd,127,-172,-172,127,2020,cblol
+447,INTZ-eSports,REPA,-208,152,-208,152,2020,cblol
+448,paiN Gaming,FURIA Esports,-217,160,160,-217,2020,cblol
+449,Flamengo,INTZ-eSports,-172,129,-172,129,2020,cblol
+450,REPA,Vivo Keyd,134,-179,-179,134,2020,cblol
+451,paiN Gaming,Prodigy,-112,-122,-112,-122,2020,cblol
+452,FURIA Esports,INTZ-eSports,-145,108,-145,108,2020,cblol
+453,KaBuM! e-Sports,Flamengo,413,-714,-714,413,2020,cblol
+454,Vivo Keyd,FURIA Esports,120,-161,120,-161,2020,cblol
+455,KaBuM! e-Sports,paiN Gaming,375,-625,375,-625,2020,cblol
+456,Flamengo,REPA,-303,217,-303,217,2020,cblol
+457,INTZ-eSports,Prodigy,-102,-132,-132,-102,2020,cblol
+458,Prodigy,KaBuM! e-Sports,-294,216,-294,216,2020,cblol
+459,FURIA Esports,Flamengo,164,-222,164,-222,2020,cblol
+460,paiN Gaming,REPA,-370,262,-370,262,2020,cblol
+461,Vivo Keyd,INTZ-eSports,177,-244,177,-244,2020,cblol
+462,Flamengo,Prodigy,-200,147,-200,147,2020,cblol
+463,Vivo Keyd,paiN Gaming,279,-417,279,-417,2020,cblol
+464,KaBuM! e-Sports,INTZ-eSports,229,-323,-323,229,2020,cblol
+465,REPA,FURIA Esports,-116,-118,-118,-116,2020,cblol
+466,INTZ-eSports,paiN Gaming,118,-159,-159,118,2020,cblol
+467,REPA,KaBuM! e-Sports,-103,-130,-103,-130,2020,cblol
+468,Prodigy,FURIA Esports,-110,-122,-110,-122,2020,cblol
+469,Flamengo,Vivo Keyd,-244,173,-244,173,2020,cblol
+470,Pentanet.GG,Chiefs Esports Club,164,-222,-222,164,2020,lco
+471,ORDER,Pentanet.GG,-250,179,-250,179,2020,lco
+472,Chiefs Esports Club,Dire Wolves,-139,106,-139,106,2020,lco
+473,Chiefs Esports Club,Kanga Esports,171,-233,171,-233,2020,lco
+474,Avant Gaming,Pentanet.GG,252,-357,-357,252,2020,lco
+475,Chiefs Esports Club,Dire Wolves,-154,118,118,-154,2020,lco
+476,Kanga Esports,Avant Gaming,-556,358,-556,358,2020,lco
+477,ORDER,Dire Wolves,-185,138,138,-185,2020,lco
+478,Gravitas,Mammoth,189,-256,-256,189,2020,lco
+479,Kanga Esports,Pentanet.GG,-227,164,-227,164,2020,lco
+480,ORDER,Avant Gaming,-213,158,-213,158,2020,lco
+481,Pentanet.GG,Gravitas,-667,443,-667,443,2020,lco
+482,ORDER,Mammoth,-588,383,-588,383,2020,lco
+483,Dire Wolves,Gravitas,-714,459,-714,459,2020,lco
+484,Chiefs Esports Club,Mammoth,-417,288,288,-417,2020,lco
+485,ORDER,Chiefs Esports Club,-111,-119,-111,-119,2020,lco
+486,Avant Gaming,Gravitas,-400,283,-400,283,2020,lco
+487,Dire Wolves,Pentanet.GG,-132,100,100,-132,2020,lco
+488,Kanga Esports,Mammoth,-1111,598,-1111,598,2020,lco
+489,ORDER,Pentanet.GG,-172,127,-172,127,2020,lco
+490,Chiefs Esports Club,Avant Gaming,-263,202,-263,202,2020,lco
+491,Avant Gaming,Dire Wolves,117,-154,-154,117,2020,lco
+492,Pentanet.GG,Mammoth,-417,280,-417,280,2020,lco
+493,Chiefs Esports Club,Gravitas,-588,378,-588,378,2020,lco
+494,ORDER,Kanga Esports,281,-400,281,-400,2020,lco
+495,Kanga Esports,Dire Wolves,-294,216,-294,216,2020,lco
+496,ORDER,Gravitas,-357,250,-357,250,2020,lco
+497,Avant Gaming,Mammoth,-323,227,-323,227,2020,lco
+498,Chiefs Esports Club,Pentanet.GG,-250,183,183,-250,2020,lco
+499,Chiefs Esports Club,Kanga Esports,152,-204,-204,152,2020,lco
+500,Gravitas,Mammoth,-250,179,179,-250,2020,lco
+501,ORDER,Dire Wolves,104,-137,-137,104,2020,lco
+502,Avant Gaming,Pentanet.GG,-104,-125,-125,-104,2020,lco
+503,Chiefs Esports Club,Dire Wolves,-196,149,-196,149,2020,lco
+504,Kanga Esports,Avant Gaming,-417,288,-417,288,2020,lco
+505,Pentanet.GG,Gravitas,-204,152,-204,152,2020,lco
+506,ORDER,Mammoth,-667,417,-667,417,2020,lco
+507,ORDER,Avant Gaming,-169,127,127,-169,2020,lco
+508,Kanga Esports,Pentanet.GG,-455,304,-455,304,2020,lco
+509,Chiefs Esports Club,Mammoth,-1111,591,-1111,591,2020,lco
+510,Chiefs Esports Club,Avant Gaming,-263,202,-263,202,2020,lco
+511,Avant Gaming,Dire Wolves,117,-154,-154,117,2020,lco
+512,Pentanet.GG,Mammoth,-417,280,-417,280,2020,lco
+513,Chiefs Esports Club,Gravitas,-588,378,-588,378,2020,lco
+514,ORDER,Kanga Esports,281,-400,281,-400,2020,lco
+515,Kanga Esports,Dire Wolves,-294,216,-294,216,2020,lco
+516,ORDER,Gravitas,-357,250,-357,250,2020,lco
+517,Avant Gaming,Mammoth,-323,227,-323,227,2020,lco
+518,Chiefs Esports Club,Pentanet.GG,-250,183,183,-250,2020,lco
+519,Chiefs Esports Club,Kanga Esports,152,-204,-204,152,2020,lco
+520,Gravitas,Mammoth,-250,179,179,-250,2020,lco
+521,ORDER,Dire Wolves,104,-137,-137,104,2020,lco
+522,Avant Gaming,Pentanet.GG,-104,-125,-125,-104,2020,lco
+523,Chiefs Esports Club,Dire Wolves,-196,149,-196,149,2020,lco
+524,Kanga Esports,Avant Gaming,-417,288,-417,288,2020,lco
+525,Pentanet.GG,Gravitas,-204,152,-204,152,2020,lco
+526,ORDER,Mammoth,-667,417,-667,417,2020,lco
+527,ORDER,Avant Gaming,-169,127,127,-169,2020,lco
+528,Kanga Esports,Pentanet.GG,-455,304,-455,304,2020,lco
+529,Chiefs Esports Club,Mammoth,-1111,591,-1111,591,2020,lco
+530,Dire Wolves,Gravitas,-222,165,-222,165,2020,lco
+531,Dire Wolves,Pentanet.GG,-222,162,-222,162,2020,lco
+532,Avant Gaming,Gravitas,-192,143,143,-192,2020,lco
+533,ORDER,Chiefs Esports Club,142,-189,-189,142,2020,lco
+534,Kanga Esports,Mammoth,-2000,806,-2000,806,2020,lco
+535,ORDER,Pentanet.GG,-185,141,-185,141,2020,lco
+536,Dire Wolves,Mammoth,-312,229,-312,229,2020,lco
+537,Kanga Esports,Gravitas,-909,497,-909,497,2020,lco
+538,Chiefs Esports Club,Avant Gaming,-200,154,-200,154,2020,lco
+539,ORDER,Kanga Esports,233,-333,-333,233,2020,lco
+540,Dire Wolves,ORDER,149,-200,149,-200,2020,lco
+541,Pentanet.GG,Mammoth,-833,451,-833,451,2020,lco
+542,Gravitas,ORDER,438,-769,-769,438,2020,lco
+543,ORDER,Mammoth,-1429,668,-1429,668,2020,lco
+544,Kanga Esports,Pentanet.GG,-303,215,-303,215,2020,lco
+545,Chiefs Esports Club,Gravitas,-909,484,-909,484,2020,lco
+546,Pentanet.GG,ORDER,229,-323,229,-323,2020,lco
+547,Dire Wolves,Chiefs Esports Club,150,-204,-204,150,2020,lco
+548,Mammoth,Avant Gaming,150,-200,-200,150,2020,lco
+549,Gravitas,Kanga Esports,592,-1250,-1250,592,2020,lco
+550,Avant Gaming,Dire Wolves,199,-278,-278,199,2020,lco
+551,Chiefs Esports Club,Mammoth,-833,476,-833,476,2020,lco
+552,Kanga Esports,Dire Wolves,-263,193,-263,193,2020,lco
+553,Avant Gaming,ORDER,350,-556,-556,350,2020,lco
+554,Gravitas,Pentanet.GG,376,-625,376,-625,2020,lco
+555,ORDER,Chiefs Esports Club,-159,119,119,-159,2020,lco
+556,Pentanet.GG,Avant Gaming,-303,217,217,-303,2020,lco
+557,Dire Wolves,Gravitas,-625,369,-625,369,2020,lco
+558,Mammoth,Kanga Esports,672,-1429,-1429,672,2020,lco
+559,Chiefs Esports Club,Avant Gaming,-357,252,-357,252,2020,lco
+560,Gen.G,T1,-149,114,-149,114,2020,lck
+561,T1,Kwangdong Freecs,-294,217,-294,217,2020,lck
+562,Kwangdong Freecs,KT Rolster,-278,208,-278,208,2020,lck
+563,Dplus Kia,DRX,-357,260,-357,260,2020,lck
+564,DRX,Gen.G,-109,-120,-109,-120,2020,lck
+565,Gen.G,Kwangdong Freecs,-1000,595,-1000,595,2020,lck
+566,T1,Kwangdong Freecs,-714,462,462,-714,2020,lck
+567,Team Dynamics,Hanwha Life,-263,199,199,-263,2020,lck
+568,DRX,T1,-141,108,108,-141,2020,lck
+569,KT Rolster,Dplus Kia,775,-1667,-1667,775,2020,lck
+570,Kwangdong Freecs,Gen.G,345,-526,-526,345,2020,lck
+571,Team Dynamics,SeolHaeOne Prince,-222,164,-222,164,2020,lck
+572,Liiv SANDBOX,Hanwha Life,-312,225,-312,225,2020,lck
+573,Kwangdong Freecs,KT Rolster,-172,131,-172,131,2020,lck
+574,T1,Dplus Kia,148,-192,-192,148,2020,lck
+575,DRX,SeolHaeOne Prince,-500,1231,-5000,1231,2020,lck
+576,Hanwha Life,Gen.G,819,-2000,-2000,819,2020,lck
+577,Kwangdong Freecs,Liiv SANDBOX,-256,193,-256,193,2020,lck
+578,Team Dynamics,Dplus Kia,919,-2500,-2500,919,2020,lck
+579,DRX,Hanwha Life,-2500,890,-2500,890,2020,lck
+580,KT Rolster,SeolHaeOne Prince,-769,473,-769,473,2020,lck
+581,Kwangdong Freecs,T1,317,-476,-476,317,2020,lck
+582,Liiv SANDBOX,Gen.G,671,-1250,-1250,671,2020,lck
+583,KT Rolster,Gen.G,348,-500,-500,348,2020,lck
+584,T1,Team Dynamics,-833,491,-833,491,2020,lck
+585,SeolHaeOne Prince,Dplus Kia,118,-500,-5000,1185,2020,lck
+586,DRX,Liiv SANDBOX,-833,505,-833,505,2020,lck
+587,KT Rolster,Hanwha Life,-500,323,-500,323,2020,lck
+588,Kwangdong Freecs,Team Dynamics,-385,271,-385,271,2020,lck
+589,T1,SeolHaeOne Prince,-333,990,-3333,990,2020,lck
+590,Dplus Kia,Gen.G,-185,140,-185,140,2020,lck
+591,T1,Liiv SANDBOX,-588,384,-588,384,2020,lck
+592,Dplus Kia,Hanwha Life,-333,1056,-3333,1056,2020,lck
+593,DRX,Kwangdong Freecs,-526,353,-526,353,2020,lck
+594,SeolHaeOne Prince,Gen.G,917,-2500,-2500,917,2020,lck
+595,Team Dynamics,Liiv SANDBOX,100,-130,-130,100,2020,lck
+596,KT Rolster,T1,245,-333,-333,245,2020,lck
+597,DRX,Dplus Kia,-115,-112,-112,-115,2020,lck
+598,Kwangdong Freecs,Hanwha Life,-588,390,-588,390,2020,lck
+599,KT Rolster,Team Dynamics,-156,120,-156,120,2020,lck
+600,SeolHaeOne Prince,Liiv SANDBOX,278,-385,-385,278,2020,lck
+601,DRX,Gen.G,-115,-112,-115,-112,2020,lck
+602,T1,Hanwha Life,-1111,613,-1111,613,2020,lck
+603,Kwangdong Freecs,SeolHaeOne Prince,-556,367,-556,367,2020,lck
+604,Liiv SANDBOX,Dplus Kia,543,-909,-909,543,2020,lck
+605,Team Dynamics,Gen.G,525,-1000,-1000,525,2020,lck
+606,DRX,KT Rolster,-625,390,-625,390,2020,lck
+607,DRX,Team Dynamics,-833,450,-833,450,2020,lck
+608,SeolHaeOne Prince,Hanwha Life,-104,-123,-123,-104,2020,lck
+609,T1,Gen.G,-120,-108,-108,-120,2020,lck
+610,KT Rolster,Liiv SANDBOX,-103,-128,-103,-128,2020,lck
+611,Kwangdong Freecs,Dplus Kia,362,-556,-556,362,2020,lck
+612,DRX,Hanwha Life,-2000,872,-2000,872,2020,lck
+613,SeolHaeOne Prince,Liiv SANDBOX,242,-333,-333,242,2020,lck
+614,KT Rolster,T1,287,-400,-400,287,2020,lck
+615,Team Dynamics,Dplus Kia,455,-714,-714,455,2020,lck
+616,Kwangdong Freecs,Gen.G,231,-312,-312,231,2020,lck
+617,Hanwha Life,Gen.G,661,-1429,-1429,661,2020,lck
+618,T1,Team Dynamics,-769,478,478,-769,2020,lck
+619,Kwangdong Freecs,SeolHaeOne Prince,-435,298,-435,298,2020,lck
+620,DRX,Dplus Kia,-111,-116,-111,-116,2020,lck
+621,KT Rolster,Liiv SANDBOX,-213,162,162,-213,2020,lck
+622,Team Dynamics,Gen.G,363,-556,-556,363,2020,lck
+623,Kwangdong Freecs,Dplus Kia,240,-323,-323,240,2020,lck
+624,T1,SeolHaeOne Prince,-1429,705,-1429,705,2020,lck
+625,Liiv SANDBOX,Hanwha Life,-189,137,-189,137,2020,lck
+626,DRX,KT Rolster,-909,546,546,-909,2020,lck
+627,Kwangdong Freecs,KT Rolster,-143,112,-143,112,2020,lck
+628,DRX,SeolHaeOne Prince,-1250,670,-1250,670,2020,lck
+629,Team Dynamics,Liiv SANDBOX,-294,215,215,-294,2020,lck
+630,KT Rolster,Dplus Kia,-156,124,124,-156,2020,lck
+631,SeolHaeOne Prince,DRX,380,-588,-588,380,2020,lck
+632,Griffin,Hanwha Life,116,-154,116,-154,2020,lck
+633,Dplus Kia,Liiv SANDBOX,-303,220,-303,220,2020,lck
+634,Kwangdong Freecs,T1,322,-476,-476,322,2020,lck
+635,Gen.G,KT Rolster,-222,165,-222,165,2020,lck
+636,Hanwha Life,Gen.G,421,-714,421,-714,2020,lck
+637,DRX,Kwangdong Freecs,-370,265,-370,265,2020,lck
+638,Liiv SANDBOX,KT Rolster,188,-250,-250,188,2020,lck
+639,Hanwha Life,SeolHaeOne Prince,-116,-116,-116,-116,2020,lck
+640,KT Rolster,T1,265,-385,265,-385,2020,lck
+641,DRX,Dplus Kia,-238,175,-238,175,2020,lck
+642,Griffin,Kwangdong Freecs,-115,-116,-116,-115,2020,lck
+643,T1,Liiv SANDBOX,-769,458,-769,458,2020,lck
+644,SeolHaeOne Prince,Gen.G,473,-769,-769,473,2020,lck
+645,Dplus Kia,Griffin,-588,383,383,-588,2020,lck
+646,Kwangdong Freecs,Hanwha Life,-227,169,169,-227,2020,lck
+647,Griffin,SeolHaeOne Prince,144,-196,144,-196,2020,lck
+648,T1,Dplus Kia,-385,270,270,-385,2020,lck
+649,DRX,Gen.G,162,-217,162,-217,2020,lck
+650,Dplus Kia,DRX,219,-294,-294,219,2020,lck
+651,DRX,Griffin,-435,301,-435,301,2020,lck
+652,Gen.G,SeolHaeOne Prince,-2000,875,-2000,875,2020,lck
+653,Dplus Kia,Kwangdong Freecs,118,-154,-154,118,2020,lck
+654,KT Rolster,Hanwha Life,125,-164,125,-164,2020,lck
+655,T1,Liiv SANDBOX,-357,258,-357,258,2020,lck
+656,SeolHaeOne Prince,DRX,618,-1250,-1250,618,2020,lck
+657,Hanwha Life,Dplus Kia,117,-154,-154,117,2020,lck
+658,Gen.G,Kwangdong Freecs,-256,192,-256,192,2020,lck
+659,T1,Griffin,-400,286,-400,286,2020,lck
+660,KT Rolster,Liiv SANDBOX,204,-278,204,-278,2020,lck
+661,Liiv SANDBOX,Dplus Kia,137,-179,137,-179,2020,lck
+662,Kwangdong Freecs,KT Rolster,-588,378,378,-588,2020,lck
+663,SeolHaeOne Prince,T1,697,-1429,-1429,697,2020,lck
+664,Hanwha Life,Griffin,-135,100,-135,100,2020,lck
+665,DRX,Gen.G,106,-139,-139,106,2020,lck
+666,Liiv SANDBOX,Kwangdong Freecs,166,-217,-217,166,2020,lck
+667,KT Rolster,SeolHaeOne Prince,-208,156,156,-208,2020,lck
+668,Griffin,Dplus Kia,177,-238,-238,177,2020,lck
+669,DRX,T1,-135,102,102,-135,2020,lck
+670,Team WE,LNG Esports,154,-196,-196,154,2021,lpl
+671,LNG Esports,Rare Atom,-118,-110,-118,-110,2021,lpl
+672,Royal Never Give Up,Team WE,-213,165,-213,165,2021,lpl
+673,FunPlus Phoenix,EDward Gaming,-303,225,225,-303,2021,lpl
+674,Team WE,EDward Gaming,179,-238,-238,179,2021,lpl
+675,FunPlus Phoenix,Team WE,-357,258,-357,258,2021,lpl
+676,LNG Esports,EDward Gaming,162,-208,-208,162,2021,lpl
+677,EDward Gaming,Team WE,-208,162,162,-208,2021,lpl
+678,FunPlus Phoenix,LNG Esports,-333,254,-333,254,2021,lpl
+679,Rare Atom,Team WE,-104,-123,-123,-104,2021,lpl
+680,Royal Never Give Up,LNG Esports,-278,200,200,-278,2021,lpl
+681,Bilibili Gaming,Team WE,123,-159,-159,123,2021,lpl
+682,Top Esports,LNG Esports,-333,244,244,-333,2021,lpl
+683,Team WE,Oh My God,-286,209,-286,209,2021,lpl
+684,LNG Esports,Weibo Gaming,198,-270,198,-270,2021,lpl
+685,FunPlus Phoenix,EDward Gaming,-147,116,-147,116,2021,lpl
+686,Team WE,Top Esports,114,-145,-145,114,2021,lpl
+687,Royal Never Give Up,Bilibili Gaming,-357,264,264,-357,2021,lpl
+688,Invictus Gaming,TT Gaming,-435,309,-435,309,2021,lpl
+689,Anyone's Legend,JD Gaming,192,-250,192,-250,2021,lpl
+690,LGD Gaming,Victory Five,-500,345,-500,345,2021,lpl
+691,Invictus Gaming,Rare Atom,168,-217,-217,168,2021,lpl
+692,LNG Esports,EDward Gaming,450,-833,-833,450,2021,lpl
+693,TT Gaming,Ultra Prime,147,-189,-189,147,2021,lpl
+694,FunPlus Phoenix,Victory Five,-2500,922,-2500,922,2021,lpl
+695,TT Gaming,Weibo Gaming,433,-667,-667,433,2021,lpl
+696,Royal Never Give Up,Team WE,-227,175,-227,175,2021,lpl
+697,Top Esports,Oh My God,-244,189,-244,189,2021,lpl
+698,Rare Atom,Weibo Gaming,114,-147,114,-147,2021,lpl
+699,Ultra Prime,Bilibili Gaming,275,-370,-370,275,2021,lpl
+700,Invictus Gaming,Team WE,125,-159,-159,125,2021,lpl
+701,Oh My God,LGD Gaming,-132,104,-132,104,2021,lpl
+702,JD Gaming,FunPlus Phoenix,187,-244,-244,187,2021,lpl
+703,Top Esports,Ultra Prime,-1000,549,549,-1000,2021,lpl
+704,Royal Never Give Up,Rare Atom,-196,152,-196,152,2021,lpl
+705,Anyone's Legend,Team WE,283,-385,-385,283,2021,lpl
+706,EDward Gaming,Victory Five,-500,1201,-5000,1201,2021,lpl
+707,LNG Esports,Top Esports,329,-400,-400,329,2021,lpl
+708,Royal Never Give Up,TT Gaming,-1429,702,-1429,702,2021,lpl
+709,Invictus Gaming,Bilibili Gaming,-169,131,131,-169,2021,lpl
+710,Oh My God,JD Gaming,250,-333,250,-333,2021,lpl
+711,LNG Esports,Anyone's Legend,-200,154,-200,154,2021,lpl
+712,Weibo Gaming,Victory Five,-1667,842,-1667,842,2021,lpl
+713,Top Esports,Invictus Gaming,-294,221,221,-294,2021,lpl
+714,Victory Five,Oh My God,415,-625,-625,415,2021,lpl
+715,LGD Gaming,LNG Esports,112,-141,-141,112,2021,lpl
+716,EDward Gaming,Team WE,-323,238,238,-323,2021,lpl
+717,JD Gaming,Royal Never Give Up,161,-213,-213,161,2021,lpl
+718,Rare Atom,Ultra Prime,-714,438,-714,438,2021,lpl
+719,Weibo Gaming,FunPlus Phoenix,145,-192,-192,145,2021,lpl
+720,Rare Atom,Team WE,200,-270,200,-270,2021,lpl
+721,Bilibili Gaming,Royal Never Give Up,276,-385,276,-385,2021,lpl
+722,Weibo Gaming,LGD Gaming,-1111,639,-1111,639,2021,lpl
+723,Top Esports,JD Gaming,-208,161,-208,161,2021,lpl
+724,Rare Atom,Anyone's Legend,-526,346,-526,346,2021,lpl
+725,Invictus Gaming,FunPlus Phoenix,125,-164,-164,125,2021,lpl
+726,TT Gaming,Victory Five,495,-769,495,-769,2021,lpl
+727,Team WE,Royal Never Give Up,-196,150,150,-196,2021,lpl
+728,Ultra Prime,LNG Esports,265,-370,-370,265,2021,lpl
+729,Oh My God,Weibo Gaming,366,-556,-556,366,2021,lpl
+730,LGD Gaming,Bilibili Gaming,280,-385,-385,280,2021,lpl
+731,Invictus Gaming,Anyone's Legend,-1111,601,-1111,601,2021,lpl
+732,Ultra Prime,FunPlus Phoenix,530,-909,-909,530,2021,lpl
+733,LNG Esports,Bilibili Gaming,-108,-120,-108,-120,2021,lpl
+734,Royal Never Give Up,Victory Five,-172,133,-172,133,2021,lpl
+735,JD Gaming,Rare Atom,-213,163,-213,163,2021,lpl
+736,EDward Gaming,TT Gaming,-1429,721,-1429,721,2021,lpl
+737,LNG Esports,Team WE,165,-217,-217,165,2021,lpl
+738,Anyone's Legend,Victory Five,192,-256,-256,192,2021,lpl
+739,FunPlus Phoenix,Weibo Gaming,-185,142,-185,142,2021,lpl
+740,Bilibili Gaming,Team WE,129,-167,-167,129,2021,lpl
+741,Invictus Gaming,LGD Gaming,108,-139,-139,108,2021,lpl
+742,Ultra Prime,EDward Gaming,1099,-333,-3333,1099,2021,lpl
+743,Oh My God,TT Gaming,-217,170,-217,170,2021,lpl
+744,Victory Five,Anyone's Legend,-132,102,102,-132,2021,lpl
+745,JD Gaming,EDward Gaming,197,-263,-263,197,2021,lpl
+746,Invictus Gaming,LNG Esports,134,-172,-172,134,2021,lpl
+747,LGD Gaming,Weibo Gaming,200,-263,200,-263,2021,lpl
+748,FunPlus Phoenix,Royal Never Give Up,-175,134,-175,134,2021,lpl
+749,Oh My God,Bilibili Gaming,-109,-119,-119,-109,2021,lpl
+750,Team WE,Rare Atom,-108,-120,-120,-108,2021,lpl
+751,LGD Gaming,Top Esports,246,-333,-333,246,2021,lpl
+752,Victory Five,TT Gaming,137,-175,-175,137,2021,lpl
+753,Weibo Gaming,EDward Gaming,206,-278,-278,206,2021,lpl
+754,Royal Never Give Up,Anyone's Legend,-1667,813,-1667,813,2021,lpl
+755,Team WE,FunPlus Phoenix,123,-159,-159,123,2021,lpl
+756,JD Gaming,Victory Five,-2000,893,-2000,893,2021,lpl
+757,Rare Atom,Top Esports,150,-196,150,-196,2021,lpl
+758,TT Gaming,LNG Esports,730,-1429,-1429,730,2021,lpl
+759,Ultra Prime,Invictus Gaming,289,-400,-400,289,2021,lpl
+760,Invictus Gaming,Weibo Gaming,191,-256,191,-256,2021,lpl
+761,FunPlus Phoenix,Royal Never Give Up,-217,164,164,-217,2021,lpl
+762,EDward Gaming,Royal Never Give Up,-175,135,135,-175,2021,lpl
+763,FunPlus Phoenix,EDward Gaming,-122,-106,-122,-106,2021,lpl
+764,Royal Never Give Up,Top Esports,125,-161,125,-161,2021,lpl
+765,EDward Gaming,Top Esports,144,-189,144,-189,2021,lpl
+766,Royal Never Give Up,FunPlus Phoenix,-164,125,125,-164,2021,lpl
+767,Top Esports,Weibo Gaming,-145,112,-145,112,2021,lpl
+768,JD Gaming,FunPlus Phoenix,-112,100,100,-112,2021,lpl
+769,Team WE,Weibo Gaming,141,-182,-182,141,2021,lpl
+770,Rare Atom,Victory Five,-588,383,-588,383,2021,lpl
+771,Top Esports,Bilibili Gaming,-909,547,-909,547,2021,lpl
+772,FunPlus Phoenix,LGD Gaming,-2500,977,-2500,977,2021,lpl
+773,Royal Never Give Up,Ultra Prime,-333,104,-3333,1042,2021,lpl
+774,Victory Five,JD Gaming,451,-667,-667,451,2021,lpl
+775,Invictus Gaming,Top Esports,156,-204,-204,156,2021,lpl
+776,TT Gaming,Bilibili Gaming,192,-256,-256,192,2021,lpl
+777,Anyone's Legend,Oh My God,-111,-116,-116,-111,2021,lpl
+778,Royal Never Give Up,EDward Gaming,-106,-120,-106,-120,2021,lpl
+779,FunPlus Phoenix,Rare Atom,-256,195,195,-256,2021,lpl
+780,LNG Esports,LGD Gaming,-588,382,-588,382,2021,lpl
+781,Victory Five,Weibo Gaming,241,-323,-323,241,2021,lpl
+782,Ultra Prime,JD Gaming,761,-1667,-1667,761,2021,lpl
+783,Oh My God,Top Esports,840,-2000,-2000,840,2021,lpl
+784,Royal Never Give Up,LNG Esports,-385,276,-385,276,2021,lpl
+785,LGD Gaming,Team WE,559,-1000,-1000,559,2021,lpl
+786,Ultra Prime,Rare Atom,453,-769,-769,453,2021,lpl
+787,Bilibili Gaming,Invictus Gaming,250,-345,-345,250,2021,lpl
+788,Weibo Gaming,TT Gaming,-769,480,-769,480,2021,lpl
+789,FunPlus Phoenix,JD Gaming,-101,-127,-101,-127,2021,lpl
+790,Rare Atom,Team WE,200,-270,200,-270,2021,lpl
+791,Bilibili Gaming,Royal Never Give Up,276,-385,276,-385,2021,lpl
+792,Weibo Gaming,LGD Gaming,-1111,639,-1111,639,2021,lpl
+793,Top Esports,JD Gaming,-208,161,-208,161,2021,lpl
+794,Rare Atom,Anyone's Legend,-526,346,-526,346,2021,lpl
+795,Invictus Gaming,FunPlus Phoenix,125,-164,-164,125,2021,lpl
+796,TT Gaming,Victory Five,495,-769,495,-769,2021,lpl
+797,Team WE,Royal Never Give Up,-196,150,150,-196,2021,lpl
+798,Ultra Prime,LNG Esports,265,-370,-370,265,2021,lpl
+799,Oh My God,Weibo Gaming,366,-556,-556,366,2021,lpl
+800,LGD Gaming,Bilibili Gaming,280,-385,-385,280,2021,lpl
+801,Invictus Gaming,Anyone's Legend,-1111,601,-1111,601,2021,lpl
+802,Ultra Prime,FunPlus Phoenix,530,-909,-909,530,2021,lpl
+803,LNG Esports,Bilibili Gaming,-108,-120,-108,-120,2021,lpl
+804,Royal Never Give Up,Victory Five,-172,133,-172,133,2021,lpl
+805,JD Gaming,Rare Atom,-213,163,-213,163,2021,lpl
+806,EDward Gaming,TT Gaming,-1429,721,-1429,721,2021,lpl
+807,LNG Esports,Team WE,165,-217,-217,165,2021,lpl
+808,Anyone's Legend,Victory Five,192,-256,-256,192,2021,lpl
+809,FunPlus Phoenix,Weibo Gaming,-185,142,-185,142,2021,lpl
+810,Team Liquid,100 Thieves,-175,131,131,-175,2021,lcs
+811,100 Thieves,Cloud9,142,-189,142,-189,2021,lcs
+812,Team SoloMid,Cloud9,179,-244,-244,179,2021,lcs
+813,100 Thieves,Team Liquid,164,-222,-222,164,2021,lcs
+814,Team SoloMid,Immortals,-345,241,-345,241,2021,lcs
+815,Evil Geniuses,Cloud9,154,-204,-204,154,2021,lcs
+816,Team Liquid,Team SoloMid,-175,133,-175,133,2021,lcs
+817,Evil Geniuses,100 Thieves,-108,-122,-122,-108,2021,lcs
+818,Golden Guardians,Cloud9,569,-1000,-1000,569,2021,lcs
+819,Immortals,Dignitas,-141,108,-141,108,2021,lcs
+820,Cloud9,Team Liquid,-200,150,150,-200,2021,lcs
+821,Evil Geniuses,Dignitas,-500,330,-500,330,2021,lcs
+822,FlyQuest eSports,Counter Logic Gaming,-149,114,114,-149,2021,lcs
+823,100 Thieves,Evil Geniuses,148,-196,-196,148,2021,lcs
+824,Team Liquid,Cloud9,-109,-120,-120,-109,2021,lcs
+825,Immortals,Golden Guardians,-137,104,104,-137,2021,lcs
+826,Dignitas,Team SoloMid,193,-263,193,-263,2021,lcs
+827,Team SoloMid,Counter Logic Gaming,-323,229,-323,229,2021,lcs
+828,Immortals,FlyQuest eSports,-159,120,120,-159,2021,lcs
+829,Cloud9,Dignitas,-270,200,-270,200,2021,lcs
+830,Team Liquid,Evil Geniuses,-115,-114,-115,-114,2021,lcs
+831,100 Thieves,Golden Guardians,-263,193,-263,193,2021,lcs
+832,Dignitas,Counter Logic Gaming,-167,125,-167,125,2021,lcs
+833,Team Liquid,Immortals,-185,142,-185,142,2021,lcs
+834,FlyQuest eSports,Golden Guardians,-104,-125,-125,-104,2021,lcs
+835,Evil Geniuses,Cloud9,102,-133,102,-133,2021,lcs
+836,100 Thieves,Team SoloMid,-130,-101,-101,-130,2021,lcs
+837,FlyQuest eSports,Dignitas,-125,-104,-104,-125,2021,lcs
+838,Evil Geniuses,Counter Logic Gaming,-323,229,-323,229,2021,lcs
+839,Team SoloMid,Cloud9,110,-145,110,-145,2021,lcs
+840,Immortals,100 Thieves,202,-278,202,-278,2021,lcs
+841,Team Liquid,Golden Guardians,-303,219,-303,219,2021,lcs
+842,100 Thieves,Counter Logic Gaming,-476,317,-476,317,2021,lcs
+843,Team Liquid,Dignitas,-312,225,225,-312,2021,lcs
+844,FlyQuest eSports,Cloud9,227,-312,-312,227,2021,lcs
+845,Immortals,Evil Geniuses,145,-192,145,-192,2021,lcs
+846,Team SoloMid,Golden Guardians,-270,197,-270,197,2021,lcs
+847,Immortals,Dignitas,-152,116,-152,116,2021,lcs
+848,Golden Guardians,Counter Logic Gaming,-161,123,123,-161,2021,lcs
+849,FlyQuest eSports,Team Liquid,199,-270,-270,199,2021,lcs
+850,Team SoloMid,Evil Geniuses,-128,-103,-103,-128,2021,lcs
+851,100 Thieves,Cloud9,-141,106,106,-141,2021,lcs
+852,Golden Guardians,Cloud9,211,-286,-286,211,2021,lcs
+853,FlyQuest eSports,100 Thieves,215,-294,-294,215,2021,lcs
+854,Dignitas,Evil Geniuses,177,-238,-238,177,2021,lcs
+855,Team SoloMid,Team Liquid,-128,-102,-128,-102,2021,lcs
+856,Immortals,Counter Logic Gaming,-175,135,-175,135,2021,lcs
+857,FlyQuest eSports,Evil Geniuses,141,-185,-185,141,2021,lcs
+858,Dignitas,Golden Guardians,-125,-104,-104,-125,2021,lcs
+859,Team SoloMid,Immortals,-196,147,-196,147,2021,lcs
+860,Team Liquid,100 Thieves,100,-132,-132,100,2021,lcs
+861,Counter Logic Gaming,Cloud9,290,-417,-417,290,2021,lcs
+862,Golden Guardians,Evil Geniuses,188,-256,188,-256,2021,lcs
+863,Team Liquid,Counter Logic Gaming,-323,234,-323,234,2021,lcs
+864,Dignitas,100 Thieves,268,-385,268,-385,2021,lcs
+865,FlyQuest eSports,Team SoloMid,158,-208,158,-208,2021,lcs
+866,Immortals,Cloud9,196,-263,196,-263,2021,lcs
+867,Dignitas,Counter Logic Gaming,-135,102,-135,102,2021,lcs
+868,Evil Geniuses,Cloud9,120,-156,120,-156,2021,lcs
+869,100 Thieves,Team SoloMid,-152,118,-152,118,2021,lcs
+870,FlyQuest eSports,Immortals,133,-175,133,-175,2021,lcs
+871,Team Liquid,Golden Guardians,-385,272,272,-385,2021,lcs
+872,Counter Logic Gaming,FlyQuest eSports,-161,124,124,-161,2021,lcs
+873,Cloud9,Dignitas,-357,258,-357,258,2021,lcs
+874,100 Thieves,Evil Geniuses,-213,162,162,-213,2021,lcs
+875,Team Liquid,Immortals,-217,163,-217,163,2021,lcs
+876,Golden Guardians,Team SoloMid,247,-345,-345,247,2021,lcs
+877,Dignitas,Team Liquid,212,-286,-286,212,2021,lcs
+878,Immortals,Evil Geniuses,110,-145,-145,110,2021,lcs
+879,Golden Guardians,100 Thieves,393,-625,393,-625,2021,lcs
+880,100 Thieves,Dignitas,-333,241,-333,241,2021,lcs
+881,Evil Geniuses,Team Liquid,134,-175,-175,134,2021,lcs
+882,Evil Geniuses,Golden Guardians,-256,190,-256,190,2021,lcs
+883,Immortals,FlyQuest eSports,-172,131,-172,131,2021,lcs
+884,Team SoloMid,Cloud9,108,-141,108,-141,2021,lcs
+885,Team Liquid,100 Thieves,-130,100,100,-130,2021,lcs
+886,Counter Logic Gaming,Dignitas,-125,-104,-125,-104,2021,lcs
+887,Golden Guardians,Team Liquid,329,-500,-500,329,2021,lcs
+888,100 Thieves,FlyQuest eSports,-385,267,-385,267,2021,lcs
+889,Team SoloMid,Dignitas,-250,185,-250,185,2021,lcs
+890,Counter Logic Gaming,Evil Geniuses,129,-169,129,-169,2021,lcs
+891,Cloud9,Immortals,-303,220,220,-303,2021,lcs
+892,100 Thieves,Counter Logic Gaming,-357,254,254,-357,2021,lcs
+893,Dignitas,Golden Guardians,-233,174,174,-233,2021,lcs
+894,Immortals,Team SoloMid,166,-222,-222,166,2021,lcs
+895,FlyQuest eSports,Team Liquid,250,-345,-345,250,2021,lcs
+896,Cloud9,Evil Geniuses,-333,237,237,-333,2021,lcs
+897,Evil Geniuses,100 Thieves,150,-200,-200,150,2021,lcs
+898,Dignitas,Cloud9,197,-270,-270,197,2021,lcs
+899,Counter Logic Gaming,Team SoloMid,217,-294,-294,217,2021,lcs
+900,Cloud9,Team Liquid,-116,-114,-116,-114,2021,lcs
+901,100 Thieves,Dignitas,-217,164,-217,164,2021,lcs
+902,Team SoloMid,Evil Geniuses,-196,150,-196,150,2021,lcs
+903,Cloud9,100 Thieves,-400,284,-400,284,2021,lcs
+904,Team SoloMid,Team Liquid,156,-204,-204,156,2021,lcs
+905,Immortals,Cloud9,338,-526,-526,338,2021,lcs
+906,Counter Logic Gaming,Evil Geniuses,141,-185,-185,141,2021,lcs
+907,100 Thieves,Team Liquid,131,-169,-169,131,2021,lcs
+908,Golden Guardians,Team SoloMid,362,-556,-556,362,2021,lcs
+909,FlyQuest eSports,Dignitas,120,-156,-156,120,2021,lcs
+910,Counter Logic Gaming,Golden Guardians,-250,184,184,-250,2021,lcs
+911,Evil Geniuses,Team Liquid,152,-200,-200,152,2021,lcs
+912,FlyQuest eSports,100 Thieves,187,-250,-250,187,2021,lcs
+913,Dignitas,Cloud9,231,-323,-323,231,2021,lcs
+914,Team SoloMid,Immortals,-263,195,-263,195,2021,lcs
+915,Golden Guardians,FlyQuest eSports,167,-244,-244,167,2021,lcs
+916,Team Liquid,Dignitas,-270,196,-270,196,2021,lcs
+917,100 Thieves,Immortals,-244,179,-244,179,2021,lcs
+918,Evil Geniuses,Team SoloMid,127,-167,127,-167,2021,lcs
+919,Cloud9,Counter Logic Gaming,-588,373,373,-588,2021,lcs
+920,Evil Geniuses,Counter Logic Gaming,-357,229,-357,229,2021,lcs
+921,Team Liquid,Cloud9,114,-149,114,-149,2021,lcs
+922,100 Thieves,Golden Guardians,-667,412,412,-667,2021,lcs
+923,Immortals,FlyQuest eSports,106,-141,106,-141,2021,lcs
+924,Dignitas,Team SoloMid,223,-303,223,-303,2021,lcs
+925,FlyQuest eSports,Golden Guardians,-263,195,-263,195,2021,lcs
+926,Team Liquid,Evil Geniuses,-238,175,175,-238,2021,lcs
+927,Team SoloMid,100 Thieves,106,-139,106,-139,2021,lcs
+928,Counter Logic Gaming,Immortals,-147,112,112,-147,2021,lcs
+929,Cloud9,Dignitas,-370,267,-370,267,2021,lcs
+930,Immortals,100 Thieves,296,-417,-417,296,2021,lcs
+931,Team SoloMid,Evil Geniuses,-137,106,-137,106,2021,lcs
+932,Golden Guardians,Team Liquid,484,-833,-833,484,2021,lcs
+933,Dignitas,FlyQuest eSports,-109,-119,-109,-119,2021,lcs
+934,Counter Logic Gaming,Cloud9,426,-714,-714,426,2021,lcs
+935,Golden Guardians,Counter Logic Gaming,-106,-123,-123,-106,2021,lcs
+936,Cloud9,FlyQuest eSports,-385,269,-385,269,2021,lcs
+937,Evil Geniuses,Dignitas,-278,204,204,-278,2021,lcs
+938,Immortals,Team SoloMid,154,-204,-204,154,2021,lcs
+939,Team Liquid,100 Thieves,-167,127,127,-167,2021,lcs
+940,MAD Lions,Fnatic,-154,117,-154,117,2021,lec
+941,Rogue,Fnatic,-112,-115,-115,-112,2021,lec
+942,G2 Esports,Fnatic,-185,142,142,-185,2021,lec
+943,Rogue,MAD Lions,-118,-110,-110,-118,2021,lec
+944,Misfits,Fnatic,102,-132,-132,102,2021,lec
+945,Vitality,Fnatic,202,-270,-270,202,2021,lec
+946,MAD Lions,G2 Esports,127,-167,127,-167,2021,lec
+947,Misfits,Rogue,235,-323,-323,235,2021,lec
+948,G2 Esports,Excel Esports,-333,236,-333,236,2021,lec
+949,MAD Lions,Misfits,-145,110,-145,110,2021,lec
+950,Vitality,Fnatic,134,-175,-175,134,2021,lec
+951,Excel Esports,MAD Lions,254,-357,-357,254,2021,lec
+952,Schalke 04,SK Gaming,-192,147,147,-192,2021,lec
+953,Rogue,MAD Lions,-154,117,-154,117,2021,lec
+954,Misfits,G2 Esports,104,-137,104,-137,2021,lec
+955,SK Gaming,Fnatic,294,-435,-435,294,2021,lec
+956,Schalke 04,Astralis,-147,110,110,-147,2021,lec
+957,Vitality,Excel Esports,-312,229,229,-312,2021,lec
+958,G2 Esports,Excel Esports,-556,362,362,-556,2021,lec
+959,Schalke 04,Fnatic,202,-270,202,-270,2021,lec
+960,Misfits,MAD Lions,-112,-118,-118,-112,2021,lec
+961,SK Gaming,Rogue,401,-667,-667,401,2021,lec
+962,Vitality,Astralis,-312,227,227,-312,2021,lec
+963,G2 Esports,Fnatic,-179,135,135,-179,2021,lec
+964,Vitality,MAD Lions,147,-196,147,-196,2021,lec
+965,Rogue,Astralis,-455,303,-455,303,2021,lec
+966,Schalke 04,Misfits,140,-185,-185,140,2021,lec
+967,SK Gaming,Excel Esports,124,-161,124,-161,2021,lec
+968,Vitality,G2 Esports,172,-233,172,-233,2021,lec
+969,Fnatic,Astralis,-323,231,-323,231,2021,lec
+970,Schalke 04,Rogue,220,-303,-303,220,2021,lec
+971,SK Gaming,MAD Lions,367,-588,-588,367,2021,lec
+972,Misfits,Excel Esports,-233,173,-233,173,2021,lec
+973,Rogue,G2 Esports,-114,-115,-115,-114,2021,lec
+974,Fnatic,Excel Esports,-256,189,-256,189,2021,lec
+975,Schalke 04,MAD Lions,168,-222,-222,168,2021,lec
+976,Misfits,Astralis,-238,177,-238,177,2021,lec
+977,Vitality,SK Gaming,-263,193,-263,193,2021,lec
+978,G2 Esports,Astralis,-476,318,-476,318,2021,lec
+979,Vitality,Fnatic,104,-137,-137,104,2021,lec
+980,Rogue,Misfits,-233,171,-233,171,2021,lec
+981,MAD Lions,Excel Esports,-455,307,307,-455,2021,lec
+982,SK Gaming,Schalke 04,147,-196,-196,147,2021,lec
+983,Rogue,Fnatic,-238,177,177,-238,2021,lec
+984,SK Gaming,G2 Esports,413,-667,-667,413,2021,lec
+985,MAD Lions,Astralis,-500,333,-500,333,2021,lec
+986,Vitality,Misfits,-167,125,125,-167,2021,lec
+987,Schalke 04,Excel Esports,-213,161,161,-213,2021,lec
+988,MAD Lions,Fnatic,-222,167,-222,167,2021,lec
+989,Schalke 04,G2 Esports,231,-312,231,-312,2021,lec
+990,Vitality,Rogue,188,-256,-256,188,2021,lec
+991,SK Gaming,Misfits,179,-244,-244,179,2021,lec
+992,Excel Esports,Astralis,-141,108,108,-141,2021,lec
+993,Misfits,Fnatic,100,-133,100,-133,2021,lec
+994,Vitality,Schalke 04,-156,119,-156,119,2021,lec
+995,Rogue,Excel Esports,-455,312,-455,312,2021,lec
+996,SK Gaming,Astralis,102,-133,-133,102,2021,lec
+997,MAD Lions,G2 Esports,-108,-122,-122,-108,2021,lec
+998,MAD Lions,Rogue,-109,-122,-109,-122,2021,lec
+999,G2 Esports,Rogue,-233,173,173,-233,2021,lec
+1000,Rogue,Schalke 04,-185,142,-185,142,2021,lec
+1001,G2 Esports,MAD Lions,-333,241,241,-333,2021,lec
+1002,Schalke 04,Fnatic,171,-233,171,-233,2021,lec
+1003,Rogue,MAD Lions,-385,268,268,-385,2021,lec
+1004,G2 Esports,Schalke 04,-909,512,-909,512,2021,lec
+1005,Fnatic,SK Gaming,-417,296,-417,296,2021,lec
+1006,Fnatic,Rogue,110,-145,-145,110,2021,lec
+1007,G2 Esports,SK Gaming,-385,277,-385,277,2021,lec
+1008,MAD Lions,Astralis,-323,231,231,-323,2021,lec
+1009,Schalke 04,Excel Esports,-175,131,-175,131,2021,lec
+1010,Vitality,Misfits,141,-189,141,-189,2021,lec
+1011,G2 Esports,MAD Lions,-303,221,221,-303,2021,lec
+1012,Misfits,Fnatic,147,-192,147,-192,2021,lec
+1013,Rogue,Excel Esports,-476,317,317,-476,2021,lec
+1014,Vitality,Schalke 04,121,-159,-159,121,2021,lec
+1015,Astralis,SK Gaming,179,-244,179,-244,2021,lec
+1016,Excel Esports,G2 Esports,476,-833,476,-833,2021,lec
+1017,Misfits,MAD Lions,129,-172,129,-172,2021,lec
+1018,Fnatic,Schalke 04,-278,202,202,-278,2021,lec
+1019,Astralis,Vitality,156,-204,156,-204,2021,lec
+1020,Schalke 04,SK Gaming,-175,131,131,-175,2021,lec
+1021,Fnatic,Excel Esports,-294,206,-294,206,2021,lec
+1022,G2 Esports,Rogue,-164,122,-164,122,2021,lec
+1023,Schalke 04,MAD Lions,-169,129,129,-169,2021,lec
+1024,Misfits,Astralis,-164,125,-164,125,2021,lec
+1025,Vitality,SK Gaming,-103,-128,-128,-103,2021,lec
+1026,Fnatic,SK Gaming,-270,202,-270,202,2021,lec
+1027,MAD Lions,Rogue,143,-185,-185,143,2021,lec
+1028,Misfits,G2 Esports,311,-455,-455,311,2021,lec
+1029,Vitality,Excel Esports,112,-147,-147,112,2021,lec
+1030,Schalke 04,Astralis,-385,276,276,-385,2021,lec
+1031,G2 Esports,Fnatic,-263,195,195,-263,2021,lec
+1032,Rogue,Astralis,-833,495,-833,495,2021,lec
+1033,Vitality,MAD Lions,152,-204,-204,152,2021,lec
+1034,Excel Esports,SK Gaming,-130,-101,-130,-101,2021,lec
+1035,Schalke 04,Misfits,-149,116,-149,116,2021,lec
+1036,Fnatic,Astralis,-476,322,-476,322,2021,lec
+1037,Schalke 04,Rogue,179,-244,179,-244,2021,lec
+1038,Vitality,G2 Esports,382,-625,-625,382,2021,lec
+1039,MAD Lions,SK Gaming,-238,175,175,-238,2021,lec
+1040,Rensga eSports,RED Canids,-127,-106,-106,-127,2021,cblol
+1041,Vorax,RED Canids,-204,150,150,-204,2021,cblol
+1042,paiN Gaming,Rensga eSports,-270,194,194,-270,2021,cblol
+1043,Flamengo,RED Canids,-263,189,189,-263,2021,cblol
+1044,Rensga eSports,LOUD,-179,131,-179,131,2021,cblol
+1045,LOUD,Flamengo,-104,-127,-127,-104,2021,cblol
+1046,INTZ-eSports,FURIA Esports,-143,108,108,-143,2021,cblol
+1047,Netshoes Miners,Vorax,396,-667,396,-667,2021,cblol
+1048,RED Canids,Rensga eSports,-133,100,100,-133,2021,cblol
+1049,KaBuM! e-Sports,paiN Gaming,280,-417,-417,280,2021,cblol
+1050,paiN Gaming,Netshoes Miners,-769,455,-769,455,2021,cblol
+1051,Vorax,INTZ-eSports,-667,401,-667,401,2021,cblol
+1052,Rensga eSports,LOUD,102,-137,102,-137,2021,cblol
+1053,FURIA Esports,RED Canids,202,-286,-286,202,2021,cblol
+1054,Flamengo,KaBuM! e-Sports,-323,229,229,-323,2021,cblol
+1055,INTZ-eSports,paiN Gaming,282,-435,-435,282,2021,cblol
+1056,Rensga eSports,Flamengo,174,-238,174,-238,2021,cblol
+1057,LOUD,FURIA Esports,-357,248,-357,248,2021,cblol
+1058,RED Canids,Vorax,175,-238,175,-238,2021,cblol
+1059,Netshoes Miners,KaBuM! e-Sports,127,-172,-172,127,2021,cblol
+1060,KaBuM! e-Sports,INTZ-eSports,-133,-101,-133,-101,2021,cblol
+1061,paiN Gaming,RED Canids,-217,160,-217,160,2021,cblol
+1062,FURIA Esports,Rensga eSports,140,-189,-189,140,2021,cblol
+1063,Flamengo,Netshoes Miners,-769,400,-769,400,2021,cblol
+1064,Vorax,LOUD,-159,120,-159,120,2021,cblol
+1065,LOUD,paiN Gaming,121,-161,-161,121,2021,cblol
+1066,INTZ-eSports,Netshoes Miners,-143,108,-143,108,2021,cblol
+1067,RED Canids,KaBuM! e-Sports,-233,168,-233,168,2021,cblol
+1068,Rensga eSports,Vorax,187,-256,187,-256,2021,cblol
+1069,FURIA Esports,Flamengo,338,-526,-526,338,2021,cblol
+1070,Netshoes Miners,RED Canids,250,-357,250,-357,2021,cblol
+1071,KaBuM! e-Sports,LOUD,181,-250,-250,181,2021,cblol
+1072,Vorax,FURIA Esports,-526,340,-526,340,2021,cblol
+1073,Flamengo,INTZ-eSports,-588,362,362,-588,2021,cblol
+1074,paiN Gaming,Rensga eSports,-370,258,-370,258,2021,cblol
+1075,Rensga eSports,KaBuM! e-Sports,-130,-102,-130,-102,2021,cblol
+1076,KaBuM! e-Sports,FURIA Esports,-196,146,146,-196,2021,cblol
+1077,LOUD,Netshoes Miners,-455,316,-455,316,2021,cblol
+1078,INTZ-eSports,RED Canids,172,-244,-244,172,2021,cblol
+1079,FURIA Esports,paiN Gaming,376,-625,-625,376,2021,cblol
+1080,Vorax,Flamengo,108,-147,108,-147,2021,cblol
+1081,Netshoes Miners,Rensga eSports,143,-192,-192,143,2021,cblol
+1082,Flamengo,RED Canids,-323,225,225,-323,2021,cblol
+1083,LOUD,INTZ-eSports,-278,199,-278,199,2021,cblol
+1084,paiN Gaming,Vorax,-189,141,141,-189,2021,cblol
+1085,paiN Gaming,Flamengo,-114,-118,-118,-114,2021,cblol
+1086,Vorax,KaBuM! e-Sports,-244,179,-244,179,2021,cblol
+1087,INTZ-eSports,Rensga eSports,-114,-122,-122,-114,2021,cblol
+1088,FURIA Esports,Netshoes Miners,-145,108,108,-145,2021,cblol
+1089,RED Canids,LOUD,-125,-108,-108,-125,2021,cblol
+1090,Vorax,Netshoes Miners,-833,480,480,-833,2021,cblol
+1091,paiN Gaming,KaBuM! e-Sports,-357,250,-357,250,2021,cblol
+1092,FURIA Esports,INTZ-eSports,-118,-115,-115,-118,2021,cblol
+1093,Rensga eSports,RED Canids,148,-200,-200,148,2021,cblol
+1094,Flamengo,LOUD,-370,254,254,-370,2021,cblol
+1095,LOUD,Rensga eSports,-152,114,-152,114,2021,cblol
+1096,RED Canids,FURIA Esports,-270,192,-270,192,2021,cblol
+1097,KaBuM! e-Sports,Flamengo,243,-345,-345,243,2021,cblol
+1098,Netshoes Miners,paiN Gaming,544,-1000,-1000,544,2021,cblol
+1099,INTZ-eSports,Vorax,220,-312,-312,220,2021,cblol
+1100,Flamengo,Rensga eSports,-400,273,-400,273,2021,cblol
+1101,KaBuM! e-Sports,Netshoes Miners,-556,348,348,-556,2021,cblol
+1102,paiN Gaming,INTZ-eSports,-417,288,-417,288,2021,cblol
+1103,Vorax,RED Canids,-200,149,-200,149,2021,cblol
+1104,FURIA Esports,LOUD,112,-152,-152,112,2021,cblol
+1105,Netshoes Miners,Flamengo,536,-1000,-1000,536,2021,cblol
+1106,Netshoes Miners,INTZ-eSports,162,-222,-222,162,2021,cblol
+1107,RED Canids,paiN Gaming,139,-189,-189,139,2021,cblol
+1108,LOUD,Vorax,152,-204,-204,152,2021,cblol
+1109,Rensga eSports,FURIA Esports,-244,177,177,-244,2021,cblol
+1110,INTZ-eSports,KaBuM! e-Sports,127,-172,-172,127,2021,cblol
+1111,KaBuM! e-Sports,RED Canids,-114,-116,-116,-114,2021,cblol
+1112,Vorax,Rensga eSports,-154,114,-154,114,2021,cblol
+1113,Flamengo,FURIA Esports,-500,326,-500,326,2021,cblol
+1114,paiN Gaming,LOUD,-263,192,-263,192,2021,cblol
+1115,INTZ-eSports,Flamengo,308,-455,-455,308,2021,cblol
+1116,FURIA Esports,Vorax,243,-345,-345,243,2021,cblol
+1117,RED Canids,Netshoes Miners,-588,361,-588,361,2021,cblol
+1118,Rensga eSports,paiN Gaming,245,-345,245,-345,2021,cblol
+1119,LOUD,KaBuM! e-Sports,-145,108,108,-145,2021,cblol
+1120,INTZ-eSports,paiN Gaming,211,-286,-286,211,2021,cblol
+1121,RED Canids,Vorax,114,-152,-152,114,2021,cblol
+1122,Rensga eSports,LOUD,252,-357,-357,252,2021,cblol
+1123,Netshoes Miners,KaBuM! e-Sports,248,-345,248,-345,2021,cblol
+1124,Flamengo,FURIA Esports,-476,326,326,-476,2021,cblol
+1125,paiN Gaming,Rensga eSports,-833,478,-833,478,2021,cblol
+1126,LOUD,Flamengo,199,-278,199,-278,2021,cblol
+1127,FURIA Esports,RED Canids,446,-769,446,-769,2021,cblol
+1128,Vorax,Netshoes Miners,-625,387,-625,387,2021,cblol
+1129,KaBuM! e-Sports,INTZ-eSports,-208,154,-208,154,2021,cblol
+1130,RED Canids,LOUD,-208,154,-208,154,2021,cblol
+1131,KaBuM! e-Sports,paiN Gaming,127,-169,-169,127,2021,cblol
+1132,Netshoes Miners,FURIA Esports,-118,-115,-118,-115,2021,cblol
+1133,Flamengo,Rensga eSports,-1667,738,738,-1667,2021,cblol
+1134,INTZ-eSports,Vorax,168,-227,-227,168,2021,cblol
+1135,paiN Gaming,Flamengo,200,-270,200,-270,2021,cblol
+1136,Vorax,KaBuM! e-Sports,-217,161,161,-217,2021,cblol
+1137,FURIA Esports,INTZ-eSports,197,-270,-270,197,2021,cblol
+1138,Rensga eSports,RED Canids,529,-909,-909,529,2021,cblol
+1139,LOUD,Netshoes Miners,-714,426,426,-714,2021,cblol
+1140,INTZ-eSports,KaBuM! e-Sports,299,-455,299,-455,2021,cblol
+1141,Netshoes Miners,Vorax,288,-417,-417,288,2021,cblol
+1142,Rensga eSports,paiN Gaming,297,-435,-435,297,2021,cblol
+1143,RED Canids,FURIA Esports,-1250,615,-1250,615,2021,cblol
+1144,Flamengo,LOUD,-556,354,-556,354,2021,cblol
+1145,paiN Gaming,KaBuM! e-Sports,112,-149,-149,112,2021,cblol
+1146,Rensga eSports,Flamengo,726,-1667,-1667,726,2021,cblol
+1147,LOUD,RED Canids,170,-238,-238,170,2021,cblol
+1148,FURIA Esports,Netshoes Miners,114,-152,-152,114,2021,cblol
+1149,Vorax,INTZ-eSports,-185,138,-185,138,2021,cblol
+1150,Netshoes Miners,LOUD,461,-769,461,-769,2021,cblol
+1151,KaBuM! e-Sports,Vorax,-101,-130,-101,-130,2021,cblol
+1152,INTZ-eSports,FURIA Esports,-323,227,-323,227,2021,cblol
+1153,RED Canids,Rensga eSports,-909,496,-909,496,2021,cblol
+1154,Flamengo,paiN Gaming,-263,193,-263,193,2021,cblol
+1155,LOUD,INTZ-eSports,-263,190,-263,190,2021,cblol
+1156,Rensga eSports,Netshoes Miners,108,-145,108,-145,2021,cblol
+1157,Flamengo,RED Canids,-159,120,-159,120,2021,cblol
+1158,FURIA Esports,KaBuM! e-Sports,139,-189,-189,139,2021,cblol
+1159,paiN Gaming,Vorax,-263,193,193,-263,2021,cblol
+1160,Pentanet.GG,PEACE,-227,169,169,-227,2021,lco
+1161,Dire Wolves,PEACE,112,-152,-152,112,2021,lco
+1162,ORDER,PEACE,285,-435,-435,285,2021,lco
+1163,Pentanet.GG,Dire Wolves,-244,177,-244,177,2021,lco
+1164,Chiefs Esports Club,PEACE,-167,125,125,-167,2021,lco
+1165,ORDER,Dire Wolves,119,-161,-161,119,2021,lco
+1166,Mammoth,Kanga Esports,144,-196,144,-196,2021,lco
+1167,PEACE,ORDER,131,-172,131,-172,2021,lco
+1168,Gravitas,Pentanet.GG,479,-833,-833,479,2021,lco
+1169,Dire Wolves,Chiefs Esports Club,108,-143,108,-143,2021,lco
+1170,Chiefs Esports Club,Pentanet.GG,150,-204,150,-204,2021,lco
+1171,Mammoth,Gravitas,183,-256,183,-256,2021,lco
+1172,Kanga Esports,PEACE,154,-213,-213,154,2021,lco
+1173,ORDER,Dire Wolves,-167,125,125,-167,2021,lco
+1174,Chiefs Esports Club,Gravitas,-500,324,-500,324,2021,lco
+1175,Dire Wolves,Kanga Esports,-286,202,-286,202,2021,lco
+1176,Pentanet.GG,ORDER,-312,222,222,-312,2021,lco
+1177,PEACE,Mammoth,-476,307,-476,307,2021,lco
+1178,Gravitas,PEACE,193,-270,193,-270,2021,lco
+1179,Pentanet.GG,Kanga Esports,-667,386,-667,386,2021,lco
+1180,Dire Wolves,Mammoth,-1000,529,-1000,529,2021,lco
+1181,ORDER,Chiefs Esports Club,106,-143,106,-143,2021,lco
+1182,T1,Hanwha Life,-227,177,-227,177,2021,lck
+1183,Nongshim RedForce,Hanwha Life,-172,131,131,-172,2021,lck
+1184,Hanwha Life,Liiv SANDBOX,125,-159,125,-159,2021,lck
+1185,Dplus Kia,T1,-244,183,-244,183,2021,lck
+1186,Gen.G,T1,133,-172,-172,133,2021,lck
+1187,Dplus Kia,Nongshim RedForce,-357,265,-357,265,2021,lck
+1188,T1,Liiv SANDBOX,-208,158,-208,158,2021,lck
+1189,Nongshim RedForce,Kwangdong Freecs,-175,138,-175,138,2021,lck
+1190,Nongshim RedForce,Gen.G,-116,-112,-112,-116,2021,lck
+1191,Hanwha Life,T1,275,-385,275,-385,2021,lck
+1192,KT Rolster,Kwangdong Freecs,175,-227,-227,175,2021,lck
+1193,Dplus Kia,Liiv SANDBOX,-333,245,-333,245,2021,lck
+1194,DRX,Nongshim RedForce,415,-625,-625,415,2021,lck
+1195,Gen.G,Brion,-435,304,-435,304,2021,lck
+1196,Liiv SANDBOX,KT Rolster,-312,225,225,-312,2021,lck
+1197,Kwangdong Freecs,Hanwha Life,-161,129,-161,129,2021,lck
+1198,T1,DRX,-909,537,-909,537,2021,lck
+1199,Gen.G,Dplus Kia,145,-185,-185,145,2021,lck
+1200,Liiv SANDBOX,Brion,-333,238,-333,238,2021,lck
+1201,Nongshim RedForce,Kwangdong Freecs,-227,171,171,-227,2021,lck
+1202,T1,Gen.G,-120,-108,-120,-108,2021,lck
+1203,DRX,KT Rolster,164,-213,-213,164,2021,lck
+1204,Hanwha Life,Liiv SANDBOX,122,-156,-156,122,2021,lck
+1205,Brion,Dplus Kia,329,-476,-476,329,2021,lck
+1206,Dplus Kia,KT Rolster,-526,351,-526,351,2021,lck
+1207,Nongshim RedForce,Hanwha Life,-213,164,-213,164,2021,lck
+1208,Kwangdong Freecs,DRX,-435,312,312,-435,2021,lck
+1209,Brion,T1,289,-400,-400,289,2021,lck
+1210,KT Rolster,Gen.G,248,-345,-345,248,2021,lck
+1211,Liiv SANDBOX,Nongshim RedForce,136,-179,136,-179,2021,lck
+1212,DRX,Hanwha Life,313,-455,-455,313,2021,lck
+1213,Kwangdong Freecs,Dplus Kia,247,-333,247,-333,2021,lck
+1214,Hanwha Life,Brion,-164,127,-164,127,2021,lck
+1215,Gen.G,Kwangdong Freecs,-278,206,206,-278,2021,lck
+1216,T1,Liiv SANDBOX,-238,173,173,-238,2021,lck
+1217,Dplus Kia,DRX,-1429,732,-1429,732,2021,lck
+1218,Brion,Nongshim RedForce,224,-303,-303,224,2021,lck
+1219,Hanwha Life,KT Rolster,-169,131,131,-169,2021,lck
+1220,Kwangdong Freecs,T1,229,-312,-312,229,2021,lck
+1221,Liiv SANDBOX,Gen.G,259,-357,259,-357,2021,lck
+1222,Nongshim RedForce,KT Rolster,-250,190,-250,190,2021,lck
+1223,Brion,DRX,-182,141,-182,141,2021,lck
+1224,T1,Dplus Kia,166,-208,166,-208,2021,lck
+1225,Gen.G,Hanwha Life,-294,219,-294,219,2021,lck
+1226,DRX,Liiv SANDBOX,213,-278,-278,213,2021,lck
+1227,Brion,Kwangdong Freecs,185,-244,185,-244,2021,lck
+1228,Dplus Kia,Nongshim RedForce,-294,218,218,-294,2021,lck
+1229,KT Rolster,T1,169,-222,-222,169,2021,lck
+1230,Nongshim RedForce,T1,161,-208,161,-208,2021,lck
+1231,DRX,Gen.G,504,-833,-833,504,2021,lck
+1232,Hanwha Life,Dplus Kia,249,-333,-333,249,2021,lck
+1233,KT Rolster,Brion,-185,141,-185,141,2021,lck
+1234,Liiv SANDBOX,Kwangdong Freecs,-119,-108,-108,-119,2021,lck
+1235,Gen.G,T1,-200,154,154,-200,2021,lck
+1236,DRX,Brion,156,-200,156,-200,2021,lck
+1237,KT Rolster,Hanwha Life,-104,-123,-123,-104,2021,lck
+1238,Kwangdong Freecs,Nongshim RedForce,102,-132,-132,102,2021,lck
+1239,Liiv SANDBOX,Dplus Kia,247,-333,-333,247,2021,lck
+1240,Dplus Kia,Gen.G,125,-161,125,-161,2021,lck
+1241,Hanwha Life,Nongshim RedForce,127,-164,127,-164,2021,lck
+1242,Liiv SANDBOX,DRX,-312,233,-312,233,2021,lck
+1243,T1,Kwangdong Freecs,-204,161,161,-204,2021,lck
+1244,Brion,KT Rolster,114,-147,-147,114,2021,lck
+1245,Nongshim RedForce,Dplus Kia,208,-270,208,-270,2021,lck
+1246,Kwangdong Freecs,Liiv SANDBOX,-132,102,102,-132,2021,lck
+1247,Hanwha Life,DRX,-238,183,-238,183,2021,lck
+1248,Brion,Gen.G,404,-625,-625,404,2021,lck
+1249,T1,KT Rolster,-256,194,-256,194,2021,lck
+1250,KT Rolster,Liiv SANDBOX,-145,114,114,-145,2021,lck
+1251,DRX,T1,373,-556,-556,373,2021,lck
+1252,Dplus Kia,Hanwha Life,-1000,561,-1000,561,2021,lck
+1253,T1,DRX,-769,480,-769,480,2021,lck
+1254,Hanwha Life,Nongshim RedForce,-625,412,-625,412,2021,lck
+1255,Liiv SANDBOX,DRX,100,-123,100,-123,2021,lck
+1256,Hanwha Life,T1,112,-139,-139,112,2021,lck
+1257,Nongshim RedForce,Brion,-233,172,-233,172,2021,lck
+1258,Dplus Kia,KT Rolster,-1250,657,-1250,657,2021,lck
+1259,Kwangdong Freecs,Liiv SANDBOX,150,-200,150,-200,2021,lck
+1260,DRX,Gen.G,252,-357,-357,252,2021,lck
+1261,KT Rolster,Nongshim RedForce,149,-200,149,-200,2021,lck
+1262,Brion,Hanwha Life,371,-588,-588,371,2021,lck
+1263,T1,Kwangdong Freecs,-625,401,-625,401,2021,lck
+1264,DRX,Dplus Kia,256,-370,-370,256,2021,lck
+1265,KT Rolster,Gen.G,449,-714,-714,449,2021,lck
+1266,Liiv SANDBOX,Brion,-145,108,-145,108,2021,lck
+1267,T1,DRX,-256,190,-256,190,2021,lck
+1268,Kwangdong Freecs,Nongshim RedForce,104,-139,-139,104,2021,lck
+1269,Hanwha Life,KT Rolster,-435,300,-435,300,2021,lck
+1270,Gen.G,Dplus Kia,187,-256,187,-256,2021,lck
+1271,Dplus Kia,Nongshim RedForce,-1111,563,-1111,563,2021,lck
+1272,Nongshim RedForce,Hanwha Life,189,-256,-256,189,2021,lck
+1273,Brion,Liiv SANDBOX,158,-213,158,-213,2021,lck
+1274,KT Rolster,Dplus Kia,537,-1000,-1000,537,2021,lck
+1275,Dplus Kia,DRX,-1000,585,-1000,585,2021,lck
+1276,Hanwha Life,Liiv SANDBOX,-667,417,417,-667,2021,lck
+1277,KT Rolster,Kwangdong Freecs,-112,-120,-112,-120,2021,lck
+1278,T1,Brion,-667,418,-667,418,2021,lck
+1279,Gen.G,Nongshim RedForce,-385,277,-385,277,2021,lck
+1280,Liiv SANDBOX,Dplus Kia,709,-1429,-1429,709,2021,lck
+1281,Brion,KT Rolster,281,-400,281,-400,2021,lck
+1282,Hanwha Life,Kwangdong Freecs,-263,193,-263,193,2021,lck
+1283,Gen.G,DRX,-588,369,369,-588,2021,lck
+1284,T1,Nongshim RedForce,-286,204,-286,204,2021,lck
+1285,Nongshim RedForce,KT Rolster,124,-164,124,-164,2021,lck
+1286,Kwangdong Freecs,T1,280,-400,280,-400,2021,lck
+1287,Liiv SANDBOX,Gen.G,425,-714,-714,425,2021,lck
+1288,Brion,DRX,305,-435,-435,305,2021,lck
+1289,Dplus Kia,Hanwha Life,-303,219,-303,219,2021,lck
+1290,Nongshim RedForce,Kwangdong Freecs,-200,147,147,-200,2021,lck
+1291,T1,Liiv SANDBOX,-500,329,-500,329,2021,lck
+1292,DRX,KT Rolster,-102,-128,-128,-102,2021,lck
+1293,Dplus Kia,Gen.G,-204,154,-204,154,2021,lck
+1294,Hanwha Life,Brion,-667,408,-667,408,2021,lck
+1295,Gen.G,Hanwha Life,-294,211,211,-294,2021,lck
+1296,KT Rolster,T1,338,-500,338,-500,2021,lck
+1297,Brion,Nongshim RedForce,173,-233,-233,173,2021,lck
+1298,Kwangdong Freecs,Dplus Kia,630,-1250,-1250,630,2021,lck
+1299,DRX,Liiv SANDBOX,-145,108,-145,108,2021,lck
+1300,KT Rolster,Hanwha Life,167,-227,-227,167,2021,lck
+1301,Dplus Kia,Brion,-2500,875,875,-2500,2021,lck
+1302,Royal Never Give Up,LNG Esports,-164,127,-164,127,2022,lpl
+1303,LNG Esports,Victory Five,140,-179,140,-179,2022,lpl
+1304,EDward Gaming,Royal Never Give Up,-143,112,-143,112,2022,lpl
+1305,JD Gaming,Top Esports,-115,-112,-115,-112,2022,lpl
+1306,Top Esports,EDward Gaming,-120,-109,-120,-109,2022,lpl
+1307,Top Esports,JD Gaming,-119,-110,-110,-119,2022,lpl
+1308,LNG Esports,EDward Gaming,263,-370,-370,263,2022,lpl
+1309,JD Gaming,LNG Esports,-217,161,-217,161,2022,lpl
+1310,Top Esports,EDward Gaming,-130,100,-130,100,2022,lpl
+1311,Victory Five,LNG Esports,-213,160,160,-213,2022,lpl
+1312,Ultra Prime,Invictus Gaming,-147,116,116,-147,2022,lpl
+1313,Oh My God,Anyone's Legend,110,-147,110,-147,2022,lpl
+1314,Team WE,LGD Gaming,-111,-114,-114,-111,2022,lpl
+1315,Victory Five,JD Gaming,-149,117,117,-149,2022,lpl
+1316,LNG Esports,EDward Gaming,199,-263,-263,199,2022,lpl
+1317,TT Gaming,FunPlus Phoenix,204,-270,204,-270,2022,lpl
+1318,Royal Never Give Up,Rare Atom,-1000,595,-1000,595,2022,lpl
+1319,Weibo Gaming,Oh My God,-256,194,-256,194,2022,lpl
+1320,Ultra Prime,Top Esports,792,-1667,-1667,792,2022,lpl
+1321,Royal Never Give Up,EDward Gaming,-154,120,-154,120,2022,lpl
+1322,JD Gaming,Bilibili Gaming,-370,262,-370,262,2022,lpl
+1323,Team WE,Invictus Gaming,121,-156,-156,121,2022,lpl
+1324,Victory Five,LNG Esports,-455,322,-455,322,2022,lpl
+1325,Weibo Gaming,TT Gaming,-357,262,-357,262,2022,lpl
+1326,LGD Gaming,EDward Gaming,687,-1429,-1429,687,2022,lpl
+1327,FunPlus Phoenix,Anyone's Legend,-152,118,-152,118,2022,lpl
+1328,Royal Never Give Up,Bilibili Gaming,-476,338,-476,338,2022,lpl
+1329,Top Esports,Rare Atom,-909,556,-909,556,2022,lpl
+1330,Ultra Prime,LNG Esports,194,-256,-256,194,2022,lpl
+1331,TT Gaming,Oh My God,174,-227,174,-227,2022,lpl
+1332,Ultra Prime,Royal Never Give Up,334,-500,-500,334,2022,lpl
+1333,Team WE,Rare Atom,173,-222,-222,173,2022,lpl
+1334,Weibo Gaming,Top Esports,159,-204,-204,159,2022,lpl
+1335,JD Gaming,FunPlus Phoenix,-370,252,252,-370,2022,lpl
+1336,LNG Esports,LGD Gaming,-625,397,-625,397,2022,lpl
+1337,Victory Five,Anyone's Legend,-625,413,-625,413,2022,lpl
+1338,TT Gaming,EDward Gaming,447,-714,-714,447,2022,lpl
+1339,Royal Never Give Up,Oh My God,-667,425,-667,425,2022,lpl
+1340,Invictus Gaming,Bilibili Gaming,200,-270,-270,200,2022,lpl
+1341,Weibo Gaming,Ultra Prime,-244,184,-244,184,2022,lpl
+1342,Rare Atom,FunPlus Phoenix,-120,-105,-105,-120,2022,lpl
+1343,Top Esports,LNG Esports,-189,146,-189,146,2022,lpl
+1344,Victory Five,Team WE,-769,488,-769,488,2022,lpl
+1345,TT Gaming,JD Gaming,423,-667,-667,423,2022,lpl
+1346,Oh My God,LGD Gaming,-189,145,-189,145,2022,lpl
+1347,EDward Gaming,Bilibili Gaming,-256,196,-256,196,2022,lpl
+1348,Invictus Gaming,Anyone's Legend,-115,-112,-112,-115,2022,lpl
+1349,Victory Five,Royal Never Give Up,141,-185,141,-185,2022,lpl
+1350,Top Esports,FunPlus Phoenix,-526,355,-526,355,2022,lpl
+1351,Weibo Gaming,Rare Atom,-312,227,-312,227,2022,lpl
+1352,Weibo Gaming,Invictus Gaming,-435,307,-435,307,2022,lpl
+1353,Royal Never Give Up,Top Esports,-112,-112,-112,-112,2022,lpl
+1354,Top Esports,Victory Five,119,-149,119,-149,2022,lpl
+1355,Top Esports,Royal Never Give Up,-141,110,110,-141,2022,lpl
+1356,Victory Five,JD Gaming,-200,156,-200,156,2022,lpl
+1357,Royal Never Give Up,JD Gaming,-147,117,-147,117,2022,lpl
+1358,Victory Five,Top Esports,-143,112,112,-143,2022,lpl
+1359,JD Gaming,Weibo Gaming,-139,106,-139,106,2022,lpl
+1360,LNG Esports,Top Esports,133,-172,-172,133,2022,lpl
+1361,Weibo Gaming,EDward Gaming,158,-213,158,-213,2022,lpl
+1362,EDward Gaming,Royal Never Give Up,-118,-110,-110,-118,2022,lpl
+1363,Anyone's Legend,Invictus Gaming,134,-169,134,-169,2022,lpl
+1364,LGD Gaming,Weibo Gaming,544,-909,-909,544,2022,lpl
+1365,FunPlus Phoenix,Bilibili Gaming,181,-238,181,-238,2022,lpl
+1366,TT Gaming,LNG Esports,618,-1000,-1000,618,2022,lpl
+1367,Victory Five,JD Gaming,-357,267,267,-357,2022,lpl
+1368,Weibo Gaming,Royal Never Give Up,-167,131,131,-167,2022,lpl
+1369,LGD Gaming,EDward Gaming,600,-1000,-1000,600,2022,lpl
+1370,Bilibili Gaming,Top Esports,104,-132,-132,104,2022,lpl
+1371,Ultra Prime,JD Gaming,174,-227,-227,174,2022,lpl
+1372,LGD Gaming,Invictus Gaming,190,-244,190,-244,2022,lpl
+1373,Team WE,Rare Atom,231,-312,-312,231,2022,lpl
+1374,LNG Esports,Victory Five,-130,-102,-102,-130,2022,lpl
+1375,Bilibili Gaming,JD Gaming,-139,104,-139,104,2022,lpl
+1376,TT Gaming,FunPlus Phoenix,436,-667,436,-667,2022,lpl
+1377,Top Esports,EDward Gaming,162,-208,162,-208,2022,lpl
+1378,Weibo Gaming,Oh My God,-625,380,-625,380,2022,lpl
+1379,Team WE,Ultra Prime,133,-167,-167,133,2022,lpl
+1380,FunPlus Phoenix,Rare Atom,-196,154,154,-196,2022,lpl
+1381,Anyone's Legend,JD Gaming,280,-385,-385,280,2022,lpl
+1382,Weibo Gaming,FunPlus Phoenix,-137,108,-137,108,2022,lpl
+1383,EDward Gaming,Team WE,-1429,711,-1429,711,2022,lpl
+1384,Oh My God,Victory Five,127,-164,-164,127,2022,lpl
+1385,Bilibili Gaming,TT Gaming,-1667,793,-1667,793,2022,lpl
+1386,Ultra Prime,Anyone's Legend,-323,242,242,-323,2022,lpl
+1387,JD Gaming,Team WE,-250,193,-250,193,2022,lpl
+1388,Invictus Gaming,Rare Atom,191,-250,191,-250,2022,lpl
+1389,Royal Never Give Up,Bilibili Gaming,-112,-114,-112,-114,2022,lpl
+1390,Top Esports,Oh My God,-294,222,222,-294,2022,lpl
+1391,LNG Esports,FunPlus Phoenix,-192,148,-192,148,2022,lpl
+1392,Weibo Gaming,Victory Five,-106,-120,-106,-120,2022,lpl
+1393,TT Gaming,Anyone's Legend,256,-345,256,-345,2022,lpl
+1394,Invictus Gaming,Ultra Prime,162,-208,-208,162,2022,lpl
+1395,Rare Atom,Bilibili Gaming,164,-213,-213,164,2022,lpl
+1396,LGD Gaming,Oh My God,363,-526,363,-526,2022,lpl
+1397,Victory Five,Top Esports,125,-161,125,-161,2022,lpl
+1398,Invictus Gaming,Royal Never Give Up,311,-435,-435,311,2022,lpl
+1399,Anyone's Legend,Weibo Gaming,334,-476,-476,334,2022,lpl
+1400,EDward Gaming,Oh My God,-500,346,-500,346,2022,lpl
+1401,JD Gaming,FunPlus Phoenix,206,-270,206,-270,2022,lpl
+1402,LNG Esports,Team WE,-556,380,-556,380,2022,lpl
+1403,TT Gaming,Weibo Gaming,836,-2000,-2000,836,2022,lpl
+1404,Royal Never Give Up,Anyone's Legend,-588,396,-588,396,2022,lpl
+1405,Ultra Prime,LGD Gaming,-333,247,-333,247,2022,lpl
+1406,Oh My God,Bilibili Gaming,125,-161,-161,125,2022,lpl
+1407,Rare Atom,Victory Five,-123,-104,-104,-123,2022,lpl
+1408,LNG Esports,Invictus Gaming,-476,333,-476,333,2022,lpl
+1409,Team WE,Top Esports,349,-526,-526,349,2022,lpl
+1410,Ultra Prime,EDward Gaming,688,-1429,-1429,688,2022,lpl
+1411,LGD Gaming,JD Gaming,218,-286,-286,218,2022,lpl
+1412,Anyone's Legend,FunPlus Phoenix,303,-417,-417,303,2022,lpl
+1413,Royal Never Give Up,TT Gaming,-2000,930,-2000,930,2022,lpl
+1414,Weibo Gaming,Bilibili Gaming,-120,-108,-108,-120,2022,lpl
+1415,Team WE,Victory Five,163,-213,-213,163,2022,lpl
+1416,Oh My God,Invictus Gaming,-154,121,-154,121,2022,lpl
+1417,LNG Esports,Rare Atom,-323,244,-323,244,2022,lpl
+1418,Ultra Prime,Top Esports,386,-588,-588,386,2022,lpl
+1419,TT Gaming,EDward Gaming,1106,-333,-3333,1106,2022,lpl
+1420,JD Gaming,Royal Never Give Up,270,-370,-370,270,2022,lpl
+1421,Anyone's Legend,Oh My God,131,-169,-169,131,2022,lpl
+1422,LGD Gaming,FunPlus Phoenix,424,-667,-667,424,2022,lpl
+1423,Weibo Gaming,Team WE,-270,206,-270,206,2022,lpl
+1424,Invictus Gaming,TT Gaming,-588,383,-588,383,2022,lpl
+1425,Ultra Prime,LNG Esports,320,-455,-455,320,2022,lpl
+1426,Rare Atom,Top Esports,512,-833,512,-833,2022,lpl
+1427,LGD Gaming,Anyone's Legend,136,-175,-175,136,2022,lpl
+1428,JD Gaming,EDward Gaming,574,-1000,-1000,574,2022,lpl
+1429,FunPlus Phoenix,Royal Never Give Up,142,-182,142,-182,2022,lpl
+1430,Oh My God,TT Gaming,-455,323,-455,323,2022,lpl
+1431,Cloud9,100 Thieves,-161,125,-161,125,2022,lcs
+1432,100 Thieves,Evil Geniuses,-278,206,-278,206,2022,lcs
+1433,Evil Geniuses,Team Liquid,-112,-118,-112,-118,2022,lcs
+1434,100 Thieves,Cloud9,-132,-101,-101,-132,2022,lcs
+1435,Evil Geniuses,Team SoloMid,-769,455,-769,455,2022,lcs
+1436,Team Liquid,Counter Logic Gaming,-435,298,-435,298,2022,lcs
+1437,Evil Geniuses,Cloud9,-233,172,172,-233,2022,lcs
+1438,100 Thieves,Team Liquid,-101,-130,-101,-130,2022,lcs
+1439,Counter Logic Gaming,Golden Guardians,-370,265,-370,265,2022,lcs
+1440,FlyQuest eSports,Team SoloMid,-182,139,139,-182,2022,lcs
+1441,Golden Guardians,Cloud9,154,-204,-204,154,2022,lcs
+1442,Team Liquid,Counter Logic Gaming,-417,295,295,-417,2022,lcs
+1443,Golden Guardians,FlyQuest eSports,-105,-123,-123,-105,2022,lcs
+1444,Dignitas,Cloud9,195,-263,-263,195,2022,lcs
+1445,Team SoloMid,100 Thieves,206,-286,-286,206,2022,lcs
+1446,Team Liquid,Immortals,-500,337,-500,337,2022,lcs
+1447,Evil Geniuses,Counter Logic Gaming,-435,301,-435,301,2022,lcs
+1448,Golden Guardians,Dignitas,-139,106,-139,106,2022,lcs
+1449,Cloud9,Immortals,-435,299,299,-435,2022,lcs
+1450,Evil Geniuses,Team Liquid,-127,-103,-127,-103,2022,lcs
+1451,Counter Logic Gaming,100 Thieves,185,-250,-250,185,2022,lcs
+1452,FlyQuest eSports,Team SoloMid,-227,169,169,-227,2022,lcs
+1453,Team Liquid,Golden Guardians,-455,313,-455,313,2022,lcs
+1454,Immortals,Counter Logic Gaming,150,-196,-196,150,2022,lcs
+1455,Team SoloMid,Cloud9,224,-312,-312,224,2022,lcs
+1456,Dignitas,Evil Geniuses,283,-400,-400,283,2022,lcs
+1457,100 Thieves,FlyQuest eSports,-213,160,160,-213,2022,lcs
+1458,Immortals,100 Thieves,328,-476,-476,328,2022,lcs
+1459,Team Liquid,Counter Logic Gaming,-303,223,-303,223,2022,lcs
+1460,Cloud9,FlyQuest eSports,-238,181,181,-238,2022,lcs
+1461,Golden Guardians,FlyQuest eSports,-133,102,102,-133,2022,lcs
+1462,Evil Geniuses,Cloud9,-156,120,-156,120,2022,lcs
+1463,100 Thieves,Evil Geniuses,-125,-104,-104,-125,2022,lcs
+1464,Team Liquid,Evil Geniuses,-233,177,177,-233,2022,lcs
+1465,Cloud9,Evil Geniuses,-185,140,140,-185,2022,lcs
+1466,Team Liquid,100 Thieves,-169,127,127,-169,2022,lcs
+1467,Evil Geniuses,FlyQuest eSports,-417,286,-417,286,2022,lcs
+1468,Cloud9,Golden Guardians,-370,263,-370,263,2022,lcs
+1469,Team Liquid,Evil Geniuses,-417,287,-417,287,2022,lcs
+1470,Cloud9,100 Thieves,-130,-101,-101,-130,2022,lcs
+1471,Dignitas,Counter Logic Gaming,-175,133,-175,133,2022,lcs
+1472,Golden Guardians,Cloud9,181,-244,-244,181,2022,lcs
+1473,Team Liquid,100 Thieves,-164,125,-164,125,2022,lcs
+1474,Team SoloMid,FlyQuest eSports,133,-172,-172,133,2022,lcs
+1475,Immortals,Evil Geniuses,150,-200,-200,150,2022,lcs
+1476,Dignitas,100 Thieves,177,-238,177,-238,2022,lcs
+1477,Immortals,Golden Guardians,-110,-118,-118,-110,2022,lcs
+1478,FlyQuest eSports,Cloud9,169,-222,-222,169,2022,lcs
+1479,Evil Geniuses,Counter Logic Gaming,-333,241,241,-333,2022,lcs
+1480,Team SoloMid,Team Liquid,350,-526,-526,350,2022,lcs
+1481,Golden Guardians,Evil Geniuses,144,-189,-189,144,2022,lcs
+1482,Immortals,FlyQuest eSports,106,-141,106,-141,2022,lcs
+1483,Evil Geniuses,FlyQuest eSports,-145,110,-145,110,2022,lcs
+1484,Cloud9,100 Thieves,-105,-123,-105,-123,2022,lcs
+1485,Team SoloMid,Counter Logic Gaming,-137,104,104,-137,2022,lcs
+1486,Team Liquid,Dignitas,-333,237,-333,237,2022,lcs
+1487,Immortals,Counter Logic Gaming,-141,106,-141,106,2022,lcs
+1488,Team SoloMid,100 Thieves,263,-370,-370,263,2022,lcs
+1489,Team Liquid,Golden Guardians,-417,294,294,-417,2022,lcs
+1490,Dignitas,Cloud9,152,-200,-200,152,2022,lcs
+1491,Team Liquid,Counter Logic Gaming,-1000,557,-1000,557,2022,lcs
+1492,Golden Guardians,Dignitas,141,-179,141,-179,2022,lcs
+1493,Team SoloMid,Cloud9,229,-294,-294,229,2022,lcs
+1494,FlyQuest eSports,100 Thieves,221,-303,221,-303,2022,lcs
+1495,Immortals,Evil Geniuses,269,-385,269,-385,2022,lcs
+1496,Counter Logic Gaming,Cloud9,378,-588,378,-588,2022,lcs
+1497,FlyQuest eSports,Dignitas,131,-172,131,-172,2022,lcs
+1498,Team Liquid,Evil Geniuses,-185,142,-185,142,2022,lcs
+1499,Immortals,Team SoloMid,-145,112,112,-145,2022,lcs
+1500,Golden Guardians,100 Thieves,209,-286,-286,209,2022,lcs
+1501,G2 Esports,Rogue,-312,233,233,-312,2022,lec
+1502,Fnatic,Rogue,-213,159,159,-213,2022,lec
+1503,MAD Lions,Fnatic,-127,-104,-104,-127,2022,lec
+1504,G2 Esports,Rogue,-200,149,-200,149,2022,lec
+1505,Misfits,Fnatic,135,-179,-179,135,2022,lec
+1506,Fnatic,Excel Esports,-149,114,-149,114,2022,lec
+1507,G2 Esports,Misfits,-500,319,-500,319,2022,lec
+1508,Rogue,MAD Lions,-115,-115,-115,-115,2022,lec
+1509,Misfits,Fnatic,106,-139,-139,106,2022,lec
+1510,Vitality,Rogue,104,-139,-139,104,2022,lec
+1511,Vitality,MAD Lions,124,-161,-161,124,2022,lec
+1512,Misfits,Excel Esports,108,-141,-141,108,2022,lec
+1513,Team BDS,SK Gaming,131,-172,-172,131,2022,lec
+1514,Vitality,Fnatic,144,-189,144,-189,2022,lec
+1515,Misfits,G2 Esports,156,-208,156,-208,2022,lec
+1516,Team BDS,Rogue,428,-714,-714,428,2022,lec
+1517,MAD Lions,Astralis,-278,204,-278,204,2022,lec
+1518,SK Gaming,Excel Esports,282,-400,282,-400,2022,lec
+1519,Rogue,Vitality,-200,152,-200,152,2022,lec
+1520,G2 Esports,SK Gaming,-667,401,401,-667,2022,lec
+1521,Fnatic,Misfits,-286,211,211,-286,2022,lec
+1522,Team BDS,MAD Lions,332,-500,-500,332,2022,lec
+1523,Astralis,Excel Esports,217,-294,217,-294,2022,lec
+1524,G2 Esports,Fnatic,-192,146,146,-192,2022,lec
+1525,Misfits,MAD Lions,254,-357,254,-357,2022,lec
+1526,Vitality,Astralis,-200,150,-200,150,2022,lec
+1527,SK Gaming,Rogue,363,-556,-556,363,2022,lec
+1528,Team BDS,Excel Esports,235,-323,-323,235,2022,lec
+1529,MAD Lions,G2 Esports,173,-233,173,-233,2022,lec
+1530,Fnatic,Astralis,-303,217,-303,217,2022,lec
+1531,Rogue,Excel Esports,-118,-111,-118,-111,2022,lec
+1532,Vitality,SK Gaming,-345,249,-345,249,2022,lec
+1533,Team BDS,Misfits,106,-139,-139,106,2022,lec
+1534,Vitality,G2 Esports,154,-204,-204,154,2022,lec
+1535,Team BDS,Fnatic,285,-400,-400,285,2022,lec
+1536,Rogue,Astralis,-333,236,-333,236,2022,lec
+1537,MAD Lions,Excel Esports,-156,119,119,-156,2022,lec
+1538,SK Gaming,Misfits,-102,-128,-128,-102,2022,lec
+1539,MAD Lions,Fnatic,116,-154,116,-154,2022,lec
+1540,Team BDS,G2 Esports,468,-769,468,-769,2022,lec
+1541,Rogue,Misfits,-357,254,-357,254,2022,lec
+1542,Vitality,Excel Esports,-145,112,112,-145,2022,lec
+1543,SK Gaming,Astralis,-118,-111,-111,-118,2022,lec
+1544,Rogue,MAD Lions,-159,123,-159,123,2022,lec
+1545,Excel Esports,G2 Esports,167,-222,-222,167,2022,lec
+1546,Fnatic,SK Gaming,-333,238,-333,238,2022,lec
+1547,Vitality,Team BDS,-417,290,-417,290,2022,lec
+1548,Astralis,Misfits,139,-185,139,-185,2022,lec
+1549,G2 Esports,Rogue,-132,102,-132,102,2022,lec
+1550,Excel Esports,Fnatic,181,-250,181,-250,2022,lec
+1551,Misfits,Vitality,154,-208,-208,154,2022,lec
+1552,SK Gaming,MAD Lions,193,-263,-263,193,2022,lec
+1553,Astralis,Team BDS,-101,-128,-101,-128,2022,lec
+1554,Rogue,Fnatic,-135,104,104,-135,2022,lec
+1555,G2 Esports,Astralis,-588,366,-588,366,2022,lec
+1556,Misfits,Excel Esports,100,-133,-133,100,2022,lec
+1557,Team BDS,SK Gaming,-106,-122,-122,-106,2022,lec
+1558,Vitality,MAD Lions,-164,125,125,-164,2022,lec
+1559,Rogue,G2 Esports,-145,108,108,-145,2022,lec
+1560,Fnatic,G2 Esports,-149,112,112,-149,2022,lec
+1561,Misfits,G2 Esports,150,-200,-200,150,2022,lec
+1562,Rogue,Fnatic,-141,104,-141,104,2022,lec
+1563,G2 Esports,Vitality,-133,100,-133,100,2022,lec
+1564,Excel Esports,Vitality,172,-233,-233,172,2022,lec
+1565,Fnatic,G2 Esports,-222,165,-222,165,2022,lec
+1566,Rogue,Misfits,-263,191,-263,191,2022,lec
+1567,Rogue,G2 Esports,-156,120,-156,120,2022,lec
+1568,Fnatic,Excel Esports,-250,188,-250,188,2022,lec
+1569,Team BDS,MAD Lions,156,-200,-200,156,2022,lec
+1570,Vitality,Astralis,-357,247,-357,247,2022,lec
+1571,SK Gaming,Misfits,219,-303,219,-303,2022,lec
+1572,Vitality,G2 Esports,-116,-114,-114,-116,2022,lec
+1573,Misfits,Fnatic,120,-156,120,-156,2022,lec
+1574,Team BDS,Rogue,317,-455,-455,317,2022,lec
+1575,MAD Lions,Astralis,-244,181,-244,181,2022,lec
+1576,SK Gaming,Excel Esports,127,-167,-167,127,2022,lec
+1577,Team BDS,Fnatic,308,-455,-455,308,2022,lec
+1578,G2 Esports,Excel Esports,-179,135,-179,135,2022,lec
+1579,Vitality,MAD Lions,-200,150,150,-200,2022,lec
+1580,Misfits,Astralis,-345,248,-345,248,2022,lec
+1581,Team BDS,Misfits,148,-196,-196,148,2022,lec
+1582,Rogue,G2 Esports,-169,129,-169,129,2022,lec
+1583,Fnatic,Excel Esports,-312,227,227,-312,2022,lec
+1584,Vitality,Astralis,-625,386,-625,386,2022,lec
+1585,Team BDS,MAD Lions,189,-256,-256,189,2022,lec
+1586,SK Gaming,Misfits,152,-204,-204,152,2022,lec
+1587,MAD Lions,Fnatic,110,-154,-154,110,2022,lec
+1588,Team BDS,G2 Esports,189,-256,-256,189,2022,lec
+1589,Vitality,Misfits,-192,147,-192,147,2022,lec
+1590,Rogue,Excel Esports,-385,267,-385,267,2022,lec
+1591,SK Gaming,Astralis,-161,121,-161,121,2022,lec
+1592,G2 Esports,Fnatic,143,-189,143,-189,2022,lec
+1593,Vitality,Rogue,-106,-123,-123,-106,2022,lec
+1594,Misfits,MAD Lions,179,-238,179,-238,2022,lec
+1595,Excel Esports,Astralis,-217,163,-217,163,2022,lec
+1596,Team BDS,SK Gaming,-108,-120,-108,-120,2022,lec
+1597,Misfits,G2 Esports,131,-175,-175,131,2022,lec
+1598,Rogue,Fnatic,117,-154,117,-154,2022,lec
+1599,Vitality,SK Gaming,-400,272,-400,272,2022,lec
+1600,MAD Lions,Excel Esports,-256,186,-256,186,2022,lec
+1601,Ago Rogue,Zero Tenacity,-714,412,412,-714,2022,ul
+1602,Illuminar Gaming,Zero Tenacity,116,-156,-156,116,2022,ul
+1603,Gentlemen's Gaming,Illuminar Gaming,305,-455,-455,305,2022,ul
+1604,Zero Tenacity,Ago Rogue,411,-714,-714,411,2022,ul
+1605,Gentlemen's Gaming,Orbit Anonymo,150,-204,150,-204,2022,ul
+1606,Illuminar Gaming,Iron Wolves,-400,263,-400,263,2022,ul
+1607,Illuminar Gaming,Ago Rogue,235,-345,235,-345,2022,ul
+1608,ESCA Gaming,Gentlemen's Gaming,-103,-139,-139,-103,2022,ul
+1609,Iron Wolves,Orbit Anonymo,-106,-130,-106,-130,2022,ul
+1610,Komil&Friends,Forsaken,210,-303,-303,210,2022,ul
+1611,Zero Tenacity,devils.one,-455,288,-455,288,2022,ul
+1612,Zero Tenacity,Illuminar Gaming,-145,104,-145,104,2022,ul
+1613,Iron Wolves,Forsaken,-139,100,-139,100,2022,ul
+1614,Gentlemen's Gaming,Ago Rogue,531,-1111,531,-1111,2022,ul
+1615,ESCA Gaming,Orbit Anonymo,154,-213,154,-213,2022,ul
+1616,Komil&Friends,devils.one,152,-213,-213,152,2022,ul
+1617,Illuminar Gaming,Orbit Anonymo,-208,156,156,-208,2022,ul
+1618,Iron Wolves,devils.one,-154,114,-154,114,2022,ul
+1619,Zero Tenacity,ESCA Gaming,-435,290,-435,290,2022,ul
+1620,Gentlemen's Gaming,Forsaken,135,-182,135,-182,2022,ul
+1621,Illuminar Gaming,Ago Rogue,192,-270,-270,192,2022,ul
+1622,Iron Wolves,Orbit Anonymo,-110,-120,-120,-110,2022,ul
+1623,Komil&Friends,Forsaken,136,-182,136,-182,2022,ul
+1624,Zero Tenacity,devils.one,-278,198,-278,198,2022,ul
+1625,ESCA Gaming,Gentlemen's Gaming,102,-137,102,-137,2022,ul
+1626,Illuminar Gaming,Orbit Anonymo,-161,116,-161,116,2022,ul
+1627,Komil&Friends,Ago Rogue,537,-1111,-1111,537,2022,ul
+1628,Zero Tenacity,ESCA Gaming,-312,218,-312,218,2022,ul
+1629,Gentlemen's Gaming,Forsaken,134,-182,-182,134,2022,ul
+1630,Iron Wolves,devils.one,-222,163,-222,163,2022,ul
+1631,Zero Tenacity,Forsaken,-222,163,-222,163,2022,ul
+1632,ESCA Gaming,Ago Rogue,618,-1250,-1250,618,2022,ul
+1633,Orbit Anonymo,devils.one,-189,139,-189,139,2022,ul
+1634,Komil&Friends,Illuminar Gaming,289,-435,-435,289,2022,ul
+1635,Iron Wolves,Gentlemen's Gaming,-312,217,217,-312,2022,ul
+1636,Iron Wolves,Komil&Friends,-303,214,-303,214,2022,ul
+1637,ESCA Gaming,Illuminar Gaming,154,-233,-233,154,2022,ul
+1638,Forsaken,Ago Rogue,461,-909,-909,461,2022,ul
+1639,Zero Tenacity,Orbit Anonymo,-227,159,159,-227,2022,ul
+1640,Gentlemen's Gaming,devils.one,100,-139,-139,100,2022,ul
+1641,Zero Tenacity,Illuminar Gaming,-141,104,-141,104,2022,ul
+1642,Komil&Friends,devils.one,108,-149,-149,108,2022,ul
+1643,Gentlemen's Gaming,Ago Rogue,654,-1667,-1667,654,2022,ul
+1644,Iron Wolves,Forsaken,-167,125,-167,125,2022,ul
+1645,ESCA Gaming,Orbit Anonymo,-137,100,100,-137,2022,ul
+1646,Iron Wolves,Ago Rogue,359,-588,-588,359,2022,ul
+1647,Illuminar Gaming,devils.one,-222,160,-222,160,2022,ul
+1648,ESCA Gaming,Forsaken,-119,-114,-114,-119,2022,ul
+1649,Gentlemen's Gaming,Orbit Anonymo,-179,129,129,-179,2022,ul
+1650,Zero Tenacity,Komil&Friends,-476,308,-476,308,2022,ul
+1651,Illuminar Gaming,Forsaken,-169,124,-169,124,2022,ul
+1652,Komil&Friends,Orbit Anonymo,120,-164,120,-164,2022,ul
+1653,ESCA Gaming,Iron Wolves,104,-149,-149,104,2022,ul
+1654,devils.one,Ago Rogue,707,-2000,-2000,707,2022,ul
+1655,Zero Tenacity,Gentlemen's Gaming,-312,212,-312,212,2022,ul
+1656,Gentlemen's Gaming,Illuminar Gaming,121,-167,-167,121,2022,ul
+1657,Orbit Anonymo,Ago Rogue,633,-1429,-1429,633,2022,ul
+1658,Zero Tenacity,Iron Wolves,-120,-114,-120,-114,2022,ul
+1659,devils.one,Forsaken,146,-200,146,-200,2022,ul
+1660,ESCA Gaming,Komil&Friends,-244,173,173,-244,2022,ul
+1661,Iron Wolves,Illuminar Gaming,-286,196,196,-286,2022,ul
+1662,Komil&Friends,Gentlemen's Gaming,166,-233,-233,166,2022,ul
+1663,ESCA Gaming,devils.one,-244,173,-244,173,2022,ul
+1664,Orbit Anonymo,Forsaken,129,-179,-179,129,2022,ul
+1665,Zero Tenacity,Ago Rogue,328,-526,-526,328,2022,ul
+1666,Heretics,Giants,-130,-104,-130,-104,2022,sl
+1667,Giants,BISONS ECLUB,-204,150,-204,150,2022,sl
+1668,BISONS ECLUB,KOI,114,-152,114,-152,2022,sl
+1669,Giants,Heretics,-200,147,147,-200,2022,sl
+1670,Barca eSports,BISONS ECLUB,-135,100,100,-135,2022,sl
+1671,G2 Arctic,KOI,-141,106,106,-141,2022,sl
+1672,Fnatic TQ,KOI,-159,117,117,-159,2022,sl
+1673,G2 Arctic,Giants,133,-185,-185,133,2022,sl
+1674,Barca eSports,Heretics,112,-156,112,-156,2022,sl
+1675,BISONS ECLUB,MAD Lions Madrid,-167,121,-167,121,2022,sl
+1676,UCAM Esports Club,Movistar Riders,-167,121,-167,121,2022,sl
+1677,Fnatic TQ,Barca eSports,-154,114,114,-154,2022,sl
+1678,Heretics,Giants,-123,-111,-111,-123,2022,sl
+1679,KOI,G2 Arctic,102,-139,-139,102,2022,sl
+1680,UCAM Esports Club,MAD Lions Madrid,-118,-116,-118,-116,2022,sl
+1681,BISONS ECLUB,Movistar Riders,-270,188,188,-270,2022,sl
+1682,Fnatic TQ,UCAM Esports Club,-333,220,220,-333,2022,sl
+1683,KOI,Giants,136,-182,-182,136,2022,sl
+1684,BISONS ECLUB,G2 Arctic,-141,106,106,-141,2022,sl
+1685,Heretics,MAD Lions Madrid,-312,225,-312,225,2022,sl
+1686,G2 Arctic,MAD Lions Madrid,-238,170,-238,170,2022,sl
+1687,G2 Arctic,Giants,-149,110,110,-149,2022,sl
+1688,Fnatic TQ,KOI,-244,174,-244,174,2022,sl
+1689,Barca eSports,Heretics,131,-179,-179,131,2022,sl
+1690,BISONS ECLUB,MAD Lions Madrid,-256,181,-256,181,2022,sl
+1691,UCAM Esports Club,Movistar Riders,-109,-128,-128,-109,2022,sl
+1692,Fnatic TQ,Barca eSports,-204,149,-204,149,2022,sl
+1693,Heretics,Giants,104,-141,104,-141,2022,sl
+1694,KOI,G2 Arctic,112,-149,-149,112,2022,sl
+1695,BISONS ECLUB,Movistar Riders,-270,195,-270,195,2022,sl
+1696,UCAM Esports Club,MAD Lions Madrid,156,-227,156,-227,2022,sl
+1697,BISONS ECLUB,G2 Arctic,-161,119,119,-161,2022,sl
+1698,KOI,Giants,142,-192,142,-192,2022,sl
+1699,Heretics,MAD Lions Madrid,-133,-101,-133,-101,2022,sl
+1700,Fnatic TQ,UCAM Esports Club,-417,274,-417,274,2022,sl
+1701,Barca eSports,Movistar Riders,-250,179,-250,179,2022,sl
+1702,BISONS ECLUB,Heretics,-164,120,120,-164,2022,sl
+1703,KOI,Movistar Riders,-175,127,-175,127,2022,sl
+1704,Fnatic TQ,MAD Lions Madrid,-312,208,208,-312,2022,sl
+1705,UCAM Esports Club,G2 Arctic,122,-169,-169,122,2022,sl
+1706,Barca eSports,Giants,108,-149,-149,108,2022,sl
+1707,BISONS ECLUB,Giants,-112,-122,-112,-122,2022,sl
+1708,Barca eSports,UCAM Esports Club,-222,163,-222,163,2022,sl
+1709,Fnatic TQ,Heretics,-204,150,-204,150,2022,sl
+1710,KOI,MAD Lions Madrid,-164,123,123,-164,2022,sl
+1711,G2 Arctic,Movistar Riders,-175,129,-175,129,2022,sl
+1712,MAD Lions Madrid,Giants,152,-217,-217,152,2022,sl
+1713,Heretics,Movistar Riders,-182,131,-182,131,2022,sl
+1714,BISONS ECLUB,Barca eSports,-112,-123,-112,-123,2022,sl
+1715,Fnatic TQ,G2 Arctic,-213,152,-213,152,2022,sl
+1716,KOI,UCAM Esports Club,-169,122,-169,122,2022,sl
+1717,Heretics,G2 Arctic,100,-133,100,-133,2022,sl
+1718,Fnatic TQ,Movistar Riders,-294,200,-294,200,2022,sl
+1719,BISONS ECLUB,KOI,-135,-101,-135,-101,2022,sl
+1720,UCAM Esports Club,Giants,139,-196,-196,139,2022,sl
+1721,Barca eSports,MAD Lions Madrid,-204,145,-204,145,2022,sl
+1722,Fnatic TQ,Giants,-263,187,187,-263,2022,sl
+1723,KOI,Heretics,-172,129,129,-172,2022,sl
+1724,MAD Lions Madrid,Movistar Riders,112,-149,112,-149,2022,sl
+1725,Barca eSports,G2 Arctic,-196,146,146,-196,2022,sl
+1726,BISONS ECLUB,UCAM Esports Club,-222,165,-222,165,2022,sl
+1727,Fnatic TQ,BISONS ECLUB,-435,284,284,-435,2022,sl
+1728,KOI,Barca eSports,-147,108,108,-147,2022,sl
+1729,UCAM Esports Club,Heretics,159,-222,159,-222,2022,sl
+1730,G2 Arctic,MAD Lions Madrid,-119,-114,-119,-114,2022,sl
+1731,Movistar Riders,Giants,156,-217,156,-217,2022,sl
+1732,Fnatic TQ,BISONS ECLUB,-385,257,-385,257,2022,sl
+1733,Barca eSports,BISONS ECLUB,-213,152,152,-213,2022,sl
+1734,KOI,BISONS ECLUB,-217,156,156,-217,2022,sl
+1735,Fnatic TQ,Barca eSports,-455,301,-455,301,2022,sl
+1736,BISONS ECLUB,G2 Arctic,-132,-103,-132,-103,2022,sl
+1737,KOI,Movistar Riders,-192,140,-192,140,2022,sl
+1738,Giants,KOI,118,-164,-164,118,2022,sl
+1739,Heretics,Fnatic TQ,234,-333,-333,234,2022,sl
+1740,MAD Lions Madrid,BISONS ECLUB,154,-222,154,-222,2022,sl
+1741,G2 Arctic,Barca eSports,114,-161,-161,114,2022,sl
+1742,Movistar Riders,UCAM Esports Club,-233,165,-233,165,2022,sl
+1743,Movistar Riders,BISONS ECLUB,-119,-114,-114,-119,2022,sl
+1744,KOI,Heretics,-159,117,-159,117,2022,sl
+1745,Barca eSports,Giants,-172,125,-172,125,2022,sl
+1746,G2 Arctic,Fnatic TQ,172,-238,-238,172,2022,sl
+1747,UCAM Esports Club,MAD Lions Madrid,124,-167,124,-167,2022,sl
+1748,Movistar Riders,G2 Arctic,-118,-115,-115,-118,2022,sl
+1749,BISONS ECLUB,Giants,100,-135,-135,100,2022,sl
+1750,KOI,Fnatic TQ,264,-400,264,-400,2022,sl
+1751,Heretics,UCAM Esports Club,-476,303,303,-476,2022,sl
+1752,Barca eSports,MAD Lions Madrid,-333,235,235,-333,2022,sl
+1753,G2 Arctic,Heretics,-101,-133,-101,-133,2022,sl
+1754,BISONS ECLUB,Fnatic TQ,328,-526,328,-526,2022,sl
+1755,Barca eSports,Movistar Riders,-244,175,175,-244,2022,sl
+1756,BISONS ECLUB,MAD Lions Madrid,-111,-119,-111,-119,2022,sl
+1757,UCAM Esports Club,Movistar Riders,165,-227,-227,165,2022,sl
+1758,Giants,Barca eSports,108,-147,-147,108,2022,sl
+1759,Heretics,KOI,102,-137,102,-137,2022,sl
+1760,MAD Lions Madrid,UCAM Esports Club,-303,213,213,-303,2022,sl
+1761,Fnatic TQ,G2 Arctic,-385,254,-385,254,2022,sl
+1762,BISONS ECLUB,Movistar Riders,131,-179,131,-179,2022,sl
+1763,MAD Lions Madrid,Barca eSports,118,-159,-159,118,2022,sl
+1764,Fnatic TQ,KOI,-208,150,-208,150,2022,sl
+1765,Giants,BISONS ECLUB,-204,148,-204,148,2022,sl
+1766,G2 Arctic,Movistar Riders,-128,-106,-128,-106,2022,sl
+1767,UCAM Esports Club,Heretics,249,-370,-370,249,2022,sl
+1768,KOI,UCAM Esports Club,-625,376,-625,376,2022,sl
+1769,Giants,MAD Lions Madrid,100,-135,100,-135,2022,sl
+1770,Fnatic TQ,BISONS ECLUB,-500,326,-500,326,2022,sl
+1771,Movistar Riders,Barca eSports,-147,108,108,-147,2022,sl
+1772,Heretics,G2 Arctic,-159,120,-159,120,2022,sl
+1773,MAD Lions Madrid,Movistar Riders,-132,-104,-104,-132,2022,sl
+1774,Giants,Fnatic TQ,210,-303,-303,210,2022,sl
+1775,Barca eSports,Heretics,143,-196,143,-196,2022,sl
+1776,Team BDS Academy,LDLC OL,127,-167,-167,127,2022,lfl
+1777,Vitality.Bee,LDLC OL,150,-200,-200,150,2022,lfl
+1778,GameWard,Vitality.Bee,134,-175,-175,134,2022,lfl
+1779,Team BDS Academy,LDLC OL,325,-500,325,-500,2022,lfl
+1780,GameWard,Karmine Corp,129,-175,129,-175,2022,lfl
+1781,Vitality.Bee,Misfits Premier,-286,202,-286,202,2022,lfl
+1782,Team Oplon,Misfits Premier,296,-455,-455,296,2022,lfl
+1783,LDLC OL,Karmine Corp,-200,146,-200,146,2022,lfl
+1784,Vitality.Bee,Team BDS Academy,-169,125,125,-169,2022,lfl
+1785,Solary,GameWard,150,-208,-208,150,2022,lfl
+1786,Team GO,Mirage Elyandra,-333,227,-333,227,2022,lfl
+1787,Mirage Elyandra,GameWard,308,-476,308,-476,2022,lfl
+1788,Misfits Premier,Karmine Corp,110,-149,-149,110,2022,lfl
+1789,Vitality.Bee,LDLC OL,138,-182,-182,138,2022,lfl
+1790,Team GO,Team BDS Academy,134,-182,-182,134,2022,lfl
+1791,Team Oplon,Solary,167,-233,-233,167,2022,lfl
+1792,Karmine Corp,Vitality.Bee,100,-139,-139,100,2022,lfl
+1793,Team BDS Academy,Misfits Premier,-133,-102,-133,-102,2022,lfl
+1794,LDLC OL,GameWard,-256,184,-256,184,2022,lfl
+1795,Mirage Elyandra,Solary,166,-227,-227,166,2022,lfl
+1796,Vitality.Bee,Mirage Elyandra,-714,424,-714,424,2022,lfl
+1797,Team GO,Mirage Elyandra,-263,191,-263,191,2022,lfl
+1798,LDLC OL,Karmine Corp,-154,116,-154,116,2022,lfl
+1799,Vitality.Bee,Team BDS Academy,-345,241,-345,241,2022,lfl
+1800,Team Oplon,Misfits Premier,279,-417,-417,279,2022,lfl
+1801,Solary,GameWard,191,-263,-263,191,2022,lfl
+1802,Solary,Mirage Elyandra,-161,121,-161,121,2022,lfl
+1803,Vitality.Bee,Karmine Corp,108,-145,-145,108,2022,lfl
+1804,LDLC OL,GameWard,-250,184,-250,184,2022,lfl
+1805,Team Oplon,Team GO,252,-357,-357,252,2022,lfl
+1806,Team BDS Academy,Misfits Premier,-189,141,141,-189,2022,lfl
+1807,Misfits Premier,Karmine Corp,287,-417,287,-417,2022,lfl
+1808,Vitality.Bee,LDLC OL,108,-145,-145,108,2022,lfl
+1809,Team GO,Team BDS Academy,104,-139,-139,104,2022,lfl
+1810,Mirage Elyandra,GameWard,234,-333,-333,234,2022,lfl
+1811,Team Oplon,Solary,154,-208,-208,154,2022,lfl
+1812,Misfits Premier,LDLC OL,233,-323,-323,233,2022,lfl
+1813,Vitality.Bee,Team GO,-303,209,-303,209,2022,lfl
+1814,Solary,Karmine Corp,363,-625,-625,363,2022,lfl
+1815,Team Oplon,Mirage Elyandra,141,-196,141,-196,2022,lfl
+1816,Team BDS Academy,GameWard,-114,-119,-119,-114,2022,lfl
+1817,Team Oplon,Team BDS Academy,319,-526,-526,319,2022,lfl
+1818,Vitality.Bee,GameWard,-312,215,215,-312,2022,lfl
+1819,Team GO,LDLC OL,234,-345,-345,234,2022,lfl
+1820,Mirage Elyandra,Karmine Corp,490,-1000,-1000,490,2022,lfl
+1821,Solary,Misfits Premier,202,-294,202,-294,2022,lfl
+1822,Team GO,GameWard,108,-145,108,-145,2022,lfl
+1823,Team BDS Academy,Karmine Corp,218,-312,-312,218,2022,lfl
+1824,Solary,LDLC OL,342,-556,-556,342,2022,lfl
+1825,Misfits Premier,Mirage Elyandra,-303,209,-303,209,2022,lfl
+1826,Vitality.Bee,Team Oplon,-769,451,-769,451,2022,lfl
+1827,Team BDS Academy,Solary,-222,159,-222,159,2022,lfl
+1828,Vitality.Bee,Misfits Premier,-256,184,-256,184,2022,lfl
+1829,Team GO,Karmine Corp,202,-286,-286,202,2022,lfl
+1830,Mirage Elyandra,LDLC OL,367,-588,-588,367,2022,lfl
+1831,Team Oplon,GameWard,281,-435,-435,281,2022,lfl
+1832,Team Oplon,LDLC OL,505,-909,-909,505,2022,lfl
+1833,Vitality.Bee,Solary,-417,280,-417,280,2022,lfl
+1834,Karmine Corp,GameWard,-476,316,316,-476,2022,lfl
+1835,Team BDS Academy,Mirage Elyandra,-385,266,266,-385,2022,lfl
+1836,Team GO,Misfits Premier,185,-250,185,-250,2022,lfl
+1837,Vitality.Bee,Mirage Elyandra,-588,353,-588,353,2022,lfl
+1838,Team Oplon,Karmine Corp,544,-1111,-1111,544,2022,lfl
+1839,Misfits Premier,GameWard,-270,192,192,-270,2022,lfl
+1840,Team GO,Solary,102,-139,102,-139,2022,lfl
+1841,Team BDS Academy,LDLC OL,142,-196,-196,142,2022,lfl
+1842,LDLC OL,Team BDS Academy,-156,116,-156,116,2022,lfl
+1843,Karmine Corp,Team BDS Academy,-135,100,100,-135,2022,lfl
+1844,Team BDS Academy,Vitality.Bee,125,-167,125,-167,2022,lfl
+1845,LDLC OL,Karmine Corp,185,-256,185,-256,2022,lfl
+1846,Misfits Premier,Vitality.Bee,-103,-127,-127,-103,2022,lfl
+1847,Team BDS Academy,Team GO,-278,202,-278,202,2022,lfl
+1848,Team BDS Academy,Team GO,-179,134,-179,134,2022,lfl
+1849,LDLC OL,Vitality.Bee,-106,-125,-106,-125,2022,lfl
+1850,GameWard,Mirage Elyandra,-182,137,137,-182,2022,lfl
+1851,Karmine Corp,Team Oplon,-909,508,-909,508,2022,lfl
+1852,Misfits Premier,Solary,-270,197,-270,197,2022,lfl
+1853,Mirage Elyandra,Team GO,168,-227,-227,168,2022,lfl
+1854,Karmine Corp,Vitality.Bee,-189,138,138,-189,2022,lfl
+1855,Solary,LDLC OL,147,-196,-196,147,2022,lfl
+1856,Misfits Premier,Team BDS Academy,-143,108,108,-143,2022,lfl
+1857,Team Oplon,GameWard,268,-400,268,-400,2022,lfl
+1858,Misfits Premier,Team GO,-208,154,-208,154,2022,lfl
+1859,Karmine Corp,Solary,-263,187,-263,187,2022,lfl
+1860,Team BDS Academy,LDLC OL,-106,-125,-106,-125,2022,lfl
+1861,Vitality.Bee,GameWard,-312,212,212,-312,2022,lfl
+1862,Mirage Elyandra,Team Oplon,-312,222,222,-312,2022,lfl
+1863,Team BDS Academy,Mirage Elyandra,-278,200,-278,200,2022,lfl
+1864,Misfits Premier,Vitality.Bee,116,-154,116,-154,2022,lfl
+1865,GameWard,Karmine Corp,268,-385,-385,268,2022,lfl
+1866,Team Oplon,Karmine Corp,550,-1250,-1250,550,2022,lfl
+1867,Team GO,Team BDS Academy,170,-250,170,-250,2022,lfl
+1868,Team BDS Academy,Misfits Premier,-182,133,133,-182,2022,lfl
+1869,Karmine Corp,Vitality.Bee,-115,-118,-115,-118,2022,lfl
+1870,Solary,LDLC OL,158,-217,158,-217,2022,lfl
+1871,GameWard,Team Oplon,-435,288,-435,288,2022,lfl
+1872,Mirage Elyandra,Team GO,-143,106,106,-143,2022,lfl
+1873,Solary,Team GO,-127,-108,-127,-108,2022,lfl
+1874,Vitality.Bee,Misfits Premier,-147,110,-147,110,2022,lfl
+1875,Karmine Corp,GameWard,-244,175,-244,175,2022,lfl
+1876,Mirage Elyandra,Team BDS Academy,227,-323,227,-323,2022,lfl
+1877,LDLC OL,Team Oplon,-526,325,-526,325,2022,lfl
+1878,Vitality.Bee,GameWard,-333,224,224,-333,2022,lfl
+1879,Solary,Karmine Corp,179,-244,179,-244,2022,lfl
+1880,LDLC OL,Team BDS Academy,-105,-127,-127,-105,2022,lfl
+1881,Team GO,Misfits Premier,136,-182,-182,136,2022,lfl
+1882,Mirage Elyandra,Team Oplon,-256,186,-256,186,2022,lfl
+1883,GameWard,Misfits Premier,184,-250,184,-250,2022,lfl
+1884,Team BDS Academy,Vitality.Bee,131,-175,131,-175,2022,lfl
+1885,LDLC OL,Karmine Corp,164,-222,164,-222,2022,lfl
+1886,Chiefs Esports Club,Pentanet.GG,-1000,523,-1000,523,2022,lco
+1887,Pentanet.GG,ORDER,-139,104,-139,104,2022,lco
+1888,Pentanet.GG,Kanga Esports,-625,384,-625,384,2022,lco
+1889,Chiefs Esports Club,ORDER,-1667,687,-1667,687,2022,lco
+1890,Kanga Esports,Dire Wolves,148,-200,148,-200,2022,lco
+1891,ORDER,Pentanet.GG,-105,-127,-105,-127,2022,lco
+1892,Mammoth,ORDER,563,-1111,-1111,563,2022,lco
+1893,Chiefs Esports Club,Kanga Esports,-2500,825,-2500,825,2022,lco
+1894,PEACE,Gravitas,-625,376,-625,376,2022,lco
+1895,Dire Wolves,Pentanet.GG,129,-172,-172,129,2022,lco
+1896,PEACE,Pentanet.GG,202,-294,-294,202,2022,lco
+1897,Mammoth,Gravitas,-270,179,-270,179,2022,lco
+1898,Kanga Esports,ORDER,192,-278,-278,192,2022,lco
+1899,Chiefs Esports Club,Dire Wolves,-1000,495,-1000,495,2022,lco
+1900,Pentanet.GG,Gravitas,-2500,819,-2500,819,2022,lco
+1901,Dire Wolves,ORDER,152,-213,-213,152,2022,lco
+1902,Chiefs Esports Club,PEACE,-909,497,-909,497,2022,lco
+1903,Mammoth,Kanga Esports,206,-294,-294,206,2022,lco
+1904,Kanga Esports,Gravitas,-769,444,-769,444,2022,lco
+1905,PEACE,ORDER,148,-208,-208,148,2022,lco
+1906,Dire Wolves,Kanga Esports,-294,209,209,-294,2022,lco
+1907,Chiefs Esports Club,Gravitas,-2500,827,-2500,827,2022,lco
+1908,Pentanet.GG,ORDER,-145,106,106,-145,2022,lco
+1909,Mammoth,PEACE,359,-588,359,-588,2022,lco
+1910,Chiefs Esports Club,ORDER,-345,236,-345,236,2022,lco
+1911,Mammoth,Pentanet.GG,463,-833,-833,463,2022,lco
+1912,PEACE,Kanga Esports,-417,275,275,-417,2022,lco
+1913,Dire Wolves,Gravitas,-667,397,-667,397,2022,lco
+1914,Dire Wolves,PEACE,114,-152,-152,114,2022,lco
+1915,Kanga Esports,Pentanet.GG,388,-625,-625,388,2022,lco
+1916,Mammoth,Chiefs Esports Club,1011,-500,-5000,1011,2022,lco
+1917,ORDER,Gravitas,-1429,673,-1429,673,2022,lco
+1918,Chiefs Esports Club,Kanga Esports,-1429,641,-1429,641,2022,lco
+1919,PEACE,Gravitas,-909,514,-909,514,2022,lco
+1920,Dire Wolves,Pentanet.GG,258,-370,258,-370,2022,lco
+1921,Mammoth,ORDER,436,-714,-714,436,2022,lco
+1922,PEACE,Pentanet.GG,179,-263,179,-263,2022,lco
+1923,Chiefs Esports Club,Dire Wolves,-833,443,-833,443,2022,lco
+1924,Mammoth,Gravitas,-227,161,-227,161,2022,lco
+1925,Kanga Esports,ORDER,332,-526,-526,332,2022,lco
+1926,Pentanet.GG,Gravitas,-1429,668,-1429,668,2022,lco
+1927,Dire Wolves,ORDER,171,-238,171,-238,2022,lco
+1928,Chiefs Esports Club,PEACE,-370,263,-370,263,2022,lco
+1929,Mammoth,Kanga Esports,189,-256,-256,189,2022,lco
+1930,Kanga Esports,Gravitas,-263,184,-263,184,2022,lco
+1931,PEACE,ORDER,-137,100,100,-137,2022,lco
+1932,Mammoth,Dire Wolves,250,-370,-370,250,2022,lco
+1933,Chiefs Esports Club,Pentanet.GG,-270,189,-270,189,2022,lco
+1934,Chiefs Esports Club,Gravitas,-500,1018,-5000,1018,2022,lco
+1935,Dire Wolves,Kanga Esports,-196,141,-196,141,2022,lco
+1936,Pentanet.GG,ORDER,-172,123,-172,123,2022,lco
+1937,Mammoth,PEACE,473,-909,473,-909,2022,lco
+1938,Chiefs Esports Club,ORDER,-213,156,-213,156,2022,lco
+1939,Mammoth,Pentanet.GG,615,-1429,-1429,615,2022,lco
+1940,Dire Wolves,Gravitas,-476,311,-476,311,2022,lco
+1941,PEACE,Kanga Esports,-357,241,-357,241,2022,lco
+1942,Mammoth,Chiefs Esports Club,911,-333,-3333,911,2022,lco
+1943,Dire Wolves,PEACE,212,-294,-294,212,2022,lco
+1944,Kanga Esports,Pentanet.GG,392,-667,-667,392,2022,lco
+1945,ORDER,Gravitas,-1000,521,-1000,521,2022,lco
+1946,Chiefs Esports Club,ORDER,-238,173,173,-238,2022,lco
+1947,Pentanet.GG,ORDER,-250,179,179,-250,2022,lco
+1948,PEACE,ORDER,-333,233,233,-333,2022,lco
+1949,Chiefs Esports Club,Pentanet.GG,-286,208,-286,208,2022,lco
+1950,ORDER,Dire Wolves,-263,191,-263,191,2022,lco
+1951,PEACE,Pentanet.GG,118,-159,-159,118,2022,lco
+1952,Kanga Esports,PEACE,254,-370,-370,254,2022,lco
+1953,Gravitas,Pentanet.GG,585,-1250,-1250,585,2022,lco
+1954,Mammoth,ORDER,376,-625,-625,376,2022,lco
+1955,Chiefs Esports Club,Dire Wolves,-769,430,-769,430,2022,lco
+1956,Dire Wolves,ORDER,177,-250,177,-250,2022,lco
+1957,Kanga Esports,Mammoth,-208,150,-208,150,2022,lco
+1958,PEACE,Gravitas,-1429,608,608,-1429,2022,lco
+1959,Pentanet.GG,Chiefs Esports Club,190,-270,190,-270,2022,lco
+1960,Mammoth,Dire Wolves,211,-294,-294,211,2022,lco
+1961,Chiefs Esports Club,PEACE,-233,170,-233,170,2022,lco
+1962,ORDER,Pentanet.GG,118,-159,-159,118,2022,lco
+1963,Gravitas,Kanga Esports,219,-303,-303,219,2022,lco
+1964,Gravitas,Mammoth,117,-156,-156,117,2022,lco
+1965,PEACE,ORDER,-154,114,-154,114,2022,lco
+1966,Kanga Esports,Chiefs Esports Club,834,-2500,-2500,834,2022,lco
+1967,Pentanet.GG,Dire Wolves,-357,249,-357,249,2022,lco
+1968,Chiefs Esports Club,Gravitas,-333,957,-3333,957,2022,lco
+1969,Mammoth,Pentanet.GG,451,-769,-769,451,2022,lco
+1970,Dire Wolves,PEACE,273,-400,-400,273,2022,lco
+1971,ORDER,Kanga Esports,-417,281,-417,281,2022,lco
+1972,PEACE,Pentanet.GG,-141,104,104,-141,2022,lco
+1973,Kanga Esports,Dire Wolves,124,-167,-167,124,2022,lco
+1974,Chiefs Esports Club,Mammoth,-2500,911,-2500,911,2022,lco
+1975,Gravitas,ORDER,518,-1000,-1000,518,2022,lco
+1976,Kanga Esports,Pentanet.GG,319,-500,-500,319,2022,lco
+1977,PEACE,Mammoth,-1000,543,-1000,543,2022,lco
+1978,Gravitas,Pentanet.GG,554,-1000,-1000,554,2022,lco
+1979,Mammoth,ORDER,266,-385,-385,266,2022,lco
+1980,Chiefs Esports Club,Dire Wolves,-769,448,-769,448,2022,lco
+1981,Kanga Esports,PEACE,484,-909,484,-909,2022,lco
+1982,Dire Wolves,ORDER,250,-370,-370,250,2022,lco
+1983,Pentanet.GG,Chiefs Esports Club,164,-227,-227,164,2022,lco
+1984,Kanga Esports,Mammoth,-217,158,158,-217,2022,lco
+1985,PEACE,Gravitas,-1429,648,-1429,648,2022,lco
+1986,Mammoth,Dire Wolves,233,-333,-333,233,2022,lco
+1987,Chiefs Esports Club,PEACE,-179,131,131,-179,2022,lco
+1988,ORDER,Pentanet.GG,135,-185,-185,135,2022,lco
+1989,Gravitas,Kanga Esports,268,-400,268,-400,2022,lco
+1990,Gravitas,Mammoth,112,-152,-152,112,2022,lco
+1991,PEACE,ORDER,-141,104,-141,104,2022,lco
+1992,Kanga Esports,Chiefs Esports Club,341,-556,-556,341,2022,lco
+1993,Pentanet.GG,Dire Wolves,-500,326,-500,326,2022,lco
+1994,Mammoth,Pentanet.GG,689,-1667,689,-1667,2022,lco
+1995,Chiefs Esports Club,Gravitas,-1429,642,-1429,642,2022,lco
+1996,DRX,Liiv SANDBOX,217,-294,217,-294,2022,lck
+1997,DRX,KT Rolster,211,-286,211,-286,2022,lck
+1998,Dplus Kia,Liiv SANDBOX,-110,-119,-110,-119,2022,lck
+1999,Gen.G,T1,-270,198,-270,198,2022,lck
+2000,Dplus Kia,T1,270,-370,-370,270,2022,lck
+2001,Liiv SANDBOX,Gen.G,476,-769,-769,476,2022,lck
+2002,KT Rolster,Dplus Kia,118,-152,-152,118,2022,lck
+2003,DRX,Liiv SANDBOX,303,-417,-417,303,2022,lck
+2004,Nongshim RedForce,Kwangdong Freecs,-105,-120,-105,-120,2022,lck
+2005,Hanwha Life,DRX,398,-556,398,-556,2022,lck
+2006,DRX,T1,363,-526,-526,363,2022,lck
+2007,KT Rolster,Kwangdong Freecs,-120,-105,-120,-105,2022,lck
+2008,Liiv SANDBOX,Hanwha Life,-417,295,-417,295,2022,lck
+2009,Brion,Nongshim RedForce,188,-244,188,-244,2022,lck
+2010,Dplus Kia,Kwangdong Freecs,-208,185,-208,185,2022,lck
+2011,KT Rolster,DRX,190,-250,190,-250,2022,lck
+2012,Gen.G,Liiv SANDBOX,-526,354,-526,354,2022,lck
+2013,Hanwha Life,T1,865,-2000,-2000,865,2022,lck
+2014,T1,Brion,-2000,896,-2000,896,2022,lck
+2015,Gen.G,DRX,-400,289,-400,289,2022,lck
+2016,Hanwha Life,Dplus Kia,582,-1000,-1000,582,2022,lck
+2017,Nongshim RedForce,Liiv SANDBOX,134,-172,-172,134,2022,lck
+2018,KT Rolster,Kwangdong Freecs,-141,108,108,-141,2022,lck
+2019,T1,Gen.G,-106,-120,-106,-120,2022,lck
+2020,Liiv SANDBOX,Hanwha Life,-270,204,-270,204,2022,lck
+2021,Dplus Kia,DRX,-357,267,267,-357,2022,lck
+2022,Brion,Kwangdong Freecs,169,-217,-217,169,2022,lck
+2023,Nongshim RedForce,KT Rolster,114,-147,-147,114,2022,lck
+2024,KT Rolster,Hanwha Life,-227,177,-227,177,2022,lck
+2025,Nongshim RedForce,Dplus Kia,328,-476,-476,328,2022,lck
+2026,T1,Kwangdong Freecs,-2000,874,-2000,874,2022,lck
+2027,DRX,Kwangdong Freecs,-169,135,135,-169,2022,lck
+2028,Dplus Kia,Brion,-370,278,-370,278,2022,lck
+2029,Kwangdong Freecs,Brion,-128,-105,-128,-105,2022,lck
+2030,T1,DRX,-500,333,-500,333,2022,lck
+2031,Kwangdong Freecs,Liiv SANDBOX,-526,354,-526,354,2022,lck
+2032,Brion,Dplus Kia,329,-455,329,-455,2022,lck
+2033,Nongshim RedForce,Hanwha Life,-182,142,-182,142,2022,lck
+2034,KT Rolster,Gen.G,258,-357,-357,258,2022,lck
+2035,T1,Liiv SANDBOX,-2000,868,-2000,868,2022,lck
+2036,Kwangdong Freecs,Hanwha Life,-370,266,-370,266,2022,lck
+2037,DRX,Dplus Kia,185,-238,-238,185,2022,lck
+2038,Nongshim RedForce,KT Rolster,141,-182,-182,141,2022,lck
+2039,DRX,Kwangdong Freecs,-164,125,-164,125,2022,lck
+2040,T1,Brion,-3333,1124,-3333,1124,2022,lck
+2041,Hanwha Life,Gen.G,568,-1000,-1000,568,2022,lck
+2042,Liiv SANDBOX,KT Rolster,678,-833,-833,678,2022,lck
+2043,Dplus Kia,Nongshim RedForce,-357,260,-357,260,2022,lck
+2044,Kwangdong Freecs,T1,372,-556,-556,372,2022,lck
+2045,Brion,Liiv SANDBOX,-370,275,-370,275,2022,lck
+2046,Hanwha Life,Kwangdong Freecs,102,-133,-133,102,2022,lck
+2047,Nongshim RedForce,Gen.G,295,-417,-417,295,2022,lck
+2048,Liiv SANDBOX,Brion,131,-172,131,-172,2022,lck
+2049,Brion,KT Rolster,164,-213,-213,164,2022,lck
+2050,Kwangdong Freecs,Nongshim RedForce,-161,124,-161,124,2022,lck
+2051,Liiv SANDBOX,Dplus Kia,472,-714,-714,472,2022,lck
+2052,T1,Gen.G,-345,252,-345,252,2022,lck
+2053,DRX,Hanwha Life,-164,127,-164,127,2022,lck
+2054,Nongshim RedForce,Brion,-120,-109,-109,-120,2022,lck
+2055,Liiv SANDBOX,Gen.G,438,-667,-667,438,2022,lck
+2056,Dplus Kia,Kwangdong Freecs,-667,419,-667,419,2022,lck
+2057,DRX,KT Rolster,225,-312,225,-312,2022,lck
+2058,T1,Hanwha Life,-1111,628,-1111,628,2022,lck
+2059,Liiv SANDBOX,Hanwha Life,110,-141,-141,110,2022,lck
+2060,T1,Dplus Kia,-147,110,-147,110,2022,lck
+2061,Nongshim RedForce,DRX,-370,269,269,-370,2022,lck
+2062,Gen.G,KT Rolster,-556,379,379,-556,2022,lck
+2063,Brion,Kwangdong Freecs,121,-156,121,-156,2022,lck
+2064,Hanwha Life,Dplus Kia,474,-769,-769,474,2022,lck
+2065,T1,Nongshim RedForce,-227,169,-227,169,2022,lck
+2066,KT Rolster,Liiv SANDBOX,-357,262,262,-357,2022,lck
+2067,DRX,Brion,-110,-122,-110,-122,2022,lck
+2068,Gen.G,Kwangdong Freecs,-769,474,-769,474,2022,lck
+2069,Kwangdong Freecs,DRX,-172,131,131,-172,2022,lck
+2070,Liiv SANDBOX,T1,508,-833,-833,508,2022,lck
+2071,Gen.G,Hanwha Life,-1111,604,-1111,604,2022,lck
+2072,Dplus Kia,Brion,-476,330,-476,330,2022,lck
+2073,KT Rolster,Nongshim RedForce,131,-169,-169,131,2022,lck
+2074,Liiv SANDBOX,Kwangdong Freecs,110,-141,-141,110,2022,lck
+2075,Brion,Gen.G,408,-476,-476,408,2022,lck
+2076,Invictus Gaming,Top Esports,583,-1000,-1000,583,2023,lpl
+2077,Anyone's Legend,Rare Atom,139,-175,139,-175,2023,lpl
+2078,Ninjas in Pyjamas,Weibo Gaming,303,-400,-400,303,2023,lpl
+2079,LNG Esports,Team WE,-185,147,-185,147,2023,lpl
+2080,Oh My God,FunPlus Phoenix,-526,363,-526,363,2023,lpl
+2081,LGD Gaming,Bilibili Gaming,817,-2000,-2000,817,2023,lpl
+2082,EDward Gaming,Ultra Prime,-476,319,-476,319,2023,lpl
+2083,Anyone's Legend,Royal Never Give Up,363,-526,363,-526,2023,lpl
+2084,Rare Atom,TT Gaming,-115,-110,-115,-110,2023,lpl
+2085,Bilibili Gaming,Invictus Gaming,-1111,627,-1111,627,2023,lpl
+2086,Weibo Gaming,FunPlus Phoenix,-909,531,531,-909,2023,lpl
+2087,JD Gaming,Ninjas in Pyjamas,-1111,634,-1111,634,2023,lpl
+2088,Top Esports,Team WE,-323,238,238,-323,2023,lpl
+2089,Oh My God,LGD Gaming,-833,505,-833,505,2023,lpl
+2090,Invictus Gaming,LNG Esports,749,-1429,749,-1429,2023,lpl
+2091,Rare Atom,EDward Gaming,276,-370,-370,276,2023,lpl
+2092,Ultra Prime,Royal Never Give Up,332,-476,-476,332,2023,lpl
+2093,Weibo Gaming,Bilibili Gaming,124,-156,-156,124,2023,lpl
+2094,FunPlus Phoenix,Anyone's Legend,-185,146,146,-185,2023,lpl
+2095,Team WE,TT Gaming,-400,296,296,-400,2023,lpl
+2096,Top Esports,JD Gaming,190,-250,-250,190,2023,lpl
+2097,Ultra Prime,LNG Esports,651,-1111,-1111,651,2023,lpl
+2098,LGD Gaming,FunPlus Phoenix,110,-141,-141,110,2023,lpl
+2099,Oh My God,Team WE,-135,106,-135,106,2023,lpl
+2100,Royal Never Give Up,EDward Gaming,195,-256,195,-256,2023,lpl
+2101,Invictus Gaming,Rare Atom,112,-143,-143,112,2023,lpl
+2102,Bilibili Gaming,LNG Esports,-109,-116,-109,-116,2023,lpl
+2103,Weibo Gaming,TT Gaming,-714,463,-714,463,2023,lpl
+2104,EDward Gaming,Anyone's Legend,-833,532,-833,532,2023,lpl
+2105,FunPlus Phoenix,Invictus Gaming,114,-149,114,-149,2023,lpl
+2106,Ultra Prime,Rare Atom,135,-169,135,-169,2023,lpl
+2107,Anyone's Legend,LGD Gaming,-130,102,102,-130,2023,lpl
+2108,Ninjas in Pyjamas,Team WE,141,-179,-179,141,2023,lpl
+2109,JD Gaming,Bilibili Gaming,-208,161,-208,161,2023,lpl
+2110,Royal Never Give Up,Top Esports,289,-400,-400,289,2023,lpl
+2111,TT Gaming,Ninjas in Pyjamas,143,-182,-182,143,2023,lpl
+2112,LNG Esports,EDward Gaming,-152,120,-152,120,2023,lpl
+2113,Rare Atom,Weibo Gaming,484,-769,-769,484,2023,lpl
+2114,Invictus Gaming,Oh My God,272,-370,-370,272,2023,lpl
+2115,Ultra Prime,Ninjas in Pyjamas,189,-244,-244,189,2023,lpl
+2116,FunPlus Phoenix,Royal Never Give Up,254,-345,-345,254,2023,lpl
+2117,Top Esports,LGD Gaming,-1250,662,-1250,662,2023,lpl
+2118,TT Gaming,Bilibili Gaming,563,-1000,-1000,563,2023,lpl
+2119,JD Gaming,Anyone's Legend,-1667,783,-1667,783,2023,lpl
+2120,LNG Esports,Rare Atom,-909,571,-909,571,2023,lpl
+2121,Top Esports,FunPlus Phoenix,-714,451,-714,451,2023,lpl
+2122,EDward Gaming,Invictus Gaming,-667,424,-667,424,2023,lpl
+2123,Weibo Gaming,LGD Gaming,-1000,582,-1000,582,2023,lpl
+2124,JD Gaming,Royal Never Give Up,-667,440,-667,440,2023,lpl
+2125,Ninjas in Pyjamas,Oh My God,173,-222,-222,173,2023,lpl
+2126,Bilibili Gaming,Anyone's Legend,-1250,662,-1250,662,2023,lpl
+2127,TT Gaming,Ultra Prime,-208,163,163,-208,2023,lpl
+2128,Top Esports,Weibo Gaming,104,-135,104,-135,2023,lpl
+2129,Rare Atom,LGD Gaming,-196,152,-196,152,2023,lpl
+2130,FunPlus Phoenix,LNG Esports,592,-1000,-1000,592,2023,lpl
+2131,EDward Gaming,JD Gaming,294,-400,-400,294,2023,lpl
+2132,Team WE,Invictus Gaming,-238,184,-238,184,2023,lpl
+2133,Royal Never Give Up,Oh My God,123,-156,-156,123,2023,lpl
+2134,Bilibili Gaming,Ultra Prime,-769,448,-769,448,2023,lpl
+2135,Top Esports,TT Gaming,-435,304,-435,304,2023,lpl
+2136,Anyone's Legend,Ninjas in Pyjamas,197,-256,-256,197,2023,lpl
+2137,LNG Esports,Weibo Gaming,-159,123,123,-159,2023,lpl
+2138,LGD Gaming,JD Gaming,1111,-3333,-3333,1111,2023,lpl
+2139,Rare Atom,FunPlus Phoenix,-108,-118,-108,-118,2023,lpl
+2140,EDward Gaming,Bilibili Gaming,100,-127,-127,100,2023,lpl
+2141,Invictus Gaming,Royal Never Give Up,141,-182,-182,141,2023,lpl
+2142,Oh My God,JD Gaming,338,-556,-556,338,2023,lpl
+2143,Ninjas in Pyjamas,Top Esports,343,-476,-476,343,2023,lpl
+2144,Team WE,Ultra Prime,-278,213,-278,213,2023,lpl
+2145,TT Gaming,Anyone's Legend,-357,264,264,-357,2023,lpl
+2146,Weibo Gaming,Rare Atom,-667,409,-667,409,2023,lpl
+2147,Anyone's Legend,TT Gaming,233,-312,-312,233,2023,lpl
+2148,Team WE,Ninjas in Pyjamas,-189,147,-189,147,2023,lpl
+2149,Ultra Prime,JD Gaming,100,-2500,-2500,1001,2023,lpl
+2150,Bilibili Gaming,Oh My God,-189,147,147,-189,2023,lpl
+2151,TT Gaming,EDward Gaming,225,-303,-303,225,2023,lpl
+2152,LGD Gaming,LNG Esports,484,-769,-769,484,2023,lpl
+2153,FunPlus Phoenix,Top Esports,309,-435,-435,309,2023,lpl
+2154,Rare Atom,Royal Never Give Up,239,-312,-312,239,2023,lpl
+2155,Invictus Gaming,Bilibili Gaming,213,-286,-286,213,2023,lpl
+2156,LNG Esports,Ultra Prime,-1429,736,-1429,736,2023,lpl
+2157,Weibo Gaming,Team WE,-357,259,-357,259,2023,lpl
+2158,Top Esports,Oh My God,-175,136,136,-175,2023,lpl
+2159,LGD Gaming,JD Gaming,780,-1667,-1667,780,2023,lpl
+2160,Ninjas in Pyjamas,Royal Never Give Up,382,-556,382,-556,2023,lpl
+2161,LNG Esports,Invictus Gaming,-588,393,-588,393,2023,lpl
+2162,FunPlus Phoenix,EDward Gaming,629,-1250,629,-1250,2023,lpl
+2163,Top Esports,Bilibili Gaming,-172,135,135,-172,2023,lpl
+2164,Rare Atom,JD Gaming,889,-2000,-2000,889,2023,lpl
+2165,Weibo Gaming,Ninjas in Pyjamas,-769,488,-769,488,2023,lpl
+2166,Top Esports,Royal Never Give Up,-256,197,-256,197,2023,lpl
+2167,Weibo Gaming,Anyone's Legend,-1250,659,-1250,659,2023,lpl
+2168,LGD Gaming,Bilibili Gaming,505,-833,505,-833,2023,lpl
+2169,Rare Atom,Invictus Gaming,116,-147,-147,116,2023,lpl
+2170,Team WE,JD Gaming,899,-2000,-2000,899,2023,lpl
+2171,TT Gaming,FunPlus Phoenix,-400,295,-400,295,2023,lpl
+2172,Weibo Gaming,LGD Gaming,-1429,696,-1429,696,2023,lpl
+2173,Ninjas in Pyjamas,Oh My God,156,-200,-200,156,2023,lpl
+2174,Top Esports,Team WE,-769,480,-769,480,2023,lpl
+2175,Royal Never Give Up,Anyone's Legend,-1111,656,656,-1111,2023,lpl
+2176,Ultra Prime,Bilibili Gaming,338,-500,-500,338,2023,lpl
+2177,Rare Atom,EDward Gaming,488,-769,-769,488,2023,lpl
+2178,Weibo Gaming,LNG Esports,-172,135,135,-172,2023,lpl
+2179,Oh My God,Invictus Gaming,102,-133,102,-133,2023,lpl
+2180,LGD Gaming,FunPlus Phoenix,127,-161,127,-161,2023,lpl
+2181,Top Esports,JD Gaming,106,-135,-135,106,2023,lpl
+2182,Ultra Prime,EDward Gaming,639,-1250,-1250,639,2023,lpl
+2183,TT Gaming,Royal Never Give Up,124,-156,-156,124,2023,lpl
+2184,Team WE,Rare Atom,-127,100,-127,100,2023,lpl
+2185,Ninjas in Pyjamas,Anyone's Legend,-278,212,-278,212,2023,lpl
+2186,Royal Never Give Up,JD Gaming,291,-400,-400,291,2023,lpl
+2187,EDward Gaming,Ninjas in Pyjamas,-286,219,-286,219,2023,lpl
+2188,Oh My God,LNG Esports,175,-222,-222,175,2023,lpl
+2189,Bilibili Gaming,Team WE,-357,264,264,-357,2023,lpl
+2190,Ultra Prime,TT Gaming,150,-192,-192,150,2023,lpl
+2191,Invictus Gaming,LGD Gaming,-476,334,-476,334,2023,lpl
+2192,Anyone's Legend,JD Gaming,875,-2000,-2000,875,2023,lpl
+2193,FunPlus Phoenix,Weibo Gaming,348,-500,-500,348,2023,lpl
+2194,EDward Gaming,Royal Never Give Up,-135,106,-135,106,2023,lpl
+2195,Rare Atom,LNG Esports,194,-256,-256,194,2023,lpl
+2196,Top Esports,Ninjas in Pyjamas,-476,336,-476,336,2023,lpl
+2197,Bilibili Gaming,Weibo Gaming,159,-204,159,-204,2023,lpl
+2198,Invictus Gaming,TT Gaming,-222,181,181,-222,2023,lpl
+2199,Team WE,Oh My God,118,-149,-149,118,2023,lpl
+2200,Ultra Prime,FunPlus Phoenix,102,-141,-141,102,2023,lpl
+2201,LGD Gaming,Anyone's Legend,121,-154,121,-154,2023,lpl
+2202,Top Esports,Rare Atom,-500,359,-500,359,2023,lpl
+2203,Ninjas in Pyjamas,JD Gaming,401,-588,-588,401,2023,lpl
+2204,LNG Esports,Royal Never Give Up,-104,-122,-104,-122,2023,lpl
+2205,Invictus Gaming,EDward Gaming,177,-233,177,-233,2023,lpl
+2206,Immortals,FlyQuest eSports,204,-278,-278,204,2023,lcs
+2207,Team SoloMid,100 Thieves,131,-172,-172,131,2023,lcs
+2208,Dignitas,NRG Esports,-102,-130,-102,-130,2023,lcs
+2209,Team Liquid,Golden Guardians,-116,-114,-114,-116,2023,lcs
+2210,Cloud9,Evil Geniuses,-167,125,-167,125,2023,lcs
+2211,Golden Guardians,100 Thieves,-172,131,-172,131,2023,lcs
+2212,Evil Geniuses,Immortals,-333,238,-333,238,2023,lcs
+2213,Dignitas,Team SoloMid,-112,-118,-112,-118,2023,lcs
+2214,Team Liquid,Cloud9,165,-222,165,-222,2023,lcs
+2215,NRG Esports,FlyQuest eSports,106,-141,-141,106,2023,lcs
+2216,Cloud9,Immortals,-588,363,-588,363,2023,lcs
+2217,100 Thieves,Dignitas,-156,118,-156,118,2023,lcs
+2218,NRG Esports,Golden Guardians,150,-200,150,-200,2023,lcs
+2219,FlyQuest eSports,Team Liquid,143,-189,143,-189,2023,lcs
+2220,Team SoloMid,Evil Geniuses,179,-244,-244,179,2023,lcs
+2221,Cloud9,NRG Esports,-476,322,322,-476,2023,lcs
+2222,FlyQuest eSports,Dignitas,-204,154,154,-204,2023,lcs
+2223,Team Liquid,Evil Geniuses,-175,133,133,-175,2023,lcs
+2224,Immortals,100 Thieves,156,-208,-208,156,2023,lcs
+2225,Team SoloMid,Golden Guardians,189,-256,-256,189,2023,lcs
+2226,100 Thieves,Golden Guardians,-167,127,127,-167,2023,lcs
+2227,Cloud9,Counter Logic Gaming,-500,332,-500,332,2023,lcs
+2228,FlyQuest eSports,100 Thieves,-244,177,-244,177,2023,lcs
+2229,Immortals,100 Thieves,219,-294,-294,219,2023,lcs
+2230,Dignitas,Golden Guardians,195,-263,195,-263,2023,lcs
+2231,Team Liquid,Evil Geniuses,112,-145,112,-145,2023,lcs
+2232,Team SoloMid,FlyQuest eSports,247,-333,-333,247,2023,lcs
+2233,Counter Logic Gaming,Cloud9,204,-270,204,-270,2023,lcs
+2234,FlyQuest eSports,Golden Guardians,-208,158,-208,158,2023,lcs
+2235,Immortals,Cloud9,420,-667,-667,420,2023,lcs
+2236,Counter Logic Gaming,Team Liquid,137,-179,137,-179,2023,lcs
+2237,Team SoloMid,Dignitas,-196,148,-196,148,2023,lcs
+2238,Evil Geniuses,100 Thieves,-172,133,133,-172,2023,lcs
+2239,Dignitas,Team Liquid,213,-286,-286,213,2023,lcs
+2240,Immortals,Evil Geniuses,349,-526,349,-526,2023,lcs
+2241,Team SoloMid,100 Thieves,139,-185,-185,139,2023,lcs
+2242,Counter Logic Gaming,Golden Guardians,131,-175,131,-175,2023,lcs
+2243,FlyQuest eSports,Cloud9,-101,-132,-132,-101,2023,lcs
+2244,Team SoloMid,Golden Guardians,129,-169,-169,129,2023,lcs
+2245,Dignitas,100 Thieves,179,-238,-238,179,2023,lcs
+2246,100 Thieves,Golden Guardians,-167,127,127,-167,2023,lcs
+2247,Cloud9,Counter Logic Gaming,-500,332,-500,332,2023,lcs
+2248,FlyQuest eSports,100 Thieves,-244,177,-244,177,2023,lcs
+2249,Immortals,100 Thieves,219,-294,-294,219,2023,lcs
+2250,Dignitas,Golden Guardians,195,-263,195,-263,2023,lcs
+2251,Team Liquid,Evil Geniuses,112,-145,112,-145,2023,lcs
+2252,Team SoloMid,FlyQuest eSports,247,-333,-333,247,2023,lcs
+2253,Counter Logic Gaming,Cloud9,204,-270,204,-270,2023,lcs
+2254,FlyQuest eSports,Golden Guardians,-208,158,-208,158,2023,lcs
+2255,Immortals,Cloud9,420,-667,-667,420,2023,lcs
+2256,Counter Logic Gaming,Team Liquid,137,-179,137,-179,2023,lcs
+2257,Team SoloMid,Dignitas,-196,148,-196,148,2023,lcs
+2258,Evil Geniuses,100 Thieves,-172,133,133,-172,2023,lcs
+2259,Dignitas,Team Liquid,213,-286,-286,213,2023,lcs
+2260,Immortals,Evil Geniuses,349,-526,349,-526,2023,lcs
+2261,Team SoloMid,100 Thieves,139,-185,-185,139,2023,lcs
+2262,Counter Logic Gaming,Golden Guardians,131,-175,131,-175,2023,lcs
+2263,FlyQuest eSports,Cloud9,-101,-132,-132,-101,2023,lcs
+2264,Team SoloMid,Golden Guardians,129,-169,-169,129,2023,lcs
+2265,Dignitas,100 Thieves,179,-238,-238,179,2023,lcs
+2266,Fnatic,Vitality,-161,122,-161,122,2023,lec
+2267,KOI,SK Gaming,-169,127,127,-169,2023,lec
+2268,G2 Esports,Astralis,-357,254,-357,254,2023,lec
+2269,MAD Lions,Excel Esports,-333,243,243,-333,2023,lec
+2270,Team BDS,Heretics,-116,-112,-112,-116,2023,lec
+2271,MAD Lions,Fnatic,-169,127,127,-169,2023,lec
+2272,G2 Esports,SK Gaming,-417,282,-417,282,2023,lec
+2273,Heretics,KOI,-132,100,100,-132,2023,lec
+2274,Astralis,Vitality,152,-200,152,-200,2023,lec
+2275,Excel Esports,Team BDS,152,-204,152,-204,2023,lec
+2276,Astralis,MAD Lions,191,-256,-256,191,2023,lec
+2277,Vitality,G2 Esports,150,-200,-200,150,2023,lec
+2278,KOI,Fnatic,118,-154,-154,118,2023,lec
+2279,Excel Esports,Heretics,187,-256,187,-256,2023,lec
+2280,SK Gaming,Team BDS,118,-156,-156,118,2023,lec
+2281,Vitality,Heretics,-222,166,166,-222,2023,lec
+2282,Fnatic,G2 Esports,171,-233,-233,171,2023,lec
+2283,KOI,MAD Lions,158,-213,-213,158,2023,lec
+2284,Team BDS,Astralis,-250,181,181,-250,2023,lec
+2285,Excel Esports,SK Gaming,152,-204,-204,152,2023,lec
+2286,Fnatic,G2 Esports,250,-333,250,-333,2023,lec
+2287,Vitality,Heretics,-303,221,-303,221,2023,lec
+2288,Team BDS,KOI,104,-133,104,-133,2023,lec
+2289,SK Gaming,MAD Lions,-128,-101,-101,-128,2023,lec
+2290,Astralis,Excel Esports,-161,125,-161,125,2023,lec
+2291,SK Gaming,G2 Esports,188,-256,-256,188,2023,lec
+2292,Fnatic,MAD Lions,150,-196,150,-196,2023,lec
+2293,Vitality,Team BDS,-250,187,187,-250,2023,lec
+2294,KOI,Excel Esports,-263,196,-263,196,2023,lec
+2295,Heretics,Astralis,-105,-123,-123,-105,2023,lec
+2296,Fnatic,KOI,204,-270,204,-270,2023,lec
+2297,Team BDS,G2 Esports,242,-333,-333,242,2023,lec
+2298,Astralis,Vitality,254,-357,254,-357,2023,lec
+2299,MAD Lions,Heretics,-270,197,197,-270,2023,lec
+2300,Excel Esports,SK Gaming,186,-250,-250,186,2023,lec
+2301,G2 Esports,Vitality,-119,-110,-119,-110,2023,lec
+2302,SK Gaming,KOI,-132,102,102,-132,2023,lec
+2303,Heretics,Fnatic,-159,121,121,-159,2023,lec
+2304,Excel Esports,MAD Lions,248,-345,248,-345,2023,lec
+2305,Team BDS,Astralis,-135,104,-135,104,2023,lec
+2306,KOI,G2 Esports,200,-270,200,-270,2023,lec
+2307,Vitality,SK Gaming,-189,142,-189,142,2023,lec
+2308,Fnatic,Team BDS,181,-244,-244,181,2023,lec
+2309,Heretics,Excel Esports,-118,-110,-118,-110,2023,lec
+2310,Astralis,MAD Lions,150,-192,-192,150,2023,lec
+2311,Fnatic,Vitality,287,-417,-417,287,2023,lec
+2312,G2 Esports,Excel Esports,-526,347,-526,347,2023,lec
+2313,MAD Lions,KOI,-105,-123,-105,-123,2023,lec
+2314,Heretics,Team BDS,117,-152,-152,117,2023,lec
+2315,SK Gaming,Astralis,-147,114,-147,114,2023,lec
+2316,KOI,Heretics,-227,174,-227,174,2023,lec
+2317,Astralis,G2 Esports,401,-625,401,-625,2023,lec
+2318,SK Gaming,Fnatic,-189,144,-189,144,2023,lec
+2319,Excel Esports,Vitality,231,-312,-312,231,2023,lec
+2320,Team BDS,MAD Lions,179,-238,179,-238,2023,lec
+2321,Heretics,G2 Esports,326,-476,-476,326,2023,lec
+2322,Astralis,KOI,238,-323,238,-323,2023,lec
+2323,Vitality,MAD Lions,-118,-110,-118,-110,2023,lec
+2324,SK Gaming,Team BDS,-125,-103,-125,-103,2023,lec
+2325,Fnatic,Excel Esports,-149,114,114,-149,2023,lec
+2326,G2 Esports,MAD Lions,-333,234,-333,234,2023,lec
+2327,KOI,MAD Lions,-139,106,106,-139,2023,lec
+2328,MAD Lions,SK Gaming,-204,152,-204,152,2023,lec
+2329,G2 Esports,KOI,-204,152,-204,152,2023,lec
+2330,MAD Lions,Astralis,-476,313,-476,313,2023,lec
+2331,Vitality,SK Gaming,-238,175,175,-238,2023,lec
+2332,Team BDS,Astralis,-238,174,174,-238,2023,lec
+2333,SK Gaming,Heretics,-149,112,-149,112,2023,lec
+2334,MAD Lions,G2 Esports,131,-172,-172,131,2023,lec
+2335,KOI,Vitality,106,-139,106,-139,2023,lec
+2336,G2 Esports,Team BDS,-435,301,-435,301,2023,lec
+2337,MAD Lions,Astralis,-833,488,-833,488,2023,lec
+2338,SK Gaming,KOI,110,-145,-145,110,2023,lec
+2339,Vitality,Heretics,-385,271,-385,271,2023,lec
+2340,Vitality,Excel Esports,-385,266,-385,266,2023,lec
+2341,MAD Lions,G2 Esports,140,-185,140,-185,2023,lec
+2342,SK Gaming,Fnatic,-137,102,-137,102,2023,lec
+2343,KOI,Astralis,-263,189,-263,189,2023,lec
+2344,Team BDS,Heretics,-125,-106,-125,-106,2023,lec
+2345,G2 Esports,KOI,-189,144,-189,144,2023,lec
+2346,Astralis,Fnatic,184,-250,184,-250,2023,lec
+2347,Heretics,MAD Lions,160,-217,-217,160,2023,lec
+2348,Team BDS,Vitality,186,-256,-256,186,2023,lec
+2349,SK Gaming,Excel Esports,-196,147,-196,147,2023,lec
+2350,Vitality,KOI,-217,163,163,-217,2023,lec
+2351,Fnatic,MAD Lions,114,-152,-152,114,2023,lec
+2352,Team BDS,G2 Esports,204,-286,-286,204,2023,lec
+2353,Heretics,Excel Esports,-147,112,-147,112,2023,lec
+2354,SK Gaming,Astralis,-256,185,185,-256,2023,lec
+2355,Fnatic,Heretics,-169,127,127,-169,2023,lec
+2356,INTZ-eSports,paiN Gaming,177,-244,-244,177,2023,cblol
+2357,Liberty,RED Canids,250,-357,-357,250,2023,cblol
+2358,Vivo Keyd,LOUD,150,-204,-204,150,2023,cblol
+2359,KaBuM! e-Sports,FURIA Esports,168,-233,-233,168,2023,cblol
+2360,Fluxo,Los Grandes,-172,129,-172,129,2023,cblol
+2361,LOUD,KaBuM! e-Sports,-769,444,-769,444,2023,cblol
+2362,Los Grandes,Vivo Keyd,114,-154,-154,114,2023,cblol
+2363,Fluxo,Liberty,-333,231,-333,231,2023,cblol
+2364,FURIA Esports,INTZ-eSports,-185,137,137,-185,2023,cblol
+2365,RED Canids,paiN Gaming,102,-137,102,-137,2023,cblol
+2366,Liberty,LOUD,305,-455,-455,305,2023,cblol
+2367,Los Grandes,FURIA Esports,-149,112,112,-149,2023,cblol
+2368,RED Canids,Fluxo,-200,149,149,-200,2023,cblol
+2369,paiN Gaming,Vivo Keyd,-200,149,-200,149,2023,cblol
+2370,INTZ-eSports,KaBuM! e-Sports,-169,125,-169,125,2023,cblol
+2371,Fluxo,FURIA Esports,-182,135,135,-182,2023,cblol
+2372,paiN Gaming,Los Grandes,-143,106,-143,106,2023,cblol
+2373,KaBuM! e-Sports,Liberty,-164,124,124,-164,2023,cblol
+2374,LOUD,RED Canids,-185,139,139,-185,2023,cblol
+2375,Vivo Keyd,INTZ-eSports,-312,224,224,-312,2023,cblol
+2376,Los Grandes,Liberty,-357,249,-357,249,2023,cblol
+2377,FURIA Esports,paiN Gaming,274,-400,274,-400,2023,cblol
+2378,INTZ-eSports,RED Canids,197,-270,-270,197,2023,cblol
+2379,LOUD,Fluxo,-244,175,175,-244,2023,cblol
+2380,Vivo Keyd,KaBuM! e-Sports,-222,163,-222,163,2023,cblol
+2381,RED Canids,FURIA Esports,-303,220,-303,220,2023,cblol
+2382,Fluxo,Vivo Keyd,-122,-106,-106,-122,2023,cblol
+2383,KaBuM! e-Sports,Los Grandes,140,-185,-185,140,2023,cblol
+2384,Liberty,INTZ-eSports,-119,-112,-112,-119,2023,cblol
+2385,paiN Gaming,LOUD,139,-185,139,-185,2023,cblol
+2386,LOUD,paiN Gaming,-189,141,-189,141,2023,cblol
+2387,paiN Gaming,Los Grandes,-145,110,-145,110,2023,cblol
+2388,Los Grandes,FURIA Esports,-141,104,-141,104,2023,cblol
+2389,paiN Gaming,LOUD,-122,-112,-112,-122,2023,cblol
+2390,RED Canids,FURIA Esports,108,-145,-145,108,2023,cblol
+2391,LOUD,Los Grandes,-182,135,-182,135,2023,cblol
+2392,paiN Gaming,RED Canids,-227,165,-227,165,2023,cblol
+2393,Fluxo,FURIA Esports,-125,-106,-106,-125,2023,cblol
+2394,Los Grandes,FURIA Esports,-256,188,188,-256,2023,cblol
+2395,Fluxo,RED Canids,-128,-106,-106,-128,2023,cblol
+2396,Vivo Keyd,INTZ-eSports,-114,-120,-114,-120,2023,cblol
+2397,LOUD,Liberty,-417,281,-417,281,2023,cblol
+2398,paiN Gaming,KaBuM! e-Sports,-278,198,-278,198,2023,cblol
+2399,RED Canids,FURIA Esports,-154,116,116,-154,2023,cblol
+2400,KaBuM! e-Sports,Vivo Keyd,-145,108,-145,108,2023,cblol
+2401,INTZ-eSports,Fluxo,208,-294,208,-294,2023,cblol
+2402,paiN Gaming,Liberty,-400,271,-400,271,2023,cblol
+2403,LOUD,Los Grandes,114,-152,114,-152,2023,cblol
+2404,Vivo Keyd,Fluxo,161,-222,-222,161,2023,cblol
+2405,INTZ-eSports,LOUD,241,-345,-345,241,2023,cblol
+2406,Liberty,RED Canids,162,-222,-222,162,2023,cblol
+2407,FURIA Esports,paiN Gaming,121,-161,-161,121,2023,cblol
+2408,KaBuM! e-Sports,Los Grandes,235,-333,-333,235,2023,cblol
+2409,paiN Gaming,INTZ-eSports,-263,187,-263,187,2023,cblol
+2410,Los Grandes,Liberty,-476,321,-476,321,2023,cblol
+2411,RED Canids,KaBuM! e-Sports,-161,121,-161,121,2023,cblol
+2412,Fluxo,FURIA Esports,-233,167,167,-233,2023,cblol
+2413,LOUD,Vivo Keyd,-238,172,-238,172,2023,cblol
+2414,Fluxo,paiN Gaming,-175,131,131,-175,2023,cblol
+2415,Liberty,Vivo Keyd,127,-169,-169,127,2023,cblol
+2416,Los Grandes,INTZ-eSports,-417,281,-417,281,2023,cblol
+2417,LOUD,RED Canids,-147,110,-147,110,2023,cblol
+2418,FURIA Esports,KaBuM! e-Sports,-185,141,141,-185,2023,cblol
+2419,KaBuM! e-Sports,Fluxo,163,-227,-227,163,2023,cblol
+2420,paiN Gaming,Los Grandes,135,-182,135,-182,2023,cblol
+2421,FURIA Esports,LOUD,127,-169,-169,127,2023,cblol
+2422,Vivo Keyd,RED Canids,146,-196,-196,146,2023,cblol
+2423,INTZ-eSports,Liberty,-116,-115,-116,-115,2023,cblol
+2424,KaBuM! e-Sports,INTZ-eSports,-222,164,164,-222,2023,cblol
+2425,Los Grandes,Vivo Keyd,-714,438,438,-714,2023,cblol
+2426,RED Canids,paiN Gaming,100,-135,100,-135,2023,cblol
+2427,Liberty,FURIA Esports,100,-133,-133,100,2023,cblol
+2428,Fluxo,LOUD,-147,110,-147,110,2023,cblol
+2429,INTZ-eSports,FURIA Esports,124,-167,-167,124,2023,cblol
+2430,Liberty,Fluxo,150,-204,-204,150,2023,cblol
+2431,RED Canids,Los Grandes,212,-294,-294,212,2023,cblol
+2432,LOUD,KaBuM! e-Sports,-169,127,-169,127,2023,cblol
+2433,Vivo Keyd,paiN Gaming,168,-227,-227,168,2023,cblol
+2434,KaBuM! e-Sports,Liberty,-222,160,160,-222,2023,cblol
+2435,paiN Gaming,LOUD,110,-147,110,-147,2023,cblol
+2436,FURIA Esports,Vivo Keyd,-182,136,-182,136,2023,cblol
+2437,Fluxo,Los Grandes,171,-238,171,-238,2023,cblol
+2438,INTZ-eSports,RED Canids,241,-345,241,-345,2023,cblol
+2439,Liberty,LOUD,167,-233,-233,167,2023,cblol
+2440,INTZ-eSports,Vivo Keyd,-137,102,102,-137,2023,cblol
+2441,KaBuM! e-Sports,paiN Gaming,-192,143,143,-192,2023,cblol
+2442,RED Canids,Fluxo,-172,127,127,-172,2023,cblol
+2443,FURIA Esports,Los Grandes,290,-417,-417,290,2023,cblol
+2444,Liberty,paiN Gaming,173,-238,173,-238,2023,cblol
+2445,Fluxo,INTZ-eSports,-189,139,-189,139,2023,cblol
+2446,FURIA Esports,RED Canids,233,-323,233,-323,2023,cblol
+2447,Los Grandes,LOUD,-200,148,-200,148,2023,cblol
+2448,Vivo Keyd,KaBuM! e-Sports,323,-500,-500,323,2023,cblol
+2449,LOUD,INTZ-eSports,-294,210,-294,210,2023,cblol
+2450,Los Grandes,KaBuM! e-Sports,-185,136,-185,136,2023,cblol
+2451,paiN Gaming,FURIA Esports,-167,123,-167,123,2023,cblol
+2452,Fluxo,Vivo Keyd,-312,225,-312,225,2023,cblol
+2453,RED Canids,Liberty,-455,309,-455,309,2023,cblol
+2454,KaBuM! e-Sports,RED Canids,168,-233,168,-233,2023,cblol
+2455,Vivo Keyd,LOUD,247,-357,-357,247,2023,cblol
+2456,Liberty,Los Grandes,288,-435,-435,288,2023,cblol
+2457,INTZ-eSports,paiN Gaming,179,-250,179,-250,2023,cblol
+2458,FURIA Esports,Fluxo,-147,108,108,-147,2023,cblol
+2459,RED Canids,LOUD,-130,-104,-130,-104,2023,cblol
+2460,INTZ-eSports,Los Grandes,347,-556,-556,347,2023,cblol
+2461,KaBuM! e-Sports,FURIA Esports,129,-175,129,-175,2023,cblol
+2462,Vivo Keyd,Liberty,-167,124,124,-167,2023,cblol
+2463,paiN Gaming,Fluxo,-133,-101,-133,-101,2023,cblol
+2464,Fluxo,KaBuM! e-Sports,-169,129,129,-169,2023,cblol
+2465,LOUD,FURIA Esports,-323,229,229,-323,2023,cblol
+2466,RED Canids,Vivo Keyd,-256,186,-256,186,2023,cblol
+2467,Los Grandes,paiN Gaming,-182,136,-182,136,2023,cblol
+2468,Liberty,INTZ-eSports,-141,104,104,-141,2023,cblol
+2469,Vivo Keyd,Los Grandes,202,-286,-286,202,2023,cblol
+2470,paiN Gaming,RED Canids,-112,-119,-119,-112,2023,cblol
+2471,FURIA Esports,Liberty,-185,138,-185,138,2023,cblol
+2472,INTZ-eSports,KaBuM! e-Sports,158,-213,-213,158,2023,cblol
+2473,LOUD,Fluxo,-455,312,312,-455,2023,cblol
+2474,Fluxo,Liberty,-385,265,265,-385,2023,cblol
+2475,KaBuM! e-Sports,LOUD,329,-526,-526,329,2023,cblol
+2476,paiN Gaming,Vivo Keyd,-278,202,-278,202,2023,cblol
+2477,FURIA Esports,INTZ-eSports,-556,344,344,-556,2023,cblol
+2478,Los Grandes,RED Canids,-278,200,200,-278,2023,cblol
+2479,Vivo Keyd,FURIA Esports,206,-286,206,-286,2023,cblol
+2480,RED Canids,INTZ-eSports,-500,318,-500,318,2023,cblol
+2481,Los Grandes,Fluxo,-200,148,-200,148,2023,cblol
+2482,Liberty,KaBuM! e-Sports,166,-227,166,-227,2023,cblol
+2483,LOUD,paiN Gaming,-172,129,-172,129,2023,cblol
+2484,Team GO,LDLC OL,-169,125,125,-169,2023,lfl
+2485,Aegis,Solary,-182,134,134,-182,2023,lfl
+2486,Karmine Corp,Team BDS Academy,-192,141,-192,141,2023,lfl
+2487,BK ROG Esports,Vitality.Bee,-270,192,192,-270,2023,lfl
+2488,IziDream,GameWard,150,-204,-204,150,2023,lfl
+2489,IziDream,Vitality.Bee,150,-204,-204,150,2023,lfl
+2490,Karmine Corp,BK ROG Esports,114,-154,114,-154,2023,lfl
+2491,Solary,LDLC OL,114,-156,114,-156,2023,lfl
+2492,Team BDS Academy,Aegis,114,-156,-156,114,2023,lfl
+2493,Team GO,GameWard,-345,237,-345,237,2023,lfl
+2494,Team BDS Academy,LDLC OL,-125,-109,-109,-125,2023,lfl
+2495,Karmine Corp,Team GO,-128,-103,-103,-128,2023,lfl
+2496,Vitality.Bee,GameWard,-217,159,159,-217,2023,lfl
+2497,Solary,BK ROG Esports,120,-159,-159,120,2023,lfl
+2498,IziDream,Aegis,307,-455,307,-455,2023,lfl
+2499,Team BDS Academy,Solary,-145,106,106,-145,2023,lfl
+2500,Aegis,BK ROG Esports,-123,-110,-110,-123,2023,lfl
+2501,Karmine Corp,IziDream,-455,300,-455,300,2023,lfl
+2502,Vitality.Bee,Team GO,131,-175,-175,131,2023,lfl
+2503,GameWard,LDLC OL,152,-208,152,-208,2023,lfl
+2504,LDLC OL,Team GO,104,-141,104,-141,2023,lfl
+2505,Aegis,Team GO,135,-182,-182,135,2023,lfl
+2506,Team GO,Team BDS Academy,-189,139,-189,139,2023,lfl
+2507,LDLC OL,Aegis,-172,129,-172,129,2023,lfl
+2508,Solary,Team BDS Academy,-147,110,110,-147,2023,lfl
+2509,Team GO,GameWard,-182,134,-182,134,2023,lfl
+2510,Solary,BK ROG Esports,-125,-106,-125,-106,2023,lfl
+2511,LDLC OL,Team BDS Academy,-179,133,-179,133,2023,lfl
+2512,Team GO,Karmine Corp,-192,144,-192,144,2023,lfl
+2513,Aegis,Vitality.Bee,-114,-119,-114,-119,2023,lfl
+2514,IziDream,GameWard,276,-400,276,-400,2023,lfl
+2515,GameWard,Team BDS Academy,-116,-114,-116,-114,2023,lfl
+2516,Team GO,Solary,-217,159,159,-217,2023,lfl
+2517,Karmine Corp,Aegis,-130,-103,-103,-130,2023,lfl
+2518,Vitality.Bee,LDLC OL,-118,-114,-114,-118,2023,lfl
+2519,IziDream,BK ROG Esports,242,-345,-345,242,2023,lfl
+2520,BK ROG Esports,Team BDS Academy,-105,-128,-105,-128,2023,lfl
+2521,Aegis,Solary,121,-161,121,-161,2023,lfl
+2522,GameWard,LDLC OL,139,-189,139,-189,2023,lfl
+2523,Karmine Corp,Vitality.Bee,119,-159,119,-159,2023,lfl
+2524,Team GO,IziDream,-625,372,-625,372,2023,lfl
+2525,IziDream,Aegis,213,-294,-294,213,2023,lfl
+2526,GameWard,BK ROG Esports,-200,148,148,-200,2023,lfl
+2527,Vitality.Bee,Solary,-132,-103,-132,-103,2023,lfl
+2528,Karmine Corp,LDLC OL,129,-172,129,-172,2023,lfl
+2529,Team GO,Team BDS Academy,-172,127,127,-172,2023,lfl
+2530,IziDream,Vitality.Bee,280,-417,-417,280,2023,lfl
+2531,Karmine Corp,Solary,112,-152,-152,112,2023,lfl
+2532,Team GO,GameWard,-156,116,-156,116,2023,lfl
+2533,Aegis,Team BDS Academy,142,-189,142,-189,2023,lfl
+2534,BK ROG Esports,LDLC OL,214,-294,214,-294,2023,lfl
+2535,GameWard,Aegis,-189,138,138,-189,2023,lfl
+2536,Solary,LDLC OL,135,-182,-182,135,2023,lfl
+2537,Vitality.Bee,Team BDS Academy,-101,-133,-133,-101,2023,lfl
+2538,Karmine Corp,IziDream,-345,241,-345,241,2023,lfl
+2539,Team GO,BK ROG Esports,-250,177,-250,177,2023,lfl
+2540,IziDream,Solary,343,-556,343,-556,2023,lfl
+2541,Team GO,LDLC OL,-152,112,112,-152,2023,lfl
+2542,Karmine Corp,Team BDS Academy,102,-141,-141,102,2023,lfl
+2543,GameWard,Vitality.Bee,-149,110,110,-149,2023,lfl
+2544,Aegis,BK ROG Esports,117,-159,117,-159,2023,lfl
+2545,Vitality.Bee,BK ROG Esports,-200,146,146,-200,2023,lfl
+2546,Solary,Team BDS Academy,-112,-120,-112,-120,2023,lfl
+2547,Karmine Corp,GameWard,-106,-127,-127,-106,2023,lfl
+2548,Team GO,Aegis,-227,166,-227,166,2023,lfl
+2549,IziDream,LDLC OL,330,-526,-526,330,2023,lfl
+2550,IziDream,Team BDS Academy,290,-435,-435,290,2023,lfl
+2551,Team GO,Vitality.Bee,-119,-115,-119,-115,2023,lfl
+2552,GameWard,Solary,-147,108,108,-147,2023,lfl
+2553,Karmine Corp,BK ROG Esports,-114,-119,-114,-119,2023,lfl
+2554,Aegis,LDLC OL,142,-192,-192,142,2023,lfl
+2555,Karmine Corp,Vitality.Bee,150,-204,150,-204,2023,lfl
+2556,Aegis,Solary,104,-139,-139,104,2023,lfl
+2557,GameWard,LDLC OL,129,-175,129,-175,2023,lfl
+2558,Team GO,IziDream,-435,293,-435,293,2023,lfl
+2559,BK ROG Esports,Team BDS Academy,114,-152,-152,114,2023,lfl
+2560,GameWard,Team BDS Academy,-111,-122,-111,-122,2023,lfl
+2561,Vitality.Bee,LDLC OL,-125,-106,-125,-106,2023,lfl
+2562,Karmine Corp,Aegis,-175,129,129,-175,2023,lfl
+2563,Team GO,Solary,-137,104,-137,104,2023,lfl
+2564,IziDream,BK ROG Esports,198,-270,-270,198,2023,lfl
+2565,IziDream,Aegis,156,-200,-200,156,2023,lfl
+2566,Vitality.Bee,Solary,-213,156,156,-213,2023,lfl
+2567,Team GO,Team BDS Academy,-152,112,112,-152,2023,lfl
+2568,Karmine Corp,LDLC OL,150,-204,-204,150,2023,lfl
+2569,BK ROG Esports,GameWard,110,-149,-149,110,2023,lfl
+2570,Team GO,BK ROG Esports,-233,167,167,-233,2023,lfl
+2571,Solary,LDLC OL,-101,-132,-132,-101,2023,lfl
+2572,Vitality.Bee,Team BDS Academy,106,-141,106,-141,2023,lfl
+2573,Karmine Corp,IziDream,-400,271,-400,271,2023,lfl
+2574,T1,Dplus Kia,-238,179,-238,179,2023,lck
+2575,KT Rolster,Nongshim RedForce,-2500,1003,-2500,1003,2023,lck
+2576,DRX,Liiv SANDBOX,211,-278,211,-278,2023,lck
+2577,Gen.G,Brion,-2000,930,-2000,930,2023,lck
+2578,KT Rolster,Kwangdong Freecs,-769,483,-769,483,2023,lck
+2579,Hanwha Life,Dplus Kia,116,-147,-147,116,2023,lck
+2580,Brion,Hanwha Life,295,-417,-417,295,2023,lck
+2581,Nongshim RedForce,DRX,-102,-123,-123,-102,2023,lck
+2582,T1,KT Rolster,-244,188,188,-244,2023,lck
+2583,Dplus Kia,Gen.G,224,-294,-294,224,2023,lck
+2584,Hanwha Life,Liiv SANDBOX,-244,188,-244,188,2023,lck
+2585,Kwangdong Freecs,Nongshim RedForce,-238,181,-238,181,2023,lck
+2586,KT Rolster,Dplus Kia,-128,100,-128,100,2023,lck
+2587,Gen.G,DRX,-2500,1011,-2500,1011,2023,lck
+2588,Kwangdong Freecs,T1,564,-909,-909,564,2023,lck
+2589,Liiv SANDBOX,Brion,-270,208,-270,208,2023,lck
+2590,Dplus Kia,Nongshim RedForce,-1667,835,-1667,835,2023,lck
+2591,Liiv SANDBOX,KT Rolster,260,-345,-345,260,2023,lck
+2592,Brion,T1,843,-1667,-1667,843,2023,lck
+2593,Hanwha Life,Kwangdong Freecs,-417,301,-417,301,2023,lck
+2594,DRX,KT Rolster,524,-833,-833,524,2023,lck
+2595,Nongshim RedForce,Gen.G,911,-2000,-2000,911,2023,lck
+2596,Dplus Kia,Brion,-1667,833,833,-1667,2023,lck
+2597,T1,Liiv SANDBOX,-1000,603,-1000,603,2023,lck
+2598,Gen.G,Kwangdong Freecs,-714,466,-714,466,2023,lck
+2599,Hanwha Life,DRX,-667,424,-667,424,2023,lck
+2600,Gen.G,T1,152,-196,152,-196,2023,lck
+2601,DRX,Dplus Kia,807,-1667,-1667,807,2023,lck
+2602,Kwangdong Freecs,Brion,-196,154,-196,154,2023,lck
+2603,Liiv SANDBOX,Nongshim RedForce,-556,388,-556,388,2023,lck
+2604,T1,Hanwha Life,-417,296,-417,296,2023,lck
+2605,KT Rolster,Gen.G,142,-182,-182,142,2023,lck
+2606,Brion,Nongshim RedForce,-204,160,160,-204,2023,lck
+2607,Kwangdong Freecs,DRX,116,118,116,118,2023,lck
+2608,Dplus Kia,Liiv SANDBOX,-385,282,-385,282,2023,lck
+2609,KT Rolster,Hanwha Life,-172,136,-172,136,2023,lck
+2610,T1,Gen.G,-345,257,257,-345,2023,lck
+2611,Gen.G,KT Rolster,-116,-110,-116,-110,2023,lck
+2612,KT Rolster,Hanwha Life,-286,212,-286,212,2023,lck
+2613,T1,Gen.G,-263,200,-263,200,2023,lck
+2614,Gen.G,Hanwha Life,-244,185,-244,185,2023,lck
+2615,T1,KT Rolster,-588,403,-588,403,2023,lck
+2616,Dplus Kia,Hanwha Life,-312,237,237,-312,2023,lck
+2617,KT Rolster,Liiv SANDBOX,-385,288,-385,288,2023,lck
+2618,KT Rolster,DRX,-769,480,-769,480,2023,lck
+2619,T1,Nongshim RedForce,-3333,118,-3333,1185,2023,lck
+2620,Gen.G,Dplus Kia,106,-135,106,-135,2023,lck
+2621,Liiv SANDBOX,Hanwha Life,154,-200,-200,154,2023,lck
+2622,Nongshim RedForce,Brion,186,-250,186,-250,2023,lck
+2623,Kwangdong Freecs,KT Rolster,354,-500,-500,354,2023,lck
+2624,Gen.G,Hanwha Life,-189,147,-189,147,2023,lck
+2625,T1,Dplus Kia,-217,164,-217,164,2023,lck
+2626,Liiv SANDBOX,Brion,-294,222,-294,222,2023,lck
+2627,Kwangdong Freecs,DRX,-159,125,-159,125,2023,lck
+2628,Kwangdong Freecs,Gen.G,484,-833,484,-833,2023,lck
+2629,Brion,Dplus Kia,869,-2000,-2000,869,2023,lck
+2630,T1,Hanwha Life,-476,324,-476,324,2023,lck
+2631,Liiv SANDBOX,DRX,-263,200,-263,200,2023,lck
+2632,KT Rolster,Brion,-588,401,-588,401,2023,lck
+2633,Nongshim RedForce,Dplus Kia,1051,-3333,-3333,1051,2023,lck
+2634,T1,DRX,-2000,869,-2000,869,2023,lck
+2635,Liiv SANDBOX,Gen.G,294,-400,-400,294,2023,lck
+2636,KT Rolster,Hanwha Life,-135,104,-135,104,2023,lck
+2637,Nongshim RedForce,Kwangdong Freecs,179,-238,-238,179,2023,lck
+2638,Gen.G,Brion,-1000,605,-1000,605,2023,lck
+2639,Liiv SANDBOX,KT Rolster,131,-167,-167,131,2023,lck
+2640,Nongshim RedForce,DRX,131,-167,-167,131,2023,lck
+2641,Hanwha Life,Dplus Kia,156,-204,-204,156,2023,lck
+2642,T1,Brion,-1667,798,-1667,798,2023,lck
+2643,Liiv SANDBOX,Kwangdong Freecs,-417,301,301,-417,2023,lck
+2644,Gen.G,Nongshim RedForce,-769,500,-769,500,2023,lck
+2645,Dplus Kia,KT Rolster,-323,247,247,-323,2023,lck
+2646,T1,Brion,-833,525,-833,525,2023,lck
+2647,Kwangdong Freecs,Liiv SANDBOX,215,-286,-286,215,2023,lck
+2648,Kwangdong Freecs,Dplus Kia,691,-1250,-1250,691,2023,lck
+2649,KT Rolster,Brion,-208,163,-208,163,2023,lck
+2650,Nongshim RedForce,T1,715,-1429,-1429,715,2023,lck
+2651,DRX,Hanwha Life,221,-294,-294,221,2023,lck
+2652,Gen.G,Liiv SANDBOX,-400,294,-400,294,2023,lck
+2653,KT Rolster,Kwangdong Freecs,-667,434,434,-667,2023,lck
+2654,Hanwha Life,T1,351,-500,351,-500,2023,lck
+2655,DRX,Brion,-169,133,133,-169,2023,lck
+2656,Gen.G,Dplus Kia,187,-244,187,-244,2023,lck
+2657,Nongshim RedForce,Liiv SANDBOX,162,-208,-208,162,2023,lck
+2658,Kwangdong Freecs,DRX,211,-278,-278,211,2023,lck
+2659,Hanwha Life,Gen.G,208,-270,-270,208,2023,lck
+2660,Liiv SANDBOX,Brion,-147,116,-147,116,2023,lck
+2661,T1,Dplus Kia,-132,104,-132,104,2023,lck
+2662,KT Rolster,Hanwha Life,112,-143,112,-143,2023,lck
+2663,Nongshim RedForce,DRX,305,-417,305,-417,2023,lck
